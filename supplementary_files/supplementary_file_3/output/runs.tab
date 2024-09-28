@@ -1,0 +1,2 @@
+	run ID	name	method	date run	command-line
+0	1	pyani_295	ANIm	2023-09-15 14:51:53.235520	/users/xmb20196/.conda/envs/pyani_v3/bin/pyani anim -i ../input/ -o ../output/ -v -l ../output/pyani_representative_genomes.log --name pyani_295 --labels ../input/custom_labels.txt --classes ../input/custom_classes.txt --workers 40
