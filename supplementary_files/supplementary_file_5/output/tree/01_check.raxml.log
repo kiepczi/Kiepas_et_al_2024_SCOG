@@ -1,0 +1,857 @@
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 19-Sep-2023 08:13:48 as follows:
+
+raxml-ng --check --msa ../output/alignments/concatenated/no_gaps_concatenated_sco.fasta --model ../output/modeltest_ng_output/output.part.bic --prefix ../output/tree/01_check
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1695107628
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:00] Reading alignment from file: ../output/alignments/concatenated/no_gaps_concatenated_sco.fasta
+[00:00:00] Loaded alignment with 295 taxa and 97464 sites
+
+Alignment comprises 137 partitions and 97464 sites
+
+Partition 0: OG0002076_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites: 234
+Gaps: 0.00 %
+Invariant sites: 74.79 %
+
+Partition 1: OG0002077_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites: 480
+Gaps: 0.00 %
+Invariant sites: 67.08 %
+
+Partition 2: OG0002078_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites: 111
+Gaps: 0.00 %
+Invariant sites: 90.09 %
+
+Partition 3: OG0002079_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites: 345
+Gaps: 0.00 %
+Invariant sites: 67.83 %
+
+Partition 4: OG0002080_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites: 222
+Gaps: 0.00 %
+Invariant sites: 61.71 %
+
+Partition 5: OG0002081_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 237
+Gaps: 0.02 %
+Invariant sites: 54.01 %
+
+Partition 6: OG0002082_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites: 180
+Gaps: 0.03 %
+Invariant sites: 42.22 %
+
+Partition 7: OG0002083_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 471
+Gaps: 0.45 %
+Invariant sites: 55.41 %
+
+Partition 8: OG0002086_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites: 171
+Gaps: 0.67 %
+Invariant sites: 64.91 %
+
+Partition 9: OG0002089_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 753
+Gaps: 1.08 %
+Invariant sites: 26.83 %
+
+Partition 10: OG0002090_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1395
+Gaps: 0.02 %
+Invariant sites: 36.63 %
+
+Partition 11: OG0002097_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites: 1044
+Gaps: 2.17 %
+Invariant sites: 42.24 %
+
+Partition 12: OG0002099_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites: 1383
+Gaps: 0.95 %
+Invariant sites: 32.39 %
+
+Partition 13: OG0002100_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 543
+Gaps: 3.14 %
+Invariant sites: 39.23 %
+
+Partition 14: OG0002102_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 750
+Gaps: 0.01 %
+Invariant sites: 34.80 %
+
+Partition 15: OG0002103_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 903
+Gaps: 0.39 %
+Invariant sites: 27.24 %
+
+Partition 16: OG0002104_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 498
+Gaps: 0.42 %
+Invariant sites: 25.90 %
+
+Partition 17: OG0002105_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 558
+Gaps: 1.44 %
+Invariant sites: 33.15 %
+
+Partition 18: OG0002107_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites: 279
+Gaps: 0.01 %
+Invariant sites: 30.11 %
+
+Partition 19: OG0002108_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 858
+Gaps: 0.28 %
+Invariant sites: 32.98 %
+
+Partition 20: OG0002109_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 642
+Gaps: 1.37 %
+Invariant sites: 32.40 %
+
+Partition 21: OG0002110_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites: 477
+Gaps: 0.00 %
+Invariant sites: 43.19 %
+
+Partition 22: OG0002111_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 924
+Gaps: 0.16 %
+Invariant sites: 29.11 %
+
+Partition 23: OG0002115_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 570
+Gaps: 0.00 %
+Invariant sites: 41.58 %
+
+Partition 24: OG0002116_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 372
+Gaps: 0.18 %
+Invariant sites: 38.44 %
+
+Partition 25: OG0002118_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 813
+Gaps: 0.09 %
+Invariant sites: 25.71 %
+
+Partition 26: OG0002119_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1074
+Gaps: 0.18 %
+Invariant sites: 50.00 %
+
+Partition 27: OG0002120_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites: 222
+Gaps: 0.88 %
+Invariant sites: 56.31 %
+
+Partition 28: OG0002121_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1056
+Gaps: 0.02 %
+Invariant sites: 49.43 %
+
+Partition 29: OG0002122_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 648
+Gaps: 1.61 %
+Invariant sites: 30.71 %
+
+Partition 30: OG0002125_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 240
+Gaps: 0.03 %
+Invariant sites: 39.17 %
+
+Partition 31: OG0002128_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 660
+Gaps: 2.43 %
+Invariant sites: 28.33 %
+
+Partition 32: OG0002129_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1077
+Gaps: 0.15 %
+Invariant sites: 31.48 %
+
+Partition 33: OG0002130_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 375
+Gaps: 3.33 %
+Invariant sites: 32.00 %
+
+Partition 34: OG0002132_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 399
+Gaps: 1.38 %
+Invariant sites: 27.32 %
+
+Partition 35: OG0002134_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 480
+Gaps: 0.90 %
+Invariant sites: 41.04 %
+
+Partition 36: OG0002135_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1011
+Gaps: 0.64 %
+Invariant sites: 37.88 %
+
+Partition 37: OG0002136_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 987
+Gaps: 0.05 %
+Invariant sites: 52.79 %
+
+Partition 38: OG0002139_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 492
+Gaps: 4.59 %
+Invariant sites: 32.93 %
+
+Partition 39: OG0002144_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 423
+Gaps: 0.22 %
+Invariant sites: 32.39 %
+
+Partition 40: OG0002145_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 963
+Gaps: 0.01 %
+Invariant sites: 33.85 %
+
+Partition 41: OG0002146_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 573
+Gaps: 0.59 %
+Invariant sites: 35.08 %
+
+Partition 42: OG0002147_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 774
+Gaps: 0.28 %
+Invariant sites: 54.01 %
+
+Partition 43: OG0002150_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 840
+Gaps: 0.70 %
+Invariant sites: 18.69 %
+
+Partition 44: OG0002152_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 633
+Gaps: 0.10 %
+Invariant sites: 47.08 %
+
+Partition 45: OG0002153_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 543
+Gaps: 3.49 %
+Invariant sites: 26.34 %
+
+Partition 46: OG0002154_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 963
+Gaps: 0.13 %
+Invariant sites: 31.88 %
+
+Partition 47: OG0002155_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 717
+Gaps: 0.06 %
+Invariant sites: 23.85 %
+
+Partition 48: OG0002156_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 312
+Gaps: 1.18 %
+Invariant sites: 14.74 %
+
+Partition 49: OG0002161_backthreaded_aln.fasta
+Model: TVM+FO+G4m+B
+Alignment sites: 1293
+Gaps: 0.32 %
+Invariant sites: 32.79 %
+
+Partition 50: OG0002162_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 462
+Gaps: 1.20 %
+Invariant sites: 40.26 %
+
+Partition 51: OG0002163_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1179
+Gaps: 0.84 %
+Invariant sites: 39.61 %
+
+Partition 52: OG0002164_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites: 447
+Gaps: 1.15 %
+Invariant sites: 38.70 %
+
+Partition 53: OG0002166_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 657
+Gaps: 0.25 %
+Invariant sites: 31.35 %
+
+Partition 54: OG0002167_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 159
+Gaps: 1.25 %
+Invariant sites: 41.51 %
+
+Partition 55: OG0002168_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1197
+Gaps: 0.15 %
+Invariant sites: 27.49 %
+
+Partition 56: OG0002169_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 486
+Gaps: 4.18 %
+Invariant sites: 10.08 %
+
+Partition 57: OG0002170_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 435
+Gaps: 1.61 %
+Invariant sites: 31.03 %
+
+Partition 58: OG0002171_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites: 558
+Gaps: 1.56 %
+Invariant sites: 50.72 %
+
+Partition 59: OG0002172_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites: 486
+Gaps: 0.93 %
+Invariant sites: 18.31 %
+
+Partition 60: OG0002173_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 609
+Gaps: 0.99 %
+Invariant sites: 30.54 %
+
+Partition 61: OG0002174_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 357
+Gaps: 0.17 %
+Invariant sites: 37.82 %
+
+Partition 62: OG0002176_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites: 930
+Gaps: 0.09 %
+Invariant sites: 30.43 %
+
+Partition 63: OG0002180_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 636
+Gaps: 3.71 %
+Invariant sites: 42.14 %
+
+Partition 64: OG0002181_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1569
+Gaps: 0.04 %
+Invariant sites: 39.32 %
+
+Partition 65: OG0002184_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 486
+Gaps: 0.00 %
+Invariant sites: 46.09 %
+
+Partition 66: OG0002185_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites: 432
+Gaps: 0.00 %
+Invariant sites: 64.35 %
+
+Partition 67: OG0002186_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 528
+Gaps: 0.24 %
+Invariant sites: 46.21 %
+
+Partition 68: OG0002188_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 642
+Gaps: 0.00 %
+Invariant sites: 61.37 %
+
+Partition 69: OG0002189_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 648
+Gaps: 0.02 %
+Invariant sites: 52.62 %
+
+Partition 70: OG0002190_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 417
+Gaps: 11.32 %
+Invariant sites: 42.93 %
+
+Partition 71: OG0002191_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites: 279
+Gaps: 0.00 %
+Invariant sites: 69.89 %
+
+Partition 72: OG0002192_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 828
+Gaps: 0.90 %
+Invariant sites: 65.94 %
+
+Partition 73: OG0002193_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 417
+Gaps: 0.00 %
+Invariant sites: 68.11 %
+
+Partition 74: OG0002194_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 285
+Gaps: 1.07 %
+Invariant sites: 50.53 %
+
+Partition 75: OG0002195_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 321
+Gaps: 0.54 %
+Invariant sites: 61.99 %
+
+Partition 76: OG0002196_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 555
+Gaps: 0.08 %
+Invariant sites: 64.86 %
+
+Partition 77: OG0002197_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites: 396
+Gaps: 0.00 %
+Invariant sites: 66.92 %
+
+Partition 78: OG0002198_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 537
+Gaps: 0.00 %
+Invariant sites: 55.31 %
+
+Partition 79: OG0002199_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites: 381
+Gaps: 0.00 %
+Invariant sites: 46.46 %
+
+Partition 80: OG0002200_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites: 453
+Gaps: 0.01 %
+Invariant sites: 54.75 %
+
+Partition 81: OG0002201_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 378
+Gaps: 0.00 %
+Invariant sites: 54.76 %
+
+Partition 82: OG0002202_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 483
+Gaps: 2.56 %
+Invariant sites: 42.86 %
+
+Partition 83: OG0002203_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1623
+Gaps: 0.24 %
+Invariant sites: 59.89 %
+
+Partition 84: OG0002205_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1500
+Gaps: 0.03 %
+Invariant sites: 46.60 %
+
+Partition 85: OG0002206_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 519
+Gaps: 0.86 %
+Invariant sites: 42.39 %
+
+Partition 86: OG0002210_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 915
+Gaps: 0.15 %
+Invariant sites: 30.38 %
+
+Partition 87: OG0002211_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 480
+Gaps: 1.48 %
+Invariant sites: 35.42 %
+
+Partition 88: OG0002213_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1329
+Gaps: 0.31 %
+Invariant sites: 35.14 %
+
+Partition 89: OG0002214_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 420
+Gaps: 0.05 %
+Invariant sites: 36.90 %
+
+Partition 90: OG0002215_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 750
+Gaps: 0.01 %
+Invariant sites: 30.67 %
+
+Partition 91: OG0002216_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 735
+Gaps: 0.40 %
+Invariant sites: 43.81 %
+
+Partition 92: OG0002217_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites: 339
+Gaps: 3.56 %
+Invariant sites: 41.89 %
+
+Partition 93: OG0002221_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 624
+Gaps: 1.05 %
+Invariant sites: 41.67 %
+
+Partition 94: OG0002222_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1068
+Gaps: 2.47 %
+Invariant sites: 40.26 %
+
+Partition 95: OG0002223_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 495
+Gaps: 0.03 %
+Invariant sites: 42.22 %
+
+Partition 96: OG0002225_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1140
+Gaps: 0.67 %
+Invariant sites: 39.82 %
+
+Partition 97: OG0002226_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites: 303
+Gaps: 1.86 %
+Invariant sites: 11.88 %
+
+Partition 98: OG0002227_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 492
+Gaps: 0.10 %
+Invariant sites: 43.29 %
+
+Partition 99: OG0002229_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 738
+Gaps: 2.34 %
+Invariant sites: 24.39 %
+
+Partition 100: OG0002231_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 606
+Gaps: 1.37 %
+Invariant sites: 18.32 %
+
+Partition 101: OG0002232_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites: 288
+Gaps: 0.75 %
+Invariant sites: 41.67 %
+
+Partition 102: OG0002236_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 822
+Gaps: 2.04 %
+Invariant sites: 33.33 %
+
+Partition 103: OG0002238_backthreaded_aln.fasta
+Model: TPM3uf+FO+I+G4m+B
+Alignment sites: 591
+Gaps: 0.04 %
+Invariant sites: 55.50 %
+
+Partition 104: OG0002239_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 723
+Gaps: 0.11 %
+Invariant sites: 42.19 %
+
+Partition 105: OG0002240_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 936
+Gaps: 0.22 %
+Invariant sites: 29.49 %
+
+Partition 106: OG0002242_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 336
+Gaps: 1.14 %
+Invariant sites: 52.68 %
+
+Partition 107: OG0002243_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 795
+Gaps: 0.95 %
+Invariant sites: 25.66 %
+
+Partition 108: OG0002246_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 651
+Gaps: 2.78 %
+Invariant sites: 32.26 %
+
+Partition 109: OG0002247_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 435
+Gaps: 0.49 %
+Invariant sites: 31.49 %
+
+Partition 110: OG0002250_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 216
+Gaps: 0.48 %
+Invariant sites: 39.81 %
+
+Partition 111: OG0002251_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1359
+Gaps: 0.24 %
+Invariant sites: 57.17 %
+
+Partition 112: OG0002252_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 951
+Gaps: 0.09 %
+Invariant sites: 35.54 %
+
+Partition 113: OG0002253_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 375
+Gaps: 3.22 %
+Invariant sites: 37.60 %
+
+Partition 114: OG0002255_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 816
+Gaps: 0.58 %
+Invariant sites: 29.90 %
+
+Partition 115: OG0002257_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1107
+Gaps: 1.68 %
+Invariant sites: 27.64 %
+
+Partition 116: OG0002259_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 483
+Gaps: 0.20 %
+Invariant sites: 39.54 %
+
+Partition 117: OG0002260_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites: 270
+Gaps: 0.06 %
+Invariant sites: 48.52 %
+
+Partition 118: OG0002261_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 432
+Gaps: 5.95 %
+Invariant sites: 12.27 %
+
+Partition 119: OG0002263_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 681
+Gaps: 0.53 %
+Invariant sites: 38.77 %
+
+Partition 120: OG0002268_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1716
+Gaps: 0.29 %
+Invariant sites: 34.97 %
+
+Partition 121: OG0002270_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 2808
+Gaps: 0.45 %
+Invariant sites: 40.31 %
+
+Partition 122: OG0002272_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 438
+Gaps: 0.16 %
+Invariant sites: 45.89 %
+
+Partition 123: OG0002274_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites: 609
+Gaps: 0.84 %
+Invariant sites: 23.32 %
+
+Partition 124: OG0002277_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1497
+Gaps: 1.34 %
+Invariant sites: 21.84 %
+
+Partition 125: OG0002278_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 3483
+Gaps: 0.03 %
+Invariant sites: 65.03 %
+
+Partition 126: OG0002279_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites: 276
+Gaps: 1.80 %
+Invariant sites: 21.74 %
+
+Partition 127: OG0002280_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 843
+Gaps: 0.25 %
+Invariant sites: 46.03 %
+
+Partition 128: OG0002281_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 1464
+Gaps: 0.01 %
+Invariant sites: 42.96 %
+
+Partition 129: OG0002282_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 201
+Gaps: 0.37 %
+Invariant sites: 46.27 %
+
+Partition 130: OG0002284_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 777
+Gaps: 0.30 %
+Invariant sites: 34.11 %
+
+Partition 131: OG0002285_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 2421
+Gaps: 0.65 %
+Invariant sites: 39.94 %
+
+Partition 132: OG0002286_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 1440
+Gaps: 0.09 %
+Invariant sites: 43.89 %
+
+Partition 133: OG0002287_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 741
+Gaps: 0.00 %
+Invariant sites: 27.80 %
+
+Partition 134: OG0002290_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites: 228
+Gaps: 0.21 %
+Invariant sites: 45.18 %
+
+Partition 135: OG0002291_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites: 885
+Gaps: 0.46 %
+Invariant sites: 36.84 %
+
+Partition 136: OG0002292_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites: 693
+Gaps: 1.18 %
+Invariant sites: 26.41 %
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /users/xmb20196/sco_tree/SCO_tree/output/tree/01_check.raxml.log
+
+Analysis started: 19-Sep-2023 08:13:48 / finished: 19-Sep-2023 08:13:49
+
+Elapsed time: 0.757 seconds
+

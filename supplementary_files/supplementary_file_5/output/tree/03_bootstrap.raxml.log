@@ -1,0 +1,1014 @@
+
+RAxML-NG v. 1.0.3 released on 21.07.2021 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) Gold 6138 CPU @ 2.00GHz, 40 cores, 188 GB RAM
+
+RAxML-NG was called at 19-Sep-2023 08:13:50 as follows:
+
+raxml-ng --msa ../output/tree/02_parse.raxml.rba --model ../output/modeltest_ng_output/output.part.bic --all --bs-trees 100 --seed 1655486274 --prefix ../output/tree/03_bootstrap --threads 40
+
+Analysis options:
+  run mode: ML tree search + bootstrapping (Felsenstein Bootstrap)
+  start tree(s): random (10) + parsimony (10)
+  bootstrap replicates: 100
+  random seed: 1655486274
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (40 threads), thread pinning: OFF
+
+WARNING: The model you specified on the command line (../output/modeltest_ng_output/output.part.bic) will be ignored 
+         since the binary MSA file already contains a model definition.
+         If you want to change the model, please re-run RAxML-NG 
+         with the original PHYLIP/FASTA alignment and --redo option.
+
+[00:00:00] Loading binary alignment from file: ../output/tree/02_parse.raxml.rba
+[00:00:00] Alignment comprises 295 taxa, 137 partitions and 59140 patterns
+
+Partition 0: OG0002076_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites / patterns: 234 / 62
+Gaps: 0.00 %
+Invariant sites: 74.79 %
+
+Partition 1: OG0002077_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites / patterns: 480 / 161
+Gaps: 0.00 %
+Invariant sites: 67.08 %
+
+Partition 2: OG0002078_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 111 / 15
+Gaps: 0.00 %
+Invariant sites: 90.09 %
+
+Partition 3: OG0002079_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites / patterns: 345 / 110
+Gaps: 0.00 %
+Invariant sites: 67.83 %
+
+Partition 4: OG0002080_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites / patterns: 222 / 88
+Gaps: 0.00 %
+Invariant sites: 61.71 %
+
+Partition 5: OG0002081_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 237 / 114
+Gaps: 0.02 %
+Invariant sites: 54.01 %
+
+Partition 6: OG0002082_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites / patterns: 180 / 108
+Gaps: 0.03 %
+Invariant sites: 42.22 %
+
+Partition 7: OG0002083_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 471 / 212
+Gaps: 0.45 %
+Invariant sites: 55.41 %
+
+Partition 8: OG0002086_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites / patterns: 171 / 66
+Gaps: 0.67 %
+Invariant sites: 64.91 %
+
+Partition 9: OG0002089_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 753 / 564
+Gaps: 1.08 %
+Invariant sites: 26.83 %
+
+Partition 10: OG0002090_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1395 / 878
+Gaps: 0.02 %
+Invariant sites: 36.63 %
+
+Partition 11: OG0002097_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites / patterns: 1044 / 617
+Gaps: 2.17 %
+Invariant sites: 42.24 %
+
+Partition 12: OG0002099_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 1383 / 934
+Gaps: 0.95 %
+Invariant sites: 32.39 %
+
+Partition 13: OG0002100_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 543 / 334
+Gaps: 3.14 %
+Invariant sites: 39.23 %
+
+Partition 14: OG0002102_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 750 / 490
+Gaps: 0.01 %
+Invariant sites: 34.80 %
+
+Partition 15: OG0002103_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 903 / 662
+Gaps: 0.39 %
+Invariant sites: 27.24 %
+
+Partition 16: OG0002104_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 498 / 369
+Gaps: 0.42 %
+Invariant sites: 25.90 %
+
+Partition 17: OG0002105_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 558 / 378
+Gaps: 1.44 %
+Invariant sites: 33.15 %
+
+Partition 18: OG0002107_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites / patterns: 279 / 199
+Gaps: 0.01 %
+Invariant sites: 30.11 %
+
+Partition 19: OG0002108_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 858 / 586
+Gaps: 0.28 %
+Invariant sites: 32.98 %
+
+Partition 20: OG0002109_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 642 / 446
+Gaps: 1.37 %
+Invariant sites: 32.40 %
+
+Partition 21: OG0002110_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites / patterns: 477 / 275
+Gaps: 0.00 %
+Invariant sites: 43.19 %
+
+Partition 22: OG0002111_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 924 / 645
+Gaps: 0.16 %
+Invariant sites: 29.11 %
+
+Partition 23: OG0002115_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 570 / 335
+Gaps: 0.00 %
+Invariant sites: 41.58 %
+
+Partition 24: OG0002116_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 372 / 235
+Gaps: 0.18 %
+Invariant sites: 38.44 %
+
+Partition 25: OG0002118_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 813 / 609
+Gaps: 0.09 %
+Invariant sites: 25.71 %
+
+Partition 26: OG0002119_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1074 / 543
+Gaps: 0.18 %
+Invariant sites: 50.00 %
+
+Partition 27: OG0002120_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites / patterns: 222 / 101
+Gaps: 0.88 %
+Invariant sites: 56.31 %
+
+Partition 28: OG0002121_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1056 / 532
+Gaps: 0.02 %
+Invariant sites: 49.43 %
+
+Partition 29: OG0002122_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 648 / 458
+Gaps: 1.61 %
+Invariant sites: 30.71 %
+
+Partition 30: OG0002125_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 240 / 151
+Gaps: 0.03 %
+Invariant sites: 39.17 %
+
+Partition 31: OG0002128_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 660 / 485
+Gaps: 2.43 %
+Invariant sites: 28.33 %
+
+Partition 32: OG0002129_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1077 / 746
+Gaps: 0.15 %
+Invariant sites: 31.48 %
+
+Partition 33: OG0002130_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 375 / 265
+Gaps: 3.33 %
+Invariant sites: 32.00 %
+
+Partition 34: OG0002132_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 399 / 297
+Gaps: 1.38 %
+Invariant sites: 27.32 %
+
+Partition 35: OG0002134_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 480 / 285
+Gaps: 0.90 %
+Invariant sites: 41.04 %
+
+Partition 36: OG0002135_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1011 / 651
+Gaps: 0.64 %
+Invariant sites: 37.88 %
+
+Partition 37: OG0002136_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 987 / 469
+Gaps: 0.05 %
+Invariant sites: 52.79 %
+
+Partition 38: OG0002139_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 492 / 338
+Gaps: 4.59 %
+Invariant sites: 32.93 %
+
+Partition 39: OG0002144_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 423 / 293
+Gaps: 0.22 %
+Invariant sites: 32.39 %
+
+Partition 40: OG0002145_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 963 / 636
+Gaps: 0.01 %
+Invariant sites: 33.85 %
+
+Partition 41: OG0002146_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 573 / 374
+Gaps: 0.59 %
+Invariant sites: 35.08 %
+
+Partition 42: OG0002147_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 774 / 356
+Gaps: 0.28 %
+Invariant sites: 54.01 %
+
+Partition 43: OG0002150_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 840 / 694
+Gaps: 0.70 %
+Invariant sites: 18.69 %
+
+Partition 44: OG0002152_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 633 / 345
+Gaps: 0.10 %
+Invariant sites: 47.08 %
+
+Partition 45: OG0002153_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 543 / 413
+Gaps: 3.49 %
+Invariant sites: 26.34 %
+
+Partition 46: OG0002154_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 963 / 656
+Gaps: 0.13 %
+Invariant sites: 31.88 %
+
+Partition 47: OG0002155_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 717 / 544
+Gaps: 0.06 %
+Invariant sites: 23.85 %
+
+Partition 48: OG0002156_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 312 / 273
+Gaps: 1.18 %
+Invariant sites: 14.74 %
+
+Partition 49: OG0002161_backthreaded_aln.fasta
+Model: TVM+FO+G4m+B
+Alignment sites / patterns: 1293 / 864
+Gaps: 0.32 %
+Invariant sites: 32.79 %
+
+Partition 50: OG0002162_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 462 / 278
+Gaps: 1.20 %
+Invariant sites: 40.26 %
+
+Partition 51: OG0002163_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1179 / 703
+Gaps: 0.84 %
+Invariant sites: 39.61 %
+
+Partition 52: OG0002164_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites / patterns: 447 / 279
+Gaps: 1.15 %
+Invariant sites: 38.70 %
+
+Partition 53: OG0002166_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 657 / 455
+Gaps: 0.25 %
+Invariant sites: 31.35 %
+
+Partition 54: OG0002167_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 159 / 96
+Gaps: 1.25 %
+Invariant sites: 41.51 %
+
+Partition 55: OG0002168_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1197 / 869
+Gaps: 0.15 %
+Invariant sites: 27.49 %
+
+Partition 56: OG0002169_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 486 / 438
+Gaps: 4.18 %
+Invariant sites: 10.08 %
+
+Partition 57: OG0002170_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 435 / 303
+Gaps: 1.61 %
+Invariant sites: 31.03 %
+
+Partition 58: OG0002171_backthreaded_aln.fasta
+Model: TPM2uf+FO+I+G4m+B
+Alignment sites / patterns: 558 / 282
+Gaps: 1.56 %
+Invariant sites: 50.72 %
+
+Partition 59: OG0002172_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 486 / 406
+Gaps: 0.93 %
+Invariant sites: 18.31 %
+
+Partition 60: OG0002173_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 609 / 436
+Gaps: 0.99 %
+Invariant sites: 30.54 %
+
+Partition 61: OG0002174_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 357 / 228
+Gaps: 0.17 %
+Invariant sites: 37.82 %
+
+Partition 62: OG0002176_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 930 / 652
+Gaps: 0.09 %
+Invariant sites: 30.43 %
+
+Partition 63: OG0002180_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 636 / 373
+Gaps: 3.71 %
+Invariant sites: 42.14 %
+
+Partition 64: OG0002181_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1569 / 942
+Gaps: 0.04 %
+Invariant sites: 39.32 %
+
+Partition 65: OG0002184_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 486 / 261
+Gaps: 0.00 %
+Invariant sites: 46.09 %
+
+Partition 66: OG0002185_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 432 / 152
+Gaps: 0.00 %
+Invariant sites: 64.35 %
+
+Partition 67: OG0002186_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 528 / 290
+Gaps: 0.24 %
+Invariant sites: 46.21 %
+
+Partition 68: OG0002188_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 642 / 245
+Gaps: 0.00 %
+Invariant sites: 61.37 %
+
+Partition 69: OG0002189_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 648 / 307
+Gaps: 0.02 %
+Invariant sites: 52.62 %
+
+Partition 70: OG0002190_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 417 / 248
+Gaps: 11.32 %
+Invariant sites: 42.93 %
+
+Partition 71: OG0002191_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites / patterns: 279 / 87
+Gaps: 0.00 %
+Invariant sites: 69.89 %
+
+Partition 72: OG0002192_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 828 / 296
+Gaps: 0.90 %
+Invariant sites: 65.94 %
+
+Partition 73: OG0002193_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 417 / 137
+Gaps: 0.00 %
+Invariant sites: 68.11 %
+
+Partition 74: OG0002194_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 285 / 143
+Gaps: 1.07 %
+Invariant sites: 50.53 %
+
+Partition 75: OG0002195_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 321 / 128
+Gaps: 0.54 %
+Invariant sites: 61.99 %
+
+Partition 76: OG0002196_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 555 / 193
+Gaps: 0.08 %
+Invariant sites: 64.86 %
+
+Partition 77: OG0002197_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites / patterns: 396 / 133
+Gaps: 0.00 %
+Invariant sites: 66.92 %
+
+Partition 78: OG0002198_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 537 / 244
+Gaps: 0.00 %
+Invariant sites: 55.31 %
+
+Partition 79: OG0002199_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites / patterns: 381 / 206
+Gaps: 0.00 %
+Invariant sites: 46.46 %
+
+Partition 80: OG0002200_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites / patterns: 453 / 208
+Gaps: 0.01 %
+Invariant sites: 54.75 %
+
+Partition 81: OG0002201_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 378 / 173
+Gaps: 0.00 %
+Invariant sites: 54.76 %
+
+Partition 82: OG0002202_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 483 / 273
+Gaps: 2.56 %
+Invariant sites: 42.86 %
+
+Partition 83: OG0002203_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1623 / 646
+Gaps: 0.24 %
+Invariant sites: 59.89 %
+
+Partition 84: OG0002205_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1500 / 786
+Gaps: 0.03 %
+Invariant sites: 46.60 %
+
+Partition 85: OG0002206_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 519 / 307
+Gaps: 0.86 %
+Invariant sites: 42.39 %
+
+Partition 86: OG0002210_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 915 / 632
+Gaps: 0.15 %
+Invariant sites: 30.38 %
+
+Partition 87: OG0002211_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 480 / 313
+Gaps: 1.48 %
+Invariant sites: 35.42 %
+
+Partition 88: OG0002213_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1329 / 872
+Gaps: 0.31 %
+Invariant sites: 35.14 %
+
+Partition 89: OG0002214_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 420 / 265
+Gaps: 0.05 %
+Invariant sites: 36.90 %
+
+Partition 90: OG0002215_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 750 / 521
+Gaps: 0.01 %
+Invariant sites: 30.67 %
+
+Partition 91: OG0002216_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 735 / 414
+Gaps: 0.40 %
+Invariant sites: 43.81 %
+
+Partition 92: OG0002217_backthreaded_aln.fasta
+Model: TIM2+I+G4m+B
+Alignment sites / patterns: 339 / 208
+Gaps: 3.56 %
+Invariant sites: 41.89 %
+
+Partition 93: OG0002221_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 624 / 371
+Gaps: 1.05 %
+Invariant sites: 41.67 %
+
+Partition 94: OG0002222_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1068 / 628
+Gaps: 2.47 %
+Invariant sites: 40.26 %
+
+Partition 95: OG0002223_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 495 / 291
+Gaps: 0.03 %
+Invariant sites: 42.22 %
+
+Partition 96: OG0002225_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1140 / 687
+Gaps: 0.67 %
+Invariant sites: 39.82 %
+
+Partition 97: OG0002226_backthreaded_aln.fasta
+Model: TIM3+I+G4m+B
+Alignment sites / patterns: 303 / 275
+Gaps: 1.86 %
+Invariant sites: 11.88 %
+
+Partition 98: OG0002227_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 492 / 286
+Gaps: 0.10 %
+Invariant sites: 43.29 %
+
+Partition 99: OG0002229_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 738 / 573
+Gaps: 2.34 %
+Invariant sites: 24.39 %
+
+Partition 100: OG0002231_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 606 / 504
+Gaps: 1.37 %
+Invariant sites: 18.32 %
+
+Partition 101: OG0002232_backthreaded_aln.fasta
+Model: HKY+FO+I+G4m+B
+Alignment sites / patterns: 288 / 170
+Gaps: 0.75 %
+Invariant sites: 41.67 %
+
+Partition 102: OG0002236_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 822 / 565
+Gaps: 2.04 %
+Invariant sites: 33.33 %
+
+Partition 103: OG0002238_backthreaded_aln.fasta
+Model: TPM3uf+FO+I+G4m+B
+Alignment sites / patterns: 591 / 267
+Gaps: 0.04 %
+Invariant sites: 55.50 %
+
+Partition 104: OG0002239_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 723 / 417
+Gaps: 0.11 %
+Invariant sites: 42.19 %
+
+Partition 105: OG0002240_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 936 / 651
+Gaps: 0.22 %
+Invariant sites: 29.49 %
+
+Partition 106: OG0002242_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 336 / 170
+Gaps: 1.14 %
+Invariant sites: 52.68 %
+
+Partition 107: OG0002243_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 795 / 605
+Gaps: 0.95 %
+Invariant sites: 25.66 %
+
+Partition 108: OG0002246_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 651 / 447
+Gaps: 2.78 %
+Invariant sites: 32.26 %
+
+Partition 109: OG0002247_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 435 / 301
+Gaps: 0.49 %
+Invariant sites: 31.49 %
+
+Partition 110: OG0002250_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 216 / 135
+Gaps: 0.48 %
+Invariant sites: 39.81 %
+
+Partition 111: OG0002251_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1359 / 582
+Gaps: 0.24 %
+Invariant sites: 57.17 %
+
+Partition 112: OG0002252_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 951 / 609
+Gaps: 0.09 %
+Invariant sites: 35.54 %
+
+Partition 113: OG0002253_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 375 / 242
+Gaps: 3.22 %
+Invariant sites: 37.60 %
+
+Partition 114: OG0002255_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 816 / 587
+Gaps: 0.58 %
+Invariant sites: 29.90 %
+
+Partition 115: OG0002257_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1107 / 794
+Gaps: 1.68 %
+Invariant sites: 27.64 %
+
+Partition 116: OG0002259_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 483 / 297
+Gaps: 0.20 %
+Invariant sites: 39.54 %
+
+Partition 117: OG0002260_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites / patterns: 270 / 146
+Gaps: 0.06 %
+Invariant sites: 48.52 %
+
+Partition 118: OG0002261_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 432 / 386
+Gaps: 5.95 %
+Invariant sites: 12.27 %
+
+Partition 119: OG0002263_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 681 / 418
+Gaps: 0.53 %
+Invariant sites: 38.77 %
+
+Partition 120: OG0002268_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1716 / 1129
+Gaps: 0.29 %
+Invariant sites: 34.97 %
+
+Partition 121: OG0002270_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 2808 / 1690
+Gaps: 0.45 %
+Invariant sites: 40.31 %
+
+Partition 122: OG0002272_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 438 / 246
+Gaps: 0.16 %
+Invariant sites: 45.89 %
+
+Partition 123: OG0002274_backthreaded_aln.fasta
+Model: K81uf+FO+I+G4m+B
+Alignment sites / patterns: 609 / 473
+Gaps: 0.84 %
+Invariant sites: 23.32 %
+
+Partition 124: OG0002277_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1497 / 1172
+Gaps: 1.34 %
+Invariant sites: 21.84 %
+
+Partition 125: OG0002278_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 3483 / 1174
+Gaps: 0.03 %
+Invariant sites: 65.03 %
+
+Partition 126: OG0002279_backthreaded_aln.fasta
+Model: TN93+FO+I+G4m+B
+Alignment sites / patterns: 276 / 222
+Gaps: 1.80 %
+Invariant sites: 21.74 %
+
+Partition 127: OG0002280_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 843 / 455
+Gaps: 0.25 %
+Invariant sites: 46.03 %
+
+Partition 128: OG0002281_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 1464 / 828
+Gaps: 0.01 %
+Invariant sites: 42.96 %
+
+Partition 129: OG0002282_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 201 / 115
+Gaps: 0.37 %
+Invariant sites: 46.27 %
+
+Partition 130: OG0002284_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 777 / 528
+Gaps: 0.30 %
+Invariant sites: 34.11 %
+
+Partition 131: OG0002285_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 2421 / 1456
+Gaps: 0.65 %
+Invariant sites: 39.94 %
+
+Partition 132: OG0002286_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 1440 / 816
+Gaps: 0.09 %
+Invariant sites: 43.89 %
+
+Partition 133: OG0002287_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 741 / 529
+Gaps: 0.00 %
+Invariant sites: 27.80 %
+
+Partition 134: OG0002290_backthreaded_aln.fasta
+Model: TIM1+I+G4m+B
+Alignment sites / patterns: 228 / 132
+Gaps: 0.21 %
+Invariant sites: 45.18 %
+
+Partition 135: OG0002291_backthreaded_aln.fasta
+Model: GTR+FO+I+G4m+B
+Alignment sites / patterns: 885 / 570
+Gaps: 0.46 %
+Invariant sites: 36.84 %
+
+Partition 136: OG0002292_backthreaded_aln.fasta
+Model: TVM+FO+I+G4m+B
+Alignment sites / patterns: 693 / 512
+Gaps: 1.18 %
+Invariant sites: 26.41 %
+
+
+Parallelization scheme autoconfig: 5 worker(s) x 8 thread(s)
+
+Parallel reduction/worker buffer size: 85 KB  / 0 KB
+
+[00:00:00] Generating 10 random starting tree(s) with 295 taxa
+[00:00:00] Generating 10 parsimony starting tree(s) with 295 taxa
+[00:00:09] Data distribution: max. partitions/sites/weight per thread: 18 / 7393 / 118288
+[00:00:09] Data distribution: max. searches per worker: 24
+
+Starting ML tree search with 20 distinct starting trees
+
+[02:39:12] [worker #2] ML tree search #3, logLikelihood: -4643620.901310
+[02:40:37] [worker #4] ML tree search #5, logLikelihood: -4643588.930866
+[02:50:03] [worker #1] ML tree search #2, logLikelihood: -4643585.704510
+[02:55:38] [worker #3] ML tree search #4, logLikelihood: -4643626.912719
+[03:05:42] [worker #0] ML tree search #1, logLikelihood: -4643643.332417
+[05:13:49] [worker #2] ML tree search #8, logLikelihood: -4643586.113815
+[05:19:18] [worker #4] ML tree search #10, logLikelihood: -4643630.523149
+[05:27:17] [worker #1] ML tree search #7, logLikelihood: -4643595.572859
+[05:56:15] [worker #3] ML tree search #9, logLikelihood: -4643588.450027
+[06:08:34] [worker #0] ML tree search #6, logLikelihood: -4643708.783523
+[07:02:10] [worker #4] ML tree search #15, logLikelihood: -4643670.992241
+[07:03:04] [worker #2] ML tree search #13, logLikelihood: -4643687.681135
+[07:10:22] [worker #1] ML tree search #12, logLikelihood: -4643656.784690
+[07:42:55] [worker #3] ML tree search #14, logLikelihood: -4643689.411520
+[08:01:30] [worker #0] ML tree search #11, logLikelihood: -4643693.219271
+[08:43:12] [worker #1] ML tree search #17, logLikelihood: -4643655.451849
+[08:45:42] [worker #4] ML tree search #20, logLikelihood: -4643688.775137
+[08:53:11] [worker #2] ML tree search #18, logLikelihood: -4643659.651083
+[09:25:19] [worker #3] ML tree search #19, logLikelihood: -4643685.400643
+[09:32:01] [worker #0] ML tree search #16, logLikelihood: -4643661.385684
+
+[09:32:01] ML tree search completed, best tree logLH: -4643585.704510
+
+[09:32:01] Starting bootstrapping analysis with 100 replicates.
+
+[11:17:47] [worker #2] Bootstrap tree #3, logLikelihood: -4644473.494019
+[11:19:58] [worker #1] Bootstrap tree #2, logLikelihood: -4652076.246383
+[11:21:45] [worker #4] Bootstrap tree #5, logLikelihood: -4655526.901565
+[11:25:46] [worker #3] Bootstrap tree #4, logLikelihood: -4628004.302673
+[11:26:48] [worker #0] Bootstrap tree #1, logLikelihood: -4621386.743944
+[13:02:00] [worker #2] Bootstrap tree #8, logLikelihood: -4649280.200421
+[13:04:25] [worker #4] Bootstrap tree #10, logLikelihood: -4638169.176802
+[13:21:31] [worker #3] Bootstrap tree #9, logLikelihood: -4629394.628756
+[13:23:43] [worker #1] Bootstrap tree #7, logLikelihood: -4641126.874068
+[13:24:45] [worker #0] Bootstrap tree #6, logLikelihood: -4649804.793413
+[14:46:27] [worker #2] Bootstrap tree #13, logLikelihood: -4662248.439562
+[14:52:40] [worker #4] Bootstrap tree #15, logLikelihood: -4636027.828249
+[15:07:05] [worker #3] Bootstrap tree #14, logLikelihood: -4627408.415298
+[15:11:58] [worker #1] Bootstrap tree #12, logLikelihood: -4636971.544628
+[15:26:01] [worker #0] Bootstrap tree #11, logLikelihood: -4617266.834736
+[16:28:47] [worker #2] Bootstrap tree #18, logLikelihood: -4637925.536476
+[16:34:34] [worker #4] Bootstrap tree #20, logLikelihood: -4617433.575104
+[16:58:51] [worker #3] Bootstrap tree #19, logLikelihood: -4670737.736783
+[17:07:08] [worker #1] Bootstrap tree #17, logLikelihood: -4666685.717336
+[17:18:04] [worker #0] Bootstrap tree #16, logLikelihood: -4638851.114355
+[18:08:38] [worker #2] Bootstrap tree #23, logLikelihood: -4609418.168762
+[18:40:48] [worker #4] Bootstrap tree #25, logLikelihood: -4659423.211486
+[18:53:46] [worker #3] Bootstrap tree #24, logLikelihood: -4648224.480802
+[19:00:53] [worker #1] Bootstrap tree #22, logLikelihood: -4660449.503901
+[19:08:46] [worker #0] Bootstrap tree #21, logLikelihood: -4649527.079236
+[20:02:27] [worker #2] Bootstrap tree #28, logLikelihood: -4621592.010428
+[20:29:05] [worker #3] Bootstrap tree #29, logLikelihood: -4646541.105226
+[20:35:53] [worker #4] Bootstrap tree #30, logLikelihood: -4658639.136768
+[20:58:30] [worker #1] Bootstrap tree #27, logLikelihood: -4654045.082733
+[21:08:30] [worker #0] Bootstrap tree #26, logLikelihood: -4631322.257934
+[21:46:01] [worker #2] Bootstrap tree #33, logLikelihood: -4621983.195123
+[22:14:28] [worker #3] Bootstrap tree #34, logLikelihood: -4626451.949286
+[22:15:17] [worker #4] Bootstrap tree #35, logLikelihood: -4617049.375023
+[22:53:41] [worker #1] Bootstrap tree #32, logLikelihood: -4665091.834482
+[22:57:31] [worker #0] Bootstrap tree #31, logLikelihood: -4631239.315522
+[23:38:50] [worker #2] Bootstrap tree #38, logLikelihood: -4639460.839322
+[24:00:30] [worker #4] Bootstrap tree #40, logLikelihood: -4642262.244505
+[24:01:59] [worker #3] Bootstrap tree #39, logLikelihood: -4663055.246693
+[24:45:13] [worker #1] Bootstrap tree #37, logLikelihood: -4633205.743399
+[24:50:23] [worker #0] Bootstrap tree #36, logLikelihood: -4610485.084075
+[25:25:58] [worker #2] Bootstrap tree #43, logLikelihood: -4650921.347562
+[25:49:37] [worker #3] Bootstrap tree #44, logLikelihood: -4706938.702227
+[25:51:38] [worker #4] Bootstrap tree #45, logLikelihood: -4642741.792007
+[26:32:17] [worker #1] Bootstrap tree #42, logLikelihood: -4623498.331911
+[26:48:24] [worker #0] Bootstrap tree #41, logLikelihood: -4639295.668448
+[27:13:01] [worker #2] Bootstrap tree #48, logLikelihood: -4636452.581354
+[27:46:04] [worker #3] Bootstrap tree #49, logLikelihood: -4635237.841952
+[27:48:43] [worker #4] Bootstrap tree #50, logLikelihood: -4657386.928855
+[28:20:10] [worker #1] Bootstrap tree #47, logLikelihood: -4644630.915117
+[28:34:13] [worker #0] Bootstrap tree #46, logLikelihood: -4622938.129325
+[30:19:26] [worker #1] Bootstrap tree #52, logLikelihood: -4616992.403795
+[30:23:34] [worker #3] Bootstrap tree #54, logLikelihood: -4642428.857631
+[30:25:47] [worker #2] Bootstrap tree #53, logLikelihood: -4646684.540721
+[30:33:12] [worker #0] Bootstrap tree #51, logLikelihood: -4633864.569742
+[30:37:45] [worker #4] Bootstrap tree #55, logLikelihood: -4638496.834149
+[32:05:05] [worker #1] Bootstrap tree #57, logLikelihood: -4669409.143630
+[32:10:31] [worker #3] Bootstrap tree #59, logLikelihood: -4680402.933787
+[32:13:30] [worker #2] Bootstrap tree #58, logLikelihood: -4638550.769610
+[32:34:49] [worker #4] Bootstrap tree #60, logLikelihood: -4648169.252457
+[32:37:34] [worker #0] Bootstrap tree #56, logLikelihood: -4650005.683066
+[33:54:23] [worker #2] Bootstrap tree #63, logLikelihood: -4629223.373033
+[33:57:50] [worker #1] Bootstrap tree #62, logLikelihood: -4620678.139288
+[34:05:54] [worker #3] Bootstrap tree #64, logLikelihood: -4659830.600249
+[34:23:05] [worker #4] Bootstrap tree #65, logLikelihood: -4624074.509476
+[34:47:48] [worker #0] Bootstrap tree #61, logLikelihood: -4635250.971681
+[35:49:21] [worker #1] Bootstrap tree #67, logLikelihood: -4620086.537813
+[35:51:08] [worker #3] Bootstrap tree #69, logLikelihood: -4674180.615619
+[35:59:27] [worker #2] Bootstrap tree #68, logLikelihood: -4639409.108232
+[36:06:29] [worker #4] Bootstrap tree #70, logLikelihood: -4631407.221369
+[36:42:27] [worker #0] Bootstrap tree #66, logLikelihood: -4652187.988517
+[37:32:06] [worker #1] Bootstrap tree #72, logLikelihood: -4642363.120940
+[37:41:23] [worker #3] Bootstrap tree #74, logLikelihood: -4600518.074223
+[37:48:30] [worker #2] Bootstrap tree #73, logLikelihood: -4618390.667652
+[37:48:58] [worker #4] Bootstrap tree #75, logLikelihood: -4645256.590710
+[38:40:07] [worker #0] Bootstrap tree #71, logLikelihood: -4637329.703187
+[39:19:04] [worker #1] Bootstrap tree #77, logLikelihood: -4641474.758163
+[39:26:10] [worker #3] Bootstrap tree #79, logLikelihood: -4635333.181298
+[39:28:20] [worker #4] Bootstrap tree #80, logLikelihood: -4618764.376304
+[39:34:58] [worker #2] Bootstrap tree #78, logLikelihood: -4641064.233962
+[40:35:08] [worker #0] Bootstrap tree #76, logLikelihood: -4624349.225421
+[41:06:52] [worker #3] Bootstrap tree #84, logLikelihood: -4627742.074664
+[41:08:57] [worker #1] Bootstrap tree #82, logLikelihood: -4652544.452322
+[41:10:39] [worker #4] Bootstrap tree #85, logLikelihood: -4655103.919957
+[41:29:20] [worker #2] Bootstrap tree #83, logLikelihood: -4658673.655634
+[42:19:40] [worker #0] Bootstrap tree #81, logLikelihood: -4661375.116083
+[42:55:24] [worker #3] Bootstrap tree #89, logLikelihood: -4638031.590574
+[43:00:41] [worker #4] Bootstrap tree #90, logLikelihood: -4661178.059880
+[43:00:54] [worker #1] Bootstrap tree #87, logLikelihood: -4652083.339834
+[43:30:15] [worker #2] Bootstrap tree #88, logLikelihood: -4649477.415834
+[44:27:06] [worker #0] Bootstrap tree #86, logLikelihood: -4643470.160445
+[44:45:53] [worker #4] Bootstrap tree #95, logLikelihood: -4621060.848003
+[44:48:54] [worker #1] Bootstrap tree #92, logLikelihood: -4615932.435175
+[44:51:57] [worker #3] Bootstrap tree #94, logLikelihood: -4646702.576432
+[45:27:05] [worker #2] Bootstrap tree #93, logLikelihood: -4646488.016721
+[46:16:20] [worker #0] Bootstrap tree #91, logLikelihood: -4609066.988730
+[46:21:51] [worker #4] Bootstrap tree #100, logLikelihood: -4642651.451582
+[46:28:30] [worker #1] Bootstrap tree #97, logLikelihood: -4645807.512494
+[46:41:26] [worker #3] Bootstrap tree #99, logLikelihood: -4609626.679796
+[46:58:47] [worker #2] Bootstrap tree #98, logLikelihood: -4604234.914966
+[47:45:53] [worker #0] Bootstrap tree #96, logLikelihood: -4638424.393654
+
+
+Final LogLikelihood: -4643585.704510
+
+AIC score: 9290893.409020 / AICc score: 9290965.900851 / BIC score: 9308549.159604
+Free parameters (model + branch lengths): 1861
+
+Best ML tree saved to: /users/xmb20196/sco_tree/SCO_tree/output/tree/03_bootstrap.raxml.bestTree
+All ML trees saved to: /users/xmb20196/sco_tree/SCO_tree/output/tree/03_bootstrap.raxml.mlTrees
+Best ML tree with Felsenstein bootstrap (FBP) support values saved to: /users/xmb20196/sco_tree/SCO_tree/output/tree/03_bootstrap.raxml.support
+Optimized model saved to: /users/xmb20196/sco_tree/SCO_tree/output/tree/03_bootstrap.raxml.bestModel
+Bootstrap trees saved to: /users/xmb20196/sco_tree/SCO_tree/output/tree/03_bootstrap.raxml.bootstraps
+
+Execution log saved to: /users/xmb20196/sco_tree/SCO_tree/output/tree/03_bootstrap.raxml.log
+
+Analysis started: 19-Sep-2023 08:13:50 / finished: 21-Sep-2023 07:59:43
+
+Elapsed time: 171953.381 seconds
+
+Consumed energy: 13320.877 Wh (= 67 km in an electric car, or 333 km with an e-scooter!)
+
