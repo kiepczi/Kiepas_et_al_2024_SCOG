@@ -1,0 +1,874 @@
+ST,accession,organism,16S_copies,strain,assembly_status,status_tax,Type_Strain,pyani_group_ID,pyani_label,degree,pyani_genus_ID,pyani_species_ID
+2,GCF_016906245.1,Streptomyces californicus,6,FDAARGOS_1213,Complete Genome,correct name,No,7,GCF_016906245.1 | Streptomyces californicus FDAARGOS_1213 - ST 2,6,96,133
+2,GCF_000715745.1,Streptomyces californicus,1,NRRL B-3320,Scaffold,correct name,No,7,GCF_000715745.1 | Streptomyces californicus NRRL B-3320 - ST 2,6,96,133
+2,GCF_000717645.1,Streptomyces californicus,1,NRRL B-2098,Contig,correct name,Yes,7,GCF_000717645.1 | Streptomyces californicus NRRL B-2098 - ST 2,6,96,133
+2,GCF_000717965.1,Streptomyces purpeochromogenes,1,NRRL B-3012,Contig,no record in LPSN entry,No,7,GCF_000717965.1 | Streptomyces purpeochromogenes NRRL B-3012 - ST 2,6,96,133
+2,GCF_000718245.1,Streptomyces californicus,1,NRRL B-2988,Contig,correct name,No,7,GCF_000718245.1 | Streptomyces californicus NRRL B-2988 - ST 2,6,96,133
+2,GCF_000718615.1,Streptomyces purpeochromogenes,1,NRRL ISP-5373,Contig,no record in LPSN entry,No,7,GCF_000718615.1 | Streptomyces purpeochromogenes NRRL ISP-5373 - ST 2,6,96,133
+2,GCF_000720065.1,Streptomyces sp.,1,NRRL F-3273,Contig,not validly described,No,7,GCF_000720065.1 | Streptomyces sp. NRRL F-3273 - ST 2,6,96,133
+2,GCF_016906225.1,Streptomyces californicus,5,FDAARGOS_1211,Complete Genome,correct name,No,7,GCF_016906225.1 | Streptomyces californicus FDAARGOS_1211 - ST 2,6,96,133
+2,GCF_016906205.1,Streptomyces californicus,6,FDAARGOS_1212,Complete Genome,correct name,No,7,GCF_016906205.1 | Streptomyces californicus FDAARGOS_1212 - ST 2,6,96,133
+2,GCF_016906185.1,Streptomyces californicus,5,FDAARGOS_1209,Complete Genome,correct name,No,7,GCF_016906185.1 | Streptomyces californicus FDAARGOS_1209 - ST 2,6,96,133
+9,GCF_000717025.1,Streptomyces atroolivaceus,1,NRRL ISP-5137,Contig,correct name,No,40,GCF_000717025.1 | Streptomyces atroolivaceus NRRL ISP-5137 - ST 9,2,70,102
+11,GCF_000725545.1,Streptomyces exfoliatus,1,NRRL B-2924,Scaffold,correct name,Yes,101,GCF_000725545.1 | Streptomyces exfoliatus NRRL B-2924 - ST 11,0,6,15
+11,GCF_000718175.1,Streptomyces exfoliatus,1,NRRL B-2924,Contig,correct name,Yes,101,GCF_000718175.1 | Streptomyces exfoliatus NRRL B-2924 - ST 11,0,6,15
+12,GCF_900105705.1,Streptomyces griseus,6,DSM 40236,Contig,correct name,Yes,1,GCF_900105705.1 | Streptomyces griseus DSM 40236 - ST 12,3,1,1
+12,GCF_001723115.1,Streptomyces griseus,1,NRRL B-2165,Scaffold,correct name,No,1,GCF_001723115.1 | Streptomyces griseus NRRL B-2165 - ST 12,3,1,1
+12,GCF_000010605.1,Streptomyces griseus,6,NBRC 13350,Complete Genome,correct name,No,1,GCF_000010605.1 | Streptomyces griseus NBRC 13350 - ST 12,3,1,1
+12,GCF_900460065.1,Streptomyces griseus,4,NCTC13033,Contig,correct name,No,1,GCF_900460065.1 | Streptomyces griseus NCTC13033 - ST 12,3,1,1
+12,GCF_009866455.1,Streptomyces griseus,1,CGMCC 4.18,Scaffold,correct name,No,1,GCF_009866455.1 | Streptomyces griseus CGMCC 4.18 - ST 12,3,1,1
+16,GCF_008704495.1,Streptomyces kanamyceticus,3,ATCC 12853,Complete Genome,correct name,Yes,103,GCF_008704495.1 | Streptomyces kanamyceticus ATCC 12853 - ST 16,0,7,16
+16,GCF_001418465.1,Streptomyces kanamyceticus,1,NRRL B-2535,Scaffold,correct name,Yes,103,GCF_001418465.1 | Streptomyces kanamyceticus NRRL B-2535 - ST 16,0,7,16
+17,GCF_008639165.1,Streptomyces venezuelae,5,ATCC 10712,Complete Genome,correct name,Yes,20,GCF_008639165.1 | Streptomyces venezuelae ATCC 10712 - ST 17,3,41,61
+17,GCF_001886595.1,Streptomyces venezuelae,4,NRRL B-65442,Complete Genome,correct name,No,20,GCF_001886595.1 | Streptomyces venezuelae NRRL B-65442 - ST 17,3,41,61
+18,GCF_000720235.1,Streptomyces sp.,1,NRRL S-98,Contig,not validly described,No,10,GCF_000720235.1 | Streptomyces sp. NRRL S-98 - ST 18,3,4,12
+18,GCF_000720455.1,Streptomyces virginiae,1,NRRL ISP-5094,Contig,correct name,Yes,10,GCF_000720455.1 | Streptomyces virginiae NRRL ISP-5094 - ST 18,3,4,12
+18,GCF_000966965.1,Streptomyces sp.,1,NRRL S-104,Contig,not validly described,No,10,GCF_000966965.1 | Streptomyces sp. NRRL S-104 - ST 18,3,4,12
+20,GCF_002154575.1,Streptomyces bobili,1,NRRL B-1338,Scaffold,correct name,Yes,57,GCF_002154575.1 | Streptomyces bobili NRRL B-1338 - ST 20,1,88,124
+24,GCF_002154385.1,Streptomyces albovinaceus,1,NRRL B-2566,Scaffold,synonym,Yes,2,GCF_002154385.1 | Streptomyces albovinaceus NRRL B-2566 - ST 24,5,37,52
+25,GCF_004028635.1,Streptomyces cyaneus,1,CGMCC 4.1671,Scaffold,correct name,No,104,GCF_004028635.1 | Streptomyces cyaneus CGMCC 4.1671 - ST 25,0,128,174
+29,GCF_001700505.1,Streptomyces mutomycini,1,NRRL B-65393,Scaffold,correct name,No,42,GCF_001700505.1 | Streptomyces mutomycini NRRL B-65393 - ST 29,1,72,105
+32,GCF_014650935.1,Streptomyces subrutilus,1,JCM 4834,Scaffold,correct name,Yes,106,GCF_014650935.1 | Streptomyces subrutilus JCM 4834 - ST 32,0,8,17
+32,GCF_008704535.1,Streptomyces subrutilus,6,ATCC 27467,Complete Genome,correct name,Yes,106,GCF_008704535.1 | Streptomyces subrutilus ATCC 27467 - ST 32,0,8,17
+38,GCF_000716935.1,Streptomyces alboviridis,1,NRRL B-1579,Contig,synonym,No,1,GCF_000716935.1 | Streptomyces alboviridis NRRL B-1579 - ST 38,1,1,5
+39,GCF_000359525.1,Streptomyces albidoflavus,5,J1074,Complete Genome,correct name,No,3,GCF_000359525.1 | Streptomyces albidoflavus J1074 - ST 39,3,57,79
+39,GCF_013693715.1,Streptomyces albidoflavus,4,J1074/R2,Complete Genome,correct name,No,3,GCF_013693715.1 | Streptomyces albidoflavus J1074/R2 - ST 39,3,57,79
+45,GCF_014648615.1,Streptomyces nojiriensis,1,JCM 3382,Scaffold,correct name,Yes,9,GCF_014648615.1 | Streptomyces nojiriensis JCM 3382 - ST 45,4,117,162
+45,GCF_016755855.1,Streptomyces nojiriensis,7,NBRC 13794,Contig,correct name,Yes,9,GCF_016755855.1 | Streptomyces nojiriensis NBRC 13794 - ST 45,4,117,162
+45,GCF_017639205.1,Streptomyces nojiriensis,7,JCM 3382,Complete Genome,correct name,Yes,9,GCF_017639205.1 | Streptomyces nojiriensis JCM 3382 - ST 45,4,117,162
+47,GCF_016755875.1,Streptomyces spororaveus,7,NBRC 15456,Contig,correct name,Yes,9,GCF_016755875.1 | Streptomyces spororaveus NBRC 15456 - ST 47,1,117,163
+49,GCF_000717665.1,Streptomyces californicus,1,NRRL 2423,Contig,correct name,Yes,7,GCF_000717665.1 | Streptomyces californicus NRRL 2423 - ST 49,3,96,133
+51,GCF_013409565.1,Streptomyces fulvorobeus,3,DSM 41455,Contig,correct name,Yes,1,GCF_013409565.1 | Streptomyces fulvorobeus DSM 41455 - ST 51,1,3,9
+51,GCF_013167895.1,Streptomyces fulvorobeus,3,NBRC 15897,Contig,correct name,Yes,1,GCF_013167895.1 | Streptomyces fulvorobeus NBRC 15897 - ST 51,1,3,9
+52,GCF_000720485.1,Streptomyces ochraceiscleroticus,1,NRRL ISP-5594,Contig,correct name,Yes,111,GCF_000720485.1 | Streptomyces ochraceiscleroticus NRRL ISP-5594 - ST 52,0,129,175
+55,GCF_001723055.1,Streptomyces niveus,1,NRRL 2466,Scaffold,correct name,Yes,61,GCF_001723055.1 | Streptomyces niveus NRRL 2466 - ST 55,1,91,128
+56,GCF_001553455.1,Streptomyces hygroscopicus,1,NBRC 13472,Contig,correct name,Yes,16,GCF_001553455.1 | Streptomyces hygroscopicus NBRC 13472 - ST 56,2,24,39
+56,GCF_001553475.1,Streptomyces hygroscopicus,1,NBRC 12859,Contig,correct name,Yes,16,GCF_001553475.1 | Streptomyces hygroscopicus NBRC 12859 - ST 56,2,24,39
+58,GCF_004125245.1,Streptomyces lydicus,7,ATCC 25470,Contig,correct name,Yes,22,GCF_004125245.1 | Streptomyces lydicus ATCC 25470 - ST 58,4,44,65
+59,GCF_009811635.1,Streptomyces tubercidicus,7,NBRC 13090,Contig,correct name,Yes,8,GCF_009811635.1 | Streptomyces tubercidicus NBRC 13090 - ST 59,1,106,145
+60,GCF_001294335.1,Streptomyces chattanoogensis,1,NRRL ISP-5002,Contig,correct name,Yes,22,GCF_001294335.1 | Streptomyces chattanoogensis NRRL ISP-5002 - ST 60,1,43,64
+66,GCF_009811555.1,Streptomyces caniferus,7,NBRC 15389,Contig,correct name,Yes,113,GCF_009811555.1 | Streptomyces caniferus NBRC 15389 - ST 66,0,130,176
+67,GCF_005405925.1,Streptomyces antimycoticus,1,NBRC 12839,Contig,correct name,Yes,5,GCF_005405925.1 | Streptomyces antimycoticus NBRC 12839 - ST 67,2,79,113
+69,GCF_014648695.1,Streptomyces albospinus,1,JCM 3399,Scaffold,correct name,Yes,115,GCF_014648695.1 | Streptomyces albospinus JCM 3399 - ST 69,0,131,177
+78,GCF_001570645.1,Streptomyces hygroscopicus,1,NBRC 100766,Scaffold,correct name,Yes,16,GCF_001570645.1 | Streptomyces hygroscopicus NBRC 100766 - ST 78,4,24,39
+78,GCF_001553435.1,Streptomyces hygroscopicus,1,NBRC 16556,Scaffold,correct name,No,16,GCF_001553435.1 | Streptomyces hygroscopicus NBRC 16556 - ST 78,4,24,39
+82,GCF_001270575.1,Streptomyces decoyicus,1,NRRL 2666,Contig,correct name,Yes,64,GCF_001270575.1 | Streptomyces decoyicus NRRL 2666 - ST 82,1,92,129
+85,GCF_003970715.1,Streptomyces luteoverticillatus,6,CGMCC 15060,Complete Genome,synonym,No,63,GCF_003970715.1 | Streptomyces luteoverticillatus CGMCC 15060 - ST 85,1,132,178
+91,GCF_002727115.1,Streptomyces cinnamoneus,8,ATCC 21532,Contig,correct name,Yes,44,GCF_002727115.1 | Streptomyces cinnamoneus ATCC 21532 - ST 91,1,74,107
+91,GCF_002939475.1,Streptomyces cinnamoneus,3,DSM 41675,Contig,correct name,Yes,44,GCF_002939475.1 | Streptomyces cinnamoneus DSM 41675 - ST 91,1,74,107
+92,GCF_009811595.1,Streptomyces libani,4,NBRC 13452,Contig,correct name,Yes,8,GCF_009811595.1 | Streptomyces libani NBRC 13452 - ST 92,2,106,143
+93,GCF_016834575.1,Streptomyces sp.,1,S-9,Scaffold,not validly described,No,21,GCF_016834575.1 | Streptomyces sp. S-9 - ST 93,2,42,63
+94,GCF_002154275.1,Streptomyces antimycoticus,1,NRRL B-24289,Scaffold,correct name,No,5,GCF_002154275.1 | Streptomyces antimycoticus NRRL B-24289 - ST 94,4,79,113
+95,GCF_009936315.1,Streptomyces antimycoticus,3,NBRC 100767,Complete Genome,correct name,Yes,5,GCF_009936315.1 | Streptomyces antimycoticus NBRC 100767 - ST 95,2,79,113
+98,GCF_018138715.1,Streptomyces asiaticus,4,DSM 41761,Contig,correct name,Yes,5,GCF_018138715.1 | Streptomyces asiaticus DSM 41761 - ST 98,4,79,112
+98,GCF_018138705.1,Streptomyces indonesiensis,2,DSM 41759,Contig,correct name,Yes,5,GCF_018138705.1 | Streptomyces indonesiensis DSM 41759 - ST 98,4,79,112
+99,GCF_002155885.1,Streptomyces rhizosphaericus,1,NRRL B-24304,Scaffold,correct name,No,5,GCF_002155885.1 | Streptomyces rhizosphaericus NRRL B-24304 - ST 99,1,79,112
+99,GCF_017942185.1,Streptomyces rhizosphaericus,5,DSM 41760,Contig,correct name,Yes,5,GCF_017942185.1 | Streptomyces rhizosphaericus DSM 41760 - ST 99,1,79,112
+103,GCF_000715845.1,Streptomyces monomycini,1,NRRL B-24309,Scaffold,correct name,No,121,GCF_000715845.1 | Streptomyces monomycini NRRL B-24309 - ST 103,0,133,179
+105,GCF_004195845.1,Streptomyces albidoflavus,1,CGMCC 4.1681,Contig,correct name,Yes,3,GCF_004195845.1 | Streptomyces albidoflavus CGMCC 4.1681 - ST 105,10,57,79
+107,GCF_004195885.1,Streptomyces albidoflavus,1,NBRC 12790,Contig,correct name,Yes,3,GCF_004195885.1 | Streptomyces albidoflavus NBRC 12790 - ST 107,5,57,79
+110,GCF_004195755.1,Streptomyces albidoflavus,1,NBRC 13083,Contig,correct name,Yes,3,GCF_004195755.1 | Streptomyces albidoflavus NBRC 13083 - ST 110,1,57,79
+120,GCF_016612755.1,Streptomyces sp.,1,MBT51,Contig,not validly described,No,26,GCF_016612755.1 | Streptomyces sp. MBT51 - ST 120,1,52,74
+123,GCF_001514195.1,Streptomyces griseorubiginosus,1,DSM 40469,Scaffold,correct name,Yes,28,GCF_001514195.1 | Streptomyces griseorubiginosus DSM 40469 - ST 123,1,55,77
+124,GCF_001278075.1,Streptomyces pristinaespiralis,6,HCCB 10218,Complete Genome,no record in LPSN entry,No,39,GCF_001278075.1 | Streptomyces pristinaespiralis HCCB 10218 - ST 124,1,67,94
+124,GCF_014070435.1,Streptomyces pristinaespiralis,5,PR11,Complete Genome,no record in LPSN entry,No,39,GCF_014070435.1 | Streptomyces pristinaespiralis PR11 - ST 124,1,67,94
+125,GCF_014650375.1,Streptomyces nitrosporeus,1,JCM 4598,Scaffold,correct name,Yes,125,GCF_014650375.1 | Streptomyces nitrosporeus JCM 4598 - ST 125,0,10,19
+125,GCF_008704555.1,Streptomyces nitrosporeus,6,ATCC 12769,Complete Genome,correct name,Yes,125,GCF_008704555.1 | Streptomyces nitrosporeus ATCC 12769 - ST 125,0,10,19
+128,GCF_016906265.1,Streptomyces californicus,6,FDAARGOS_1210,Complete Genome,correct name,No,7,GCF_016906265.1 | Streptomyces californicus FDAARGOS_1210 - ST 128,1,96,133
+129,GCF_002155905.1,Streptomyces tricolor,1,NRRL B-16925,Scaffold,synonym,Yes,45,GCF_002155905.1 | Streptomyces tricolor NRRL B-16925 - ST 129,2,75,108
+138,GCF_004195945.1,Streptomyces albidoflavus,1,CR10,Contig,correct name,No,3,GCF_004195945.1 | Streptomyces albidoflavus CR10 - ST 138,2,57,79
+143,GCF_004196035.1,Streptomyces albidoflavus,1,CR19,Contig,correct name,No,3,GCF_004196035.1 | Streptomyces albidoflavus CR19 - ST 143,2,57,79
+144,GCF_004195935.1,Streptomyces albidoflavus,1,CR33,Contig,correct name,No,3,GCF_004195935.1 | Streptomyces albidoflavus CR33 - ST 144,1,57,79
+144,GCF_004195955.1,Streptomyces albidoflavus,1,CR25,Contig,correct name,No,3,GCF_004195955.1 | Streptomyces albidoflavus CR25 - ST 144,1,57,79
+146,GCF_004195995.1,Streptomyces albidoflavus,1,CR47,Contig,correct name,No,3,GCF_004195995.1 | Streptomyces albidoflavus CR47 - ST 146,1,57,79
+148,GCF_004195855.1,Streptomyces albidoflavus,1,FXJ.2339,Contig,correct name,No,3,GCF_004195855.1 | Streptomyces albidoflavus FXJ.2339 - ST 148,1,57,79
+150,GCF_004196145.1,Streptomyces albidoflavus,1,FXJ8.031,Contig,correct name,No,3,GCF_004196145.1 | Streptomyces albidoflavus FXJ8.031 - ST 150,1,57,79
+150,GCF_004196155.1,Streptomyces albidoflavus,1,CGMCC 4.1615,Contig,correct name,Yes,3,GCF_004196155.1 | Streptomyces albidoflavus CGMCC 4.1615 - ST 150,1,57,79
+152,GCF_004195965.1,Streptomyces albidoflavus,1,Ma1,Contig,correct name,No,3,GCF_004195965.1 | Streptomyces albidoflavus Ma1 - ST 152,2,57,79
+155,GCF_000716675.1,Streptomyces alboflavus,1,NRRL B-2373,Contig,correct name,Yes,66,GCF_000716675.1 | Streptomyces alboflavus NRRL B-2373 - ST 155,1,93,130
+156,GCF_000813365.1,Streptomyces albus,1,NBRC 13014,Scaffold,correct name,Yes,29,GCF_000813365.1 | Streptomyces albus NBRC 13014 - ST 156,3,56,78
+156,GCF_001661615.1,Streptomyces albus,1,NRRL B-12378,Scaffold,correct name,Yes,29,GCF_001661615.1 | Streptomyces albus NRRL B-12378 - ST 156,3,56,78
+156,GCF_001418545.1,Streptomyces albus,1,NRRL B-1335,Scaffold,correct name,Yes,29,GCF_001418545.1 | Streptomyces albus NRRL B-1335 - ST 156,3,56,78
+156,GCF_001418125.1,Streptomyces albus,1,NRRL B-1685,Scaffold,correct name,Yes,29,GCF_001418125.1 | Streptomyces albus NRRL B-1685 - ST 156,3,56,78
+157,GCF_002154415.1,Streptomyces angustmyceticus,1,NRRL B-2347,Scaffold,correct name,Yes,23,GCF_002154415.1 | Streptomyces angustmyceticus NRRL B-2347 - ST 157,1,47,68
+160,GCF_000009765.2,Streptomyces avermitilis,6,MA-4680,Complete Genome,correct name,Yes,129,GCF_000009765.2 | Streptomyces avermitilis MA-4680 - ST 160,0,11,20
+160,GCF_000764715.1,Streptomyces avermitilis,1,NBRC 14893,Scaffold,correct name,Yes,129,GCF_000764715.1 | Streptomyces avermitilis NBRC 14893 - ST 160,0,11,20
+160,GCF_001514135.1,Streptomyces avermitilis,1,DSM 46492,Scaffold,correct name,Yes,129,GCF_001514135.1 | Streptomyces avermitilis DSM 46492 - ST 160,0,11,20
+160,GCF_002017835.1,Streptomyces avermitilis,5,MJM 7007,Contig,correct name,No,129,GCF_002017835.1 | Streptomyces avermitilis MJM 7007 - ST 160,0,11,20
+160,GCF_005405965.1,Streptomyces avermitilis,5,NBRC 14893,Contig,correct name,Yes,129,GCF_005405965.1 | Streptomyces avermitilis NBRC 14893 - ST 160,0,11,20
+160,GCF_009862865.1,Streptomyces sp.,6,SID5469,Contig,not validly described,No,129,GCF_009862865.1 | Streptomyces sp. SID5469 - ST 160,0,11,20
+160,GCF_005406005.1,Streptomyces avermitilis,5,cw2,Contig,correct name,No,129,GCF_005406005.1 | Streptomyces avermitilis cw2 - ST 160,0,11,20
+162,GCF_009870085.1,Streptomyces sp.,1,SID5476,Scaffold,not validly described,No,130,GCF_009870085.1 | Streptomyces sp. SID5476 - ST 162,0,13,22
+162,GCF_000383595.1,Streptomyces bottropensis,6,ATCC 25435,Scaffold,correct name,Yes,130,GCF_000383595.1 | Streptomyces bottropensis ATCC 25435 - ST 162,0,13,22
+162,GCF_000340335.1,Streptomyces bottropensis,1,ATCC 25435,Scaffold,correct name,Yes,130,GCF_000340335.1 | Streptomyces bottropensis ATCC 25435 - ST 162,0,13,22
+167,GCF_015912435.1,Streptomyces clavuligerus,1,NCIMB 14335,Contig,correct name,No,132,GCF_015912435.1 | Streptomyces clavuligerus NCIMB 14335 - ST 167,0,14,23
+167,GCF_015912455.1,Streptomyces clavuligerus,1,BW0219,Contig,correct name,No,132,GCF_015912455.1 | Streptomyces clavuligerus BW0219 - ST 167,0,14,23
+167,GCF_001693675.1,Streptomyces clavuligerus,6,F613-1,Complete Genome,correct name,No,132,GCF_001693675.1 | Streptomyces clavuligerus F613-1 - ST 167,0,14,23
+167,GCF_015912395.1,Streptomyces clavuligerus,1,ATCC 27064,Contig,correct name,Yes,132,GCF_015912395.1 | Streptomyces clavuligerus ATCC 27064 - ST 167,0,14,23
+167,GCF_015767935.1,Streptomyces clavuligerus,5,F1D28,Complete Genome,correct name,No,132,GCF_015767935.1 | Streptomyces clavuligerus F1D28 - ST 167,0,14,23
+167,GCF_015767915.1,Streptomyces clavuligerus,5,F1D35,Complete Genome,correct name,No,132,GCF_015767915.1 | Streptomyces clavuligerus F1D35 - ST 167,0,14,23
+167,GCF_015767855.1,Streptomyces clavuligerus,5,F1D18,Complete Genome,correct name,No,132,GCF_015767855.1 | Streptomyces clavuligerus F1D18 - ST 167,0,14,23
+167,GCF_015767875.1,Streptomyces clavuligerus,5,F1D26,Complete Genome,correct name,No,132,GCF_015767875.1 | Streptomyces clavuligerus F1D26 - ST 167,0,14,23
+167,GCF_015912465.1,Streptomyces clavuligerus,1,BW0220,Contig,correct name,No,132,GCF_015912465.1 | Streptomyces clavuligerus BW0220 - ST 167,0,14,23
+167,GCF_015767815.1,Streptomyces clavuligerus,4,F1D14,Complete Genome,correct name,No,132,GCF_015767815.1 | Streptomyces clavuligerus F1D14 - ST 167,0,14,23
+167,GCF_015767795.1,Streptomyces clavuligerus,5,F1D10,Complete Genome,correct name,No,132,GCF_015767795.1 | Streptomyces clavuligerus F1D10 - ST 167,0,14,23
+167,GCF_015767775.1,Streptomyces clavuligerus,5,F1D7,Complete Genome,correct name,No,132,GCF_015767775.1 | Streptomyces clavuligerus F1D7 - ST 167,0,14,23
+167,GCF_015767755.1,Streptomyces clavuligerus,5,F1D4,Complete Genome,correct name,No,132,GCF_015767755.1 | Streptomyces clavuligerus F1D4 - ST 167,0,14,23
+167,GCF_015767735.1,Streptomyces clavuligerus,5,F1D1,Complete Genome,correct name,No,132,GCF_015767735.1 | Streptomyces clavuligerus F1D1 - ST 167,0,14,23
+167,GCF_015708605.1,Streptomyces clavuligerus,5,Leon-isolate,Complete Genome,correct name,No,132,GCF_015708605.1 | Streptomyces clavuligerus Leon-isolate - ST 167,0,14,23
+167,GCF_005519465.1,Streptomyces clavuligerus,5,ATCC 27064,Complete Genome,correct name,Yes,132,GCF_005519465.1 | Streptomyces clavuligerus ATCC 27064 - ST 167,0,14,23
+167,GCF_003454755.1,Streptomyces clavuligerus,6,F1D-5,Complete Genome,correct name,No,132,GCF_003454755.1 | Streptomyces clavuligerus F1D-5 - ST 167,0,14,23
+167,GCF_015767895.1,Streptomyces clavuligerus,4,F1D31,Complete Genome,correct name,No,132,GCF_015767895.1 | Streptomyces clavuligerus F1D31 - ST 167,0,14,23
+167,GCF_015912875.1,Streptomyces clavuligerus,1,DSM 738,Contig,correct name,Yes,132,GCF_015912875.1 | Streptomyces clavuligerus DSM 738 - ST 167,0,14,23
+167,GCF_000163875.1,Streptomyces clavuligerus,4,ATCC 27064,Chromosome,correct name,Yes,132,GCF_000163875.1 | Streptomyces clavuligerus ATCC 27064 - ST 167,0,14,23
+167,GCF_015912925.1,Streptomyces clavuligerus,1,ATCC 27064,Contig,correct name,Yes,132,GCF_015912925.1 | Streptomyces clavuligerus ATCC 27064 - ST 167,0,14,23
+167,GCF_015912945.1,Streptomyces clavuligerus,1,NCIMB 12785,Contig,correct name,Yes,132,GCF_015912945.1 | Streptomyces clavuligerus NCIMB 12785 - ST 167,0,14,23
+167,GCF_015912975.1,Streptomyces clavuligerus,1,BW0218,Contig,correct name,No,132,GCF_015912975.1 | Streptomyces clavuligerus BW0218 - ST 167,0,14,23
+167,GCF_015912985.1,Streptomyces clavuligerus,1,BW0217,Contig,correct name,No,132,GCF_015912985.1 | Streptomyces clavuligerus BW0217 - ST 167,0,14,23
+167,GCF_015912995.1,Streptomyces clavuligerus,1,BW0216,Contig,correct name,No,132,GCF_015912995.1 | Streptomyces clavuligerus BW0216 - ST 167,0,14,23
+167,GCF_000148465.1,Streptomyces clavuligerus,3,ATCC 27064,Chromosome,correct name,Yes,132,GCF_000148465.1 | Streptomyces clavuligerus ATCC 27064 - ST 167,0,14,23
+167,GCF_015912895.1,Streptomyces clavuligerus,1,NRRL 3585,Contig,correct name,Yes,132,GCF_015912895.1 | Streptomyces clavuligerus NRRL 3585 - ST 167,0,14,23
+168,GCF_008931305.1,Streptomyces coelicolor,4,CFB_NBC_0001,Complete Genome,synonym,No,13,GCF_008931305.1 | Streptomyces coelicolor CFB_NBC_0001 - ST 168,3,12,21
+168,GCF_009862445.1,Streptomyces sp.,4,SID7813,Contig,not validly described,No,13,GCF_009862445.1 | Streptomyces sp. SID7813 - ST 168,3,12,21
+168,GCF_013307045.1,Streptomyces coelicolor,1,M1154/pAMX4,Contig,synonym,No,13,GCF_013307045.1 | Streptomyces coelicolor M1154/pAMX4 - ST 168,3,12,21
+168,GCF_013317105.1,Streptomyces coelicolor,4,M1154/pAMX4/pGP1416,Complete Genome,synonym,No,13,GCF_013317105.1 | Streptomyces coelicolor M1154/pAMX4/pGP1416 - ST 168,3,12,21
+168,GCF_008124975.1,Streptomyces coelicolor,1,A3(2) R4-mCherry-17,Scaffold,synonym,No,13,GCF_008124975.1 | Streptomyces coelicolor A3(2) R4-mCherry-17 - ST 168,3,12,21
+168,GCF_008124915.1,Streptomyces coelicolor,1,ICSSB 1010,Scaffold,synonym,No,13,GCF_008124915.1 | Streptomyces coelicolor ICSSB 1010 - ST 168,3,12,21
+168,GCF_008124905.1,Streptomyces coelicolor,1,A3(2) R4-mCherry-14,Scaffold,synonym,No,13,GCF_008124905.1 | Streptomyces coelicolor A3(2) R4-mCherry-14 - ST 168,3,12,21
+168,GCF_008125035.1,Streptomyces coelicolor,1,A3(2) R4-mCherry-18,Scaffold,synonym,No,13,GCF_008125035.1 | Streptomyces coelicolor A3(2) R4-mCherry-18 - ST 168,3,12,21
+168,GCF_008124985.1,Streptomyces coelicolor,1,A3(2) R4-mCherry-15,Scaffold,synonym,No,13,GCF_008124985.1 | Streptomyces coelicolor A3(2) R4-mCherry-15 - ST 168,3,12,21
+173,GCF_000955965.1,Streptomyces variegatus,1,NRRL B-16380,Contig,correct name,No,136,GCF_000955965.1 | Streptomyces variegatus NRRL B-16380 - ST 173,0,15,24
+173,GCF_000725785.1,Streptomyces flavovariabilis,1,NRRL B-16367,Scaffold,correct name,Yes,136,GCF_000725785.1 | Streptomyces flavovariabilis NRRL B-16367 - ST 173,0,15,24
+174,GCF_000385945.1,Streptomyces fulvissimus,6,DSM 40593,Complete Genome,synonym,Yes,1,GCF_000385945.1 | Streptomyces fulvissimus DSM 40593 - ST 174,1,1,5
+180,GCF_001418475.1,Streptomyces ossamyceticus,1,NRRL B-3822,Scaffold,correct name,Yes,68,GCF_001418475.1 | Streptomyces ossamyceticus NRRL B-3822 - ST 180,1,94,131
+181,GCF_000717055.1,Streptomyces iakyrus,1,NRRL ISP-5482,Contig,correct name,Yes,69,GCF_000717055.1 | Streptomyces iakyrus NRRL ISP-5482 - ST 181,1,95,132
+182,GCF_006547165.1,Streptomyces ipomoeae,1,B12321,Scaffold,correct name,No,31,GCF_006547165.1 | Streptomyces ipomoeae B12321 - ST 182,1,59,81
+183,GCF_000966975.1,Streptomyces katrae,1,NRRL ISP-5550,Contig,correct name,Yes,138,GCF_000966975.1 | Streptomyces katrae NRRL ISP-5550 - ST 183,0,134,180
+184,GCF_000718155.1,Streptomyces lavendulae,1,NRRL B-2774,Contig,correct name,No,139,GCF_000718155.1 | Streptomyces lavendulae NRRL B-2774 - ST 184,0,135,181
+185,GCF_000718625.1,Streptomyces lavenduligriseus,1,NRRL ISP-5487,Contig,correct name,Yes,140,GCF_000718625.1 | Streptomyces lavenduligriseus NRRL ISP-5487 - ST 185,0,17,31
+185,GCF_011820545.1,Streptomyces sp.,4,DSM 40868,Complete Genome,not validly described,No,140,GCF_011820545.1 | Streptomyces sp. DSM 40868 - ST 185,0,17,31
+186,GCF_000696595.1,Streptomyces leeuwenhoekii,1,C34,Scaffold,correct name,Yes,48,GCF_000696595.1 | Streptomyces leeuwenhoekii C34 - ST 186,2,77,110
+190,GCF_000342125.1,Streptomyces mobaraensis,1,DSM 40847,Contig,correct name,Yes,70,GCF_000342125.1 | Streptomyces mobaraensis DSM 40847 - ST 190,1,97,134
+191,GCF_001418645.1,Streptomyces neyagawaensis,1,NRRL B-3092,Scaffold,correct name,Yes,144,GCF_001418645.1 | Streptomyces neyagawaensis NRRL B-3092 - ST 191,0,136,182
+193,GCF_000819545.1,Streptomyces nodosus,1,ATCC 14899,Chromosome,correct name,Yes,49,GCF_000819545.1 | Streptomyces nodosus ATCC 14899 - ST 193,2,78,111
+194,GCF_000716875.1,Streptomyces novaecaesareae,1,NRRL B-1267,Contig,correct name,Yes,145,GCF_000716875.1 | Streptomyces novaecaesareae NRRL B-1267 - ST 194,0,18,32
+194,GCF_000717725.1,Streptomyces pyridomyceticus,1,NRRL ISP-5024,Contig,no record in LPSN entry,No,145,GCF_000717725.1 | Streptomyces pyridomyceticus NRRL ISP-5024 - ST 194,0,18,32
+195,GCF_000721235.1,Streptomyces olivaceus,1,NRRL B-3009,Contig,correct name,Yes,146,GCF_000721235.1 | Streptomyces olivaceus NRRL B-3009 - ST 195,0,137,183
+202,GCF_000367365.1,Streptomyces prunicolor,1,NBRC 13075,Contig,correct name,Yes,147,GCF_000367365.1 | Streptomyces prunicolor NBRC 13075 - ST 202,0,138,184
+204,GCF_000384175.1,Streptomyces purpureus,2,KA281,Scaffold,correct name,No,72,GCF_000384175.1 | Streptomyces purpureus KA281 - ST 204,1,98,135
+206,GCF_001514265.1,Streptomyces resistomycificus,1,DSM 40133,Scaffold,correct name,Yes,149,GCF_001514265.1 | Streptomyces resistomycificus DSM 40133 - ST 206,0,19,33
+206,GCF_001270505.1,Streptomyces resistomycificus,1,NRRL 2290,Contig,correct name,Yes,149,GCF_001270505.1 | Streptomyces resistomycificus NRRL 2290 - ST 206,0,19,33
+206,GCF_000716215.1,Streptomyces resistomycificus,1,NRRL ISP-5133,Scaffold,correct name,Yes,149,GCF_000716215.1 | Streptomyces resistomycificus NRRL ISP-5133 - ST 206,0,19,33
+220,GCF_000718095.1,Streptomyces scopuliridis,1,NRRL B-24574,Contig,correct name,Yes,50,GCF_000718095.1 | Streptomyces scopuliridis NRRL B-24574 - ST 220,1,80,114
+220,GCF_003073355.1,Streptomyces scopuliridis,1,RB72,Contig,correct name,No,50,GCF_003073355.1 | Streptomyces scopuliridis RB72 - ST 220,1,80,114
+226,GCF_000719255.1,Streptomyces varsoviensis,1,NRRL B-3589,Contig,correct name,Yes,154,GCF_000719255.1 | Streptomyces varsoviensis NRRL B-3589 - ST 226,0,21,36
+226,GCF_000718635.1,Streptomyces varsoviensis,1,NRRL ISP-5346,Contig,correct name,Yes,154,GCF_000718635.1 | Streptomyces varsoviensis NRRL ISP-5346 - ST 226,0,21,36
+227,GCF_000830005.1,Streptomyces vietnamensis,7,GIM4.0001,Complete Genome,correct name,No,155,GCF_000830005.1 | Streptomyces vietnamensis GIM4.0001 - ST 227,0,139,185
+230,GCF_000380165.1,Streptomyces vitaminophilus,1,DSM 41686,Scaffold,synonym,Yes,158,GCF_000380165.1 | Streptomyces vitaminophilus DSM 41686 - ST 230,0,22,37
+230,GCF_001445835.1,Streptomyces vitaminophilus,1,ATCC 31673,Contig,synonym,Yes,158,GCF_001445835.1 | Streptomyces vitaminophilus ATCC 31673 - ST 230,0,22,37
+231,GCF_001270515.1,Streptomyces viridochromogenes,1,NRRL 3427,Contig,correct name,No,159,GCF_001270515.1 | Streptomyces viridochromogenes NRRL 3427 - ST 231,0,23,38
+231,GCF_000716445.1,Streptomyces wedmorensis,1,NRRL 3426,Contig,correct name,Yes,159,GCF_000716445.1 | Streptomyces wedmorensis NRRL 3426 - ST 231,0,23,38
+232,GCF_000725805.1,Streptomyces xanthophaeus,1,NRRL B-5414,Scaffold,correct name,Yes,9,GCF_000725805.1 | Streptomyces xanthophaeus NRRL B-5414 - ST 232,2,117,159
+233,GCF_000220705.2,Streptomyces xinghaiensis,2,S187,Complete Genome,correct name,Yes,75,GCF_000220705.2 | Streptomyces xinghaiensis S187 - ST 233,1,100,137
+234,GCF_000745345.1,Streptomyces yeochonensis,5,CN732,Contig,correct name,No,160,GCF_000745345.1 | Streptomyces yeochonensis CN732 - ST 234,0,140,186
+236,GCF_000225525.1,Streptomyces zinciresistens,1,K42,Contig,correct name,Yes,162,GCF_000225525.1 | Streptomyces zinciresistens K42 - ST 236,0,141,187
+238,GCF_000092385.1,Streptomyces bingchenggensis,6,BCW-1,Complete Genome,no record in LPSN entry,No,60,GCF_000092385.1 | Streptomyces bingchenggensis BCW-1 - ST 238,1,142,188
+239,GCF_000147815.2,Streptomyces violaceusniger,4,Tu 4113,Complete Genome,correct name,No,164,GCF_000147815.2 | Streptomyces violaceusniger Tu 4113 - ST 239,0,143,189
+240,GCF_000177175.2,Streptomyces sp.,3,XylebKG-1,Scaffold,not validly described,No,1,GCF_000177175.2 | Streptomyces sp. XylebKG-1 - ST 240,4,1,1
+241,GCF_900091715.1,Streptomyces sp.,1,DpondAA-F4a,Contig,not validly described,No,26,GCF_900091715.1 | Streptomyces sp. DpondAA-F4a - ST 241,2,52,74
+241,GCF_900095575.1,Streptomyces sp.,1,DpondAA-F4,Contig,not validly described,No,26,GCF_900095575.1 | Streptomyces sp. DpondAA-F4 - ST 241,2,52,74
+241,GCF_009863165.1,Streptomyces sp.,1,SID4939,Contig,not validly described,No,26,GCF_009863165.1 | Streptomyces sp. SID4939 - ST 241,2,52,74
+241,GCF_009862475.1,Streptomyces sp.,1,SID4940,Contig,not validly described,No,26,GCF_009862475.1 | Streptomyces sp. SID4940 - ST 241,2,52,74
+241,GCF_009862105.1,Streptomyces sp.,1,SID8357,Contig,not validly described,No,26,GCF_009862105.1 | Streptomyces sp. SID8357 - ST 241,2,52,74
+241,GCF_000382745.1,Streptomyces sp.,1,DvalAA-83,Contig,not validly described,No,26,GCF_000382745.1 | Streptomyces sp. DvalAA-83 - ST 241,2,52,74
+241,GCF_000177195.2,Streptomyces sp.,6,SirexAA-E,Complete Genome,not validly described,No,26,GCF_000177195.2 | Streptomyces sp. SirexAA-E - ST 241,2,52,74
+241,GCF_009865465.1,Streptomyces sp.,6,SID1,Contig,not validly described,No,26,GCF_009865465.1 | Streptomyces sp. SID1 - ST 241,2,52,74
+242,GCF_000226455.1,Streptomyces chartreusis,1,NRRL 12338,Scaffold,correct name,No,165,GCF_000226455.1 | Streptomyces chartreusis NRRL 12338 - ST 242,0,25,40
+242,GCF_009862985.1,Streptomyces sp.,1,SID5464,Scaffold,not validly described,No,165,GCF_009862985.1 | Streptomyces sp. SID5464 - ST 242,0,25,40
+242,GCF_900236475.1,Streptomyces chartreusis,6,NRRL3882,Complete Genome,correct name,No,165,GCF_900236475.1 | Streptomyces chartreusis NRRL3882 - ST 242,0,25,40
+242,GCF_900236505.1,Streptomyces chartreusis,6,NRRL3882,Complete Genome,correct name,No,165,GCF_900236505.1 | Streptomyces chartreusis NRRL3882 - ST 242,0,25,40
+243,GCF_000239075.1,Streptomyces sp.,1,W007,Contig,not validly described,No,1,GCF_000239075.1 | Streptomyces sp. W007 - ST 243,4,1,2
+244,GCF_000253235.1,Streptomyces venezuelae,1,ATCC 10712,Chromosome,correct name,Yes,20,GCF_000253235.1 | Streptomyces venezuelae ATCC 10712 - ST 244,1,41,61
+245,GCF_000261345.2,Streptomyces globisporus,6,C-1027,Complete Genome,correct name,No,2,GCF_000261345.2 | Streptomyces globisporus C-1027 - ST 245,2,37,52
+246,GCF_000297635.1,Streptomyces sp.,1,AA0539,Contig,not validly described,No,43,GCF_000297635.1 | Streptomyces sp. AA0539 - ST 246,1,73,106
+247,GCF_000299175.2,Streptomyces sp.,1,SM8,Scaffold,not validly described,No,3,GCF_000299175.2 | Streptomyces sp. SM8 - ST 247,1,57,79
+248,GCF_000317595.1,Streptomyces ipomoeae,7,91-03,Contig,correct name,No,31,GCF_000317595.1 | Streptomyces ipomoeae 91-03 - ST 248,3,59,81
+249,GCF_000720605.1,Streptomyces rimosus,1,NRRL WC-3558,Contig,correct name,No,8,GCF_000720605.1 | Streptomyces rimosus NRRL WC-3558 - ST 249,2,105,142
+249,GCF_008704655.1,Streptomyces rimosus,4,ATCC 10970,Complete Genome,correct name,Yes,8,GCF_008704655.1 | Streptomyces rimosus ATCC 10970 - ST 249,2,105,142
+249,GCF_006229535.1,Streptomyces rimosus,7,WT5260,Complete Genome,correct name,No,8,GCF_006229535.1 | Streptomyces rimosus WT5260 - ST 249,2,105,142
+249,GCF_001507395.1,Streptomyces rimosus,1,NRRL WC-3897,Contig,correct name,No,8,GCF_001507395.1 | Streptomyces rimosus NRRL WC-3897 - ST 249,2,105,142
+249,GCF_001279375.1,Streptomyces rimosus,1,NRRL WC-3898,Contig,correct name,No,8,GCF_001279375.1 | Streptomyces rimosus NRRL WC-3898 - ST 249,2,105,142
+249,GCF_001279105.1,Streptomyces rimosus,1,NRRL WC-3873,Contig,correct name,No,8,GCF_001279105.1 | Streptomyces rimosus NRRL WC-3873 - ST 249,2,105,142
+249,GCF_001279095.1,Streptomyces rimosus,1,NRRL WC-3899,Contig,correct name,No,8,GCF_001279095.1 | Streptomyces rimosus NRRL WC-3899 - ST 249,2,105,142
+249,GCF_001279075.1,Streptomyces rimosus,1,NRRL WC-3875,Contig,correct name,No,8,GCF_001279075.1 | Streptomyces rimosus NRRL WC-3875 - ST 249,2,105,142
+249,GCF_001279025.1,Streptomyces sp.,1,NRRL WC-3701,Contig,not validly described,No,8,GCF_001279025.1 | Streptomyces sp. NRRL WC-3701 - ST 249,2,105,142
+249,GCF_000707925.2,Streptomyces rimosus,3,R6-500,Chromosome,correct name,No,8,GCF_000707925.2 | Streptomyces rimosus R6-500 - ST 249,2,105,142
+249,GCF_000718815.1,Streptomyces sp.,1,NRRL WC-3703,Contig,not validly described,No,8,GCF_000718815.1 | Streptomyces sp. NRRL WC-3703 - ST 249,2,105,142
+249,GCF_001279015.1,Streptomyces rimosus,1,NRRL WC-3909,Contig,correct name,No,8,GCF_001279015.1 | Streptomyces rimosus NRRL WC-3909 - ST 249,2,105,142
+249,GCF_000718715.1,Streptomyces rimosus,1,NRRL WC-3874,Contig,correct name,No,8,GCF_000718715.1 | Streptomyces rimosus NRRL WC-3874 - ST 249,2,105,142
+249,GCF_000718295.1,Streptomyces capuensis,1,NRRL B-3501,Contig,no record in LPSN entry,No,8,GCF_000718295.1 | Streptomyces capuensis NRRL B-3501 - ST 249,2,105,142
+249,GCF_000717285.1,Streptomyces rimosus,1,NRRL ISP-5260,Contig,correct name,Yes,8,GCF_000717285.1 | Streptomyces rimosus NRRL ISP-5260 - ST 249,2,105,142
+249,GCF_000716845.1,Streptomyces capuensis,1,NRRL B-12337,Contig,no record in LPSN entry,No,8,GCF_000716845.1 | Streptomyces capuensis NRRL B-12337 - ST 249,2,105,142
+249,GCF_000721045.1,Streptomyces rimosus,1,NRRL B-2626,Contig,correct name,No,8,GCF_000721045.1 | Streptomyces rimosus NRRL B-2626 - ST 249,2,105,142
+249,GCF_000331185.2,Streptomyces rimosus,5,ATCC 10970,Complete Genome,correct name,Yes,8,GCF_000331185.2 | Streptomyces rimosus ATCC 10970 - ST 249,2,105,142
+249,GCF_000718835.1,Streptomyces rimosus,1,NRRL WC-3876,Contig,correct name,No,8,GCF_000718835.1 | Streptomyces rimosus NRRL WC-3876 - ST 249,2,105,142
+249,GCF_000720715.1,Streptomyces rimosus,1,NRRL WC-3900,Contig,correct name,No,8,GCF_000720715.1 | Streptomyces rimosus NRRL WC-3900 - ST 249,2,105,142
+249,GCF_000718865.1,Streptomyces rimosus,1,NRRL WC-3882,Contig,correct name,No,8,GCF_000718865.1 | Streptomyces rimosus NRRL WC-3882 - ST 249,2,105,142
+249,GCF_000720565.1,Streptomyces rimosus,1,NRRL WC-3925,Contig,correct name,No,8,GCF_000720565.1 | Streptomyces rimosus NRRL WC-3925 - ST 249,2,105,142
+250,GCF_000332625.1,Streptomyces viridochromogenes,1,Tue57,Contig,correct name,No,51,GCF_000332625.1 | Streptomyces viridochromogenes Tue57 - ST 250,2,82,116
+251,GCF_000349325.1,Streptomyces davaonensis,6,JCM 4913,Chromosome,correct name,Yes,166,GCF_000349325.1 | Streptomyces davaonensis JCM 4913 - ST 251,0,144,190
+252,GCF_000364805.1,Streptomyces sp.,5,PAMC 26508,Complete Genome,not validly described,No,1,GCF_000364805.1 | Streptomyces sp. PAMC 26508 - ST 252,1,2,3
+253,GCF_000373405.1,Streptomyces sp.,1,ScaeMP-e10,Scaffold,not validly described,No,1,GCF_000373405.1 | Streptomyces sp. ScaeMP-e10 - ST 253,1,1,4
+253,GCF_009872615.1,Streptomyces sp.,1,SID5594,Scaffold,not validly described,No,1,GCF_009872615.1 | Streptomyces sp. SID5594 - ST 253,1,1,4
+254,GCF_000403665.1,Streptomyces lividans,1,1326,Chromosome,no record in LPSN entry,No,13,GCF_000403665.1 | Streptomyces lividans 1326 - ST 254,3,12,21
+254,GCF_000972395.1,Streptomyces sp.,1,WM6391,Scaffold,not validly described,No,13,GCF_000972395.1 | Streptomyces sp. WM6391 - ST 254,3,12,21
+255,GCF_000403765.2,Streptomyces albulus,1,CCRC 11814,Contig,correct name,No,32,GCF_000403765.2 | Streptomyces albulus CCRC 11814 - ST 255,3,60,82
+255,GCF_003851665.1,Streptomyces albulus,6,NBRC 14147,Contig,correct name,No,32,GCF_003851665.1 | Streptomyces albulus NBRC 14147 - ST 255,3,60,82
+256,GCF_000411495.1,Streptomyces sp.,2,HPH0547,Scaffold,not validly described,No,29,GCF_000411495.1 | Streptomyces sp. HPH0547 - ST 256,1,56,78
+256,GCF_000720885.1,Streptomyces albus,1,NRRL B-2362,Contig,correct name,No,29,GCF_000720885.1 | Streptomyces albus NRRL B-2362 - ST 256,1,56,78
+256,GCF_004768505.1,Streptomyces albus,1,DSM 40763,Scaffold,correct name,No,29,GCF_004768505.1 | Streptomyces albus DSM 40763 - ST 256,1,56,78
+256,GCF_011006355.1,Streptomyces albus,1,CAS922,Complete Genome,correct name,No,29,GCF_011006355.1 | Streptomyces albus CAS922 - ST 256,1,56,78
+257,GCF_000444875.1,Streptomyces collinus,6,Tu 365,Complete Genome,correct name,No,167,GCF_000444875.1 | Streptomyces collinus Tu 365 - ST 257,0,145,191
+258,GCF_000495755.1,Streptomyces sp.,6,PVA 94-07,Chromosome,not validly described,No,3,GCF_000495755.1 | Streptomyces sp. PVA 94-07 - ST 258,4,57,79
+259,GCF_000498935.1,Streptomyces sp.,1,HCCB10043,Contig,not validly described,No,2,GCF_000498935.1 | Streptomyces sp. HCCB10043 - ST 259,2,37,53
+260,GCF_009865365.1,Streptomyces sp.,1,SID4912,Scaffold,not validly described,No,2,GCF_009865365.1 | Streptomyces sp. SID4912 - ST 260,3,38,54
+260,GCF_900091745.1,Streptomyces sp.,1,DpondAA-D4,Contig,not validly described,No,2,GCF_900091745.1 | Streptomyces sp. DpondAA-D4 - ST 260,3,38,54
+261,GCF_000590515.1,Streptomyces sp.,1,PRh5,Contig,not validly described,No,5,GCF_000590515.1 | Streptomyces sp. PRh5 - ST 261,2,79,112
+262,GCF_000612545.2,Streptomyces sp.,7,P1,Complete Genome,not validly described,No,168,GCF_000612545.2 | Streptomyces sp. P1 - ST 262,0,146,192
+263,GCF_009862115.1,Streptomyces sp.,1,SID8359,Scaffold,not validly described,No,33,GCF_009862115.1 | Streptomyces sp. SID8359 - ST 263,2,61,84
+263,GCF_000647875.1,Streptomyces sp.,1,SolWspMP-sol2th,Scaffold,not validly described,No,33,GCF_000647875.1 | Streptomyces sp. SolWspMP-sol2th - ST 263,2,61,84
+264,GCF_000695235.1,Streptomyces albulus,3,NK660,Complete Genome,correct name,No,32,GCF_000695235.1 | Streptomyces albulus NK660 - ST 264,1,60,82
+265,GCF_000698495.1,Streptomyces sp.,6,NTK 937,Contig,not validly described,No,2,GCF_000698495.1 | Streptomyces sp. NTK 937 - ST 265,2,38,54
+266,GCF_002966105.1,Streptomyces xinghaiensis,1,OlgR2-7A,Contig,correct name,No,75,GCF_002966105.1 | Streptomyces xinghaiensis OlgR2-7A - ST 266,1,100,137
+266,GCF_000700005.2,Streptomyces xinghaiensis,1,ATCC 19609,Contig,correct name,No,75,GCF_000700005.2 | Streptomyces xinghaiensis ATCC 19609 - ST 266,1,100,137
+266,GCF_001190165.1,Streptomyces fradiae,1,olg1-1,Contig,correct name,No,75,GCF_001190165.1 | Streptomyces fradiae olg1-1 - ST 266,1,100,137
+266,GCF_003122345.2,Streptomyces xinghaiensis,1,OlgR,Contig,correct name,No,75,GCF_003122345.2 | Streptomyces xinghaiensis OlgR - ST 266,1,100,137
+266,GCF_001756925.1,Streptomyces fradiae,1,Olg4R,Contig,correct name,No,75,GCF_001756925.1 | Streptomyces fradiae Olg4R - ST 266,1,100,137
+267,GCF_000709915.1,Streptomyces griseorubens,1,JSD-1,Scaffold,synonym,No,169,GCF_000709915.1 | Streptomyces griseorubens JSD-1 - ST 267,0,147,193
+268,GCF_000716025.1,Streptomyces baarnensis,1,NRRL B-2842,Scaffold,synonym,No,1,GCF_000716025.1 | Streptomyces baarnensis NRRL B-2842 - ST 268,1,1,6
+269,GCF_000716515.1,Streptomyces rimosus,1,NRRL B-16073,Contig,correct name,No,8,GCF_000716515.1 | Streptomyces rimosus NRRL B-16073 - ST 269,2,105,142
+270,GCF_000716625.1,Streptomyces bikiniensis,1,NRRL ISP-5580,Contig,correct name,No,46,GCF_000716625.1 | Streptomyces bikiniensis NRRL ISP-5580 - ST 270,1,148,194
+271,GCF_000716685.1,Streptomyces virginiae,1,NRRL B-8091,Contig,correct name,No,76,GCF_000716685.1 | Streptomyces virginiae NRRL B-8091 - ST 271,1,101,138
+272,GCF_000717595.1,Streptomyces flavochromogenes,1,NRRL B-2684,Contig,no record in LPSN entry,No,34,GCF_000717595.1 | Streptomyces flavochromogenes NRRL B-2684 - ST 272,1,62,85
+273,GCF_000717655.1,Streptomyces katrae,1,NRRL B-16271,Contig,correct name,No,41,GCF_000717655.1 | Streptomyces katrae NRRL B-16271 - ST 273,1,71,104
+274,GCF_000717745.1,Streptomyces violens,1,NRRL ISP-5597,Contig,correct name,Yes,23,GCF_000717745.1 | Streptomyces violens NRRL ISP-5597 - ST 274,1,46,67
+275,GCF_000717795.1,Streptomyces griseus,1,NRRL WC-3480,Contig,correct name,No,1,GCF_000717795.1 | Streptomyces griseus NRRL WC-3480 - ST 275,1,1,1
+276,GCF_000717845.1,Streptomyces violaceoruber,1,NRRL S-12,Contig,correct name,No,13,GCF_000717845.1 | Streptomyces violaceoruber NRRL S-12 - ST 276,1,12,21
+277,GCF_000717925.1,Streptomyces sp.,1,NRRL S-241,Contig,not validly described,No,9,GCF_000717925.1 | Streptomyces sp. NRRL S-241 - ST 277,6,117,156
+278,GCF_000718015.1,Streptomyces catenulae,1,NRRL B-2342,Contig,correct name,Yes,17,GCF_000718015.1 | Streptomyces catenulae NRRL B-2342 - ST 278,1,26,41
+279,GCF_000718165.1,Streptomyces fulvoviolaceus,1,NRRL B-2870,Contig,no record in LPSN entry,No,170,GCF_000718165.1 | Streptomyces fulvoviolaceus NRRL B-2870 - ST 279,0,149,195
+280,GCF_000718205.1,Streptomyces griseus,1,NRRL B-2931,Contig,correct name,No,7,GCF_000718205.1 | Streptomyces griseus NRRL B-2931 - ST 280,2,96,133
+280,GCF_001270675.1,Streptomyces griseus,1,NRRL B-2929,Contig,correct name,No,7,GCF_001270675.1 | Streptomyces griseus NRRL B-2929 - ST 280,2,96,133
+280,GCF_000721205.1,Streptomyces griseus,1,NRRL B-2930,Contig,correct name,No,7,GCF_000721205.1 | Streptomyces griseus NRRL B-2930 - ST 280,2,96,133
+280,GCF_000719035.1,Streptomyces griseus,1,NRRL B-1691,Contig,correct name,No,7,GCF_000719035.1 | Streptomyces griseus NRRL B-1691 - ST 280,2,96,133
+280,GCF_000718915.1,Streptomyces sp.,1,NRRL WC-3540,Contig,not validly described,No,7,GCF_000718915.1 | Streptomyces sp. NRRL WC-3540 - ST 280,2,96,133
+281,GCF_000718235.1,Streptomyces griseus,1,NRRL B-2932,Contig,correct name,No,7,GCF_000718235.1 | Streptomyces griseus NRRL B-2932 - ST 281,2,96,133
+282,GCF_000718375.1,Streptomyces sp.,1,NRRL F-2305,Contig,not validly described,No,77,GCF_000718375.1 | Streptomyces sp. NRRL F-2305 - ST 282,1,102,139
+282,GCF_001279005.1,Streptomyces caelestis,1,NRRL B-24567,Contig,correct name,No,77,GCF_001279005.1 | Streptomyces caelestis NRRL B-24567 - ST 282,1,102,139
+283,GCF_000718455.1,Streptomyces globisporus,1,NRRL B-2709,Contig,correct name,No,171,GCF_000718455.1 | Streptomyces globisporus NRRL B-2709 - ST 283,0,150,196
+284,GCF_000718525.1,Streptomyces griseus,1,NRRL B-2621,Contig,correct name,No,172,GCF_000718525.1 | Streptomyces griseus NRRL B-2621 - ST 284,0,28,43
+284,GCF_000721035.1,Streptomyces griseus,1,NRRL B-2621,Contig,correct name,No,172,GCF_000721035.1 | Streptomyces griseus NRRL B-2621 - ST 284,0,28,43
+285,GCF_000718675.1,Streptomyces rimosus,1,NRRL WC-3930,Contig,correct name,No,8,GCF_000718675.1 | Streptomyces rimosus NRRL WC-3930 - ST 285,1,105,142
+285,GCF_000721665.1,Streptomyces rimosus,1,NRRL WC-3929,Contig,correct name,No,8,GCF_000721665.1 | Streptomyces rimosus NRRL WC-3929 - ST 285,1,105,142
+286,GCF_000718705.1,Streptomyces lavendulae,1,NRRL WC-3542,Contig,correct name,No,10,GCF_000718705.1 | Streptomyces lavendulae NRRL WC-3542 - ST 286,2,4,12
+286,GCF_000719625.1,Streptomyces sp.,1,NRRL B-1322,Contig,not validly described,No,10,GCF_000719625.1 | Streptomyces sp. NRRL B-1322 - ST 286,2,4,12
+286,GCF_017876235.1,Streptomyces cinnamonensis,7,DSM 40803,Contig,synonym,Yes,10,GCF_017876235.1 | Streptomyces cinnamonensis DSM 40803 - ST 286,2,4,12
+287,GCF_000719185.1,Streptomyces rimosus,1,NRRL B-2660,Contig,correct name,No,173,GCF_000719185.1 | Streptomyces rimosus NRRL B-2660 - ST 287,0,29,44
+287,GCF_000718755.1,Streptomyces rimosus,1,NRRL WC-3560,Contig,correct name,No,173,GCF_000718755.1 | Streptomyces rimosus NRRL WC-3560 - ST 287,0,29,44
+288,GCF_000718775.1,Streptomyces sp.,1,NRRL S-31,Contig,not validly described,No,174,GCF_000718775.1 | Streptomyces sp. NRRL S-31 - ST 288,0,151,197
+289,GCF_000718935.1,Streptomyces sp.,1,NRRL S-237,Contig,not validly described,No,9,GCF_000718935.1 | Streptomyces sp. NRRL S-237 - ST 289,1,117,157
+290,GCF_000718955.1,Streptomyces sp.,1,NRRL S-575,Contig,not validly described,No,9,GCF_000718955.1 | Streptomyces sp. NRRL S-575 - ST 290,3,117,158
+290,GCF_000720795.1,Streptomyces sp.,1,NRRL S-515,Contig,not validly described,No,9,GCF_000720795.1 | Streptomyces sp. NRRL S-515 - ST 290,3,117,158
+291,GCF_000719265.1,Streptomyces roseoverticillatus,1,NRRL B-3500,Contig,synonym,Yes,175,GCF_000719265.1 | Streptomyces roseoverticillatus NRRL B-3500 - ST 291,0,152,198
+292,GCF_000719355.1,Streptomyces griseus,1,NRRL F-5144,Contig,correct name,No,2,GCF_000719355.1 | Streptomyces griseus NRRL F-5144 - ST 292,2,37,52
+293,GCF_000719365.1,Streptomyces sp.,1,NRRL S-1448,Contig,not validly described,No,78,GCF_000719365.1 | Streptomyces sp. NRRL S-1448 - ST 293,1,103,140
+294,GCF_000719425.1,Streptomyces sp.,1,NRRL F-5639,Contig,not validly described,No,29,GCF_000719425.1 | Streptomyces sp. NRRL F-5639 - ST 294,1,56,78
+295,GCF_000719495.1,Streptomyces albidoflavus,1,NRRL F-5621,Contig,correct name,No,3,GCF_000719495.1 | Streptomyces albidoflavus NRRL F-5621 - ST 295,1,57,79
+296,GCF_000719505.1,Streptomyces sp.,1,NRRL B-3229,Contig,not validly described,No,176,GCF_000719505.1 | Streptomyces sp. NRRL B-3229 - ST 296,0,153,199
+297,GCF_000719555.1,Streptomyces sp.,1,NRRL F-5727,Contig,not validly described,No,177,GCF_000719555.1 | Streptomyces sp. NRRL F-5727 - ST 297,0,154,200
+298,GCF_000719585.1,Streptomyces sp.,1,NRRL F-5681,Contig,not validly described,No,7,GCF_000719585.1 | Streptomyces sp. NRRL F-5681 - ST 298,4,96,133
+299,GCF_000719605.1,Streptomyces sp.,1,NRRL S-1813,Contig,not validly described,No,64,GCF_000719605.1 | Streptomyces sp. NRRL S-1813 - ST 299,1,92,129
+300,GCF_000719655.1,Streptomyces sp.,1,NRRL B-1381,Contig,not validly described,No,7,GCF_000719655.1 | Streptomyces sp. NRRL B-1381 - ST 300,2,96,133
+301,GCF_000719735.1,Streptomyces sp.,1,NRRL F-5917,Contig,not validly described,No,29,GCF_000719735.1 | Streptomyces sp. NRRL F-5917 - ST 301,1,56,78
+302,GCF_000719785.1,Streptomyces sp.,1,NRRL S-1314,Contig,not validly described,No,21,GCF_000719785.1 | Streptomyces sp. NRRL S-1314 - ST 302,2,42,63
+303,GCF_000719865.1,Streptomyces albus,1,NRRL F-4971,Contig,correct name,No,178,GCF_000719865.1 | Streptomyces albus NRRL F-4971 - ST 303,0,155,201
+304,GCF_000719895.1,Streptomyces sp.,1,NRRL F-2799,Contig,not validly described,No,52,GCF_000719895.1 | Streptomyces sp. NRRL F-2799 - ST 304,2,83,117
+305,GCF_000719925.1,Streptomyces sp.,1,NRRL F-2202,Contig,not validly described,No,7,GCF_000719925.1 | Streptomyces sp. NRRL F-2202 - ST 305,1,96,133
+306,GCF_000720135.1,Streptomyces sp.,1,NRRL S-1022,Contig,not validly described,No,179,GCF_000720135.1 | Streptomyces sp. NRRL S-1022 - ST 306,0,156,202
+307,GCF_000720175.1,Streptomyces sp.,1,NRRL S-337,Contig,not validly described,No,180,GCF_000720175.1 | Streptomyces sp. NRRL S-337 - ST 307,0,157,203
+308,GCF_000720215.1,Streptomyces sp.,1,NRRL S-475,Contig,not validly described,No,14,GCF_000720215.1 | Streptomyces sp. NRRL S-475 - ST 308,3,16,25
+309,GCF_000720395.1,Streptomyces flavovirens,1,NRRL B-2182,Contig,correct name,No,1,GCF_000720395.1 | Streptomyces flavovirens NRRL B-2182 - ST 309,1,2,3
+310,GCF_000720405.1,Streptomyces sp.,1,NRRL B-24051,Contig,not validly described,No,1,GCF_000720405.1 | Streptomyces sp. NRRL B-24051 - ST 310,1,2,3
+311,GCF_000720505.1,Streptomyces sp.,1,NRRL S-146,Contig,not validly described,No,14,GCF_000720505.1 | Streptomyces sp. NRRL S-146 - ST 311,1,16,26
+312,GCF_000720675.1,Streptomyces sp.,1,NRRL WC-3795,Contig,not validly described,No,4,GCF_000720675.1 | Streptomyces sp. NRRL WC-3795 - ST 312,1,68,96
+313,GCF_000721105.1,Streptomyces cellulosae,1,NRRL B-2687,Contig,correct name,No,181,GCF_000721105.1 | Streptomyces cellulosae NRRL B-2687 - ST 313,0,158,204
+314,GCF_000721185.1,Streptomyces griseolus,1,NRRL B-2925,Contig,synonym,Yes,2,GCF_000721185.1 | Streptomyces griseolus NRRL B-2925 - ST 314,2,38,54
+315,GCF_000721435.1,Streptomyces sp.,1,NRRL F-5527,Contig,not validly described,No,21,GCF_000721435.1 | Streptomyces sp. NRRL F-5527 - ST 315,1,42,63
+316,GCF_000721535.1,Streptomyces hygroscopicus,1,NRRL B-1477,Contig,correct name,No,16,GCF_000721535.1 | Streptomyces hygroscopicus NRRL B-1477 - ST 316,1,24,39
+317,GCF_000721575.1,Streptomyces griseus,1,NRRL F-2227,Contig,correct name,No,7,GCF_000721575.1 | Streptomyces griseus NRRL F-2227 - ST 317,1,96,133
+318,GCF_000721595.1,Streptomyces sp.,1,NRRL S-325,Contig,not validly described,No,1,GCF_000721595.1 | Streptomyces sp. NRRL S-325 - ST 318,1,2,3
+319,GCF_000721605.1,Streptomyces sp.,1,NRRL S-37,Contig,not validly described,No,182,GCF_000721605.1 | Streptomyces sp. NRRL S-37 - ST 319,0,159,205
+320,GCF_000721945.1,Streptomyces sp.,1,NRRL WC-3774,Scaffold,not validly described,No,183,GCF_000721945.1 | Streptomyces sp. NRRL WC-3774 - ST 320,0,31,46
+320,GCF_001513955.1,Streptomyces pseudovenezuelae,1,DSM 40212,Scaffold,correct name,Yes,183,GCF_001513955.1 | Streptomyces pseudovenezuelae DSM 40212 - ST 320,0,31,46
+321,GCF_000722185.1,Streptomyces sp.,1,NRRL S-15,Scaffold,not validly described,No,42,GCF_000722185.1 | Streptomyces sp. NRRL S-15 - ST 321,2,72,105
+322,GCF_000725555.1,Streptomyces erythrochromogenes,1,NRRL B-2112,Scaffold,no record in LPSN entry,No,53,GCF_000725555.1 | Streptomyces erythrochromogenes NRRL B-2112 - ST 322,1,84,118
+323,GCF_001279065.1,Streptomyces rimosus,1,NRRL WC-3869,Contig,correct name,No,8,GCF_001279065.1 | Streptomyces rimosus NRRL WC-3869 - ST 323,1,105,142
+323,GCF_000725565.1,Streptomyces peucetius,1,NRRL WC-3868,Scaffold,correct name,No,8,GCF_000725565.1 | Streptomyces peucetius NRRL WC-3868 - ST 323,1,105,142
+324,GCF_000725635.1,Streptomyces sp.,1,NRRL B-3253,Scaffold,not validly described,No,3,GCF_000725635.1 | Streptomyces sp. NRRL B-3253 - ST 324,1,57,79
+325,GCF_000725725.1,Streptomyces xanthophaeus,1,NRRL B-3004,Scaffold,correct name,No,9,GCF_000725725.1 | Streptomyces xanthophaeus NRRL B-3004 - ST 325,2,117,159
+326,GCF_004328625.1,Streptomyces seoulensis,4,KCTC 9819,Complete Genome,correct name,No,50,GCF_004328625.1 | Streptomyces seoulensis KCTC 9819 - ST 326,1,81,115
+326,GCF_000725795.1,Streptomyces seoulensis,1,NRRL B-24310,Scaffold,correct name,No,50,GCF_000725795.1 | Streptomyces seoulensis NRRL B-24310 - ST 326,1,81,115
+327,GCF_001550245.1,Streptomyces scabiei,5,84-34,Contig,correct name,No,11,GCF_001550245.1 | Streptomyces scabiei 84-34 - ST 327,5,9,18
+327,GCF_001005405.1,Streptomyces scabiei,1,NRRL B-16523,Contig,correct name,No,11,GCF_001005405.1 | Streptomyces scabiei NRRL B-16523 - ST 327,5,9,18
+327,GCF_000738715.1,Streptomyces scabiei,1,NCPPB 4066,Scaffold,correct name,No,11,GCF_000738715.1 | Streptomyces scabiei NCPPB 4066 - ST 327,5,9,18
+328,GCF_000739045.1,Streptomyces luteus,6,TRM 45540,Scaffold,synonym,Yes,184,GCF_000739045.1 | Streptomyces luteus TRM 45540 - ST 328,0,160,206
+329,GCF_000743295.1,Streptomyces sp.,1,JS01,Contig,not validly described,No,2,GCF_000743295.1 | Streptomyces sp. JS01 - ST 329,5,37,52
+330,GCF_000797385.1,Streptomyces sp.,1,CNQ431,Contig,not validly described,No,3,GCF_000797385.1 | Streptomyces sp. CNQ431 - ST 330,1,57,79
+331,GCF_000800535.1,Streptomyces sp.,1,M10,Scaffold,not validly described,No,3,GCF_000800535.1 | Streptomyces sp. M10 - ST 331,2,57,79
+332,GCF_000805335.1,Streptomyces sp.,5,CT34,Scaffold,not validly described,No,185,GCF_000805335.1 | Streptomyces sp. CT34 - ST 332,0,161,207
+333,GCF_000816025.1,Streptomyces sp.,6,769,Complete Genome,not validly described,No,32,GCF_000816025.1 | Streptomyces sp. 769 - ST 333,1,60,83
+334,GCF_000816485.1,Streptomyces sp.,1,MUSC 125,Contig,not validly described,No,71,GCF_000816485.1 | Streptomyces sp. MUSC 125 - ST 334,1,162,208
+335,GCF_000829695.1,Streptomyces sp.,1,NBRC 110035,Scaffold,not validly described,No,79,GCF_000829695.1 | Streptomyces sp. NBRC 110035 - ST 335,1,104,141
+336,GCF_000829715.2,Streptomyces lydicamycinicus,1,NBRC 110027,Scaffold,correct name,Yes,186,GCF_000829715.2 | Streptomyces lydicamycinicus NBRC 110027 - ST 336,0,163,209
+337,GCF_000931445.1,Streptomyces cyaneogriseus,5,NMWT 1,Complete Genome,no record in LPSN entry,No,187,GCF_000931445.1 | Streptomyces cyaneogriseus NMWT 1 - ST 337,0,164,210
+338,GCF_003147545.1,Streptomyces globisporus,6,TFH56,Complete Genome,correct name,No,2,GCF_003147545.1 | Streptomyces globisporus TFH56 - ST 338,1,37,52
+339,GCF_000935185.3,Streptomyces albulus,7,CK-15,Complete Genome,correct name,No,32,GCF_000935185.3 | Streptomyces albulus CK-15 - ST 339,1,60,82
+340,GCF_000956015.1,Streptomyces sp.,1,NRRL F-4428,Contig,not validly described,No,47,GCF_000956015.1 | Streptomyces sp. NRRL F-4428 - ST 340,1,76,109
+341,GCF_000968685.2,Streptomyces antioxidans,1,MUSC 164,Contig,no record in LPSN entry,No,188,GCF_000968685.2 | Streptomyces antioxidans MUSC 164 - ST 341,0,165,211
+342,GCF_000972435.1,Streptomyces sp.,1,MBT28,Scaffold,not validly described,No,4,GCF_000972435.1 | Streptomyces sp. MBT28 - ST 342,7,68,96
+343,GCF_000980885.2,Streptomyces malaysiense,1,MUSC 136,Contig,no record in LPSN entry,No,6,GCF_000980885.2 | Streptomyces malaysiense MUSC 136 - ST 343,1,90,126
+344,GCF_014873495.1,Streptomyces stelliscabiei,6,DSM 41803,Contig,correct name,Yes,80,GCF_014873495.1 | Streptomyces stelliscabiei DSM 41803 - ST 344,1,107,146
+344,GCF_001008135.1,Streptomyces stelliscabiei,1,NRRL B-24447,Scaffold,correct name,No,80,GCF_001008135.1 | Streptomyces stelliscabiei NRRL B-24447 - ST 344,1,107,146
+344,GCF_001189035.1,Streptomyces stelliscabiei,1,P3825,Scaffold,correct name,No,80,GCF_001189035.1 | Streptomyces stelliscabiei P3825 - ST 344,1,107,146
+345,GCF_001014595.1,Streptomyces sp.,1,KE1,Contig,not validly described,No,3,GCF_001014595.1 | Streptomyces sp. KE1 - ST 345,1,57,79
+346,GCF_001040905.1,Streptomyces sp.,1,PBH53,Chromosome,not validly described,No,45,GCF_001040905.1 | Streptomyces sp. PBH53 - ST 346,1,75,108
+347,GCF_001047315.1,Streptomyces leeuwenhoekii,1,C58,Contig,correct name,No,48,GCF_001047315.1 | Streptomyces leeuwenhoekii C58 - ST 347,1,77,110
+348,GCF_001187435.1,Streptomyces caatingaensis,6,CMAA 1322,Contig,no record in LPSN entry,No,189,GCF_001187435.1 | Streptomyces caatingaensis CMAA 1322 - ST 348,0,166,212
+349,GCF_001189025.1,Streptomyces europaeiscabiei,1,NCPPB 4064,Scaffold,correct name,No,1,GCF_001189025.1 | Streptomyces europaeiscabiei NCPPB 4064 - ST 349,4,1,2
+350,GCF_001267885.1,Streptomyces ambofaciens,5,ATCC 23877,Complete Genome,correct name,Yes,81,GCF_001267885.1 | Streptomyces ambofaciens ATCC 23877 - ST 350,1,108,147
+351,GCF_001270565.1,Streptomyces virginiae,1,NRRL B-1447,Contig,correct name,No,9,GCF_001270565.1 | Streptomyces virginiae NRRL B-1447 - ST 351,1,117,156
+352,GCF_001279345.1,Streptomyces rimosus,1,NRRL WC-3896,Contig,correct name,No,8,GCF_001279345.1 | Streptomyces rimosus NRRL WC-3896 - ST 352,2,105,142
+353,GCF_001279365.1,Streptomyces sp.,1,NRRL F-5755,Contig,not validly described,No,8,GCF_001279365.1 | Streptomyces sp. NRRL F-5755 - ST 353,1,105,142
+354,GCF_001279425.1,Streptomyces sp.,1,NRRL F-2295,Contig,not validly described,No,7,GCF_001279425.1 | Streptomyces sp. NRRL F-2295 - ST 354,1,96,133
+355,GCF_001279445.1,Streptomyces sp.,1,WM6349,Contig,not validly described,No,10,GCF_001279445.1 | Streptomyces sp. WM6349 - ST 355,2,4,12
+355,GCF_001279485.1,Streptomyces sp.,1,XY511,Contig,not validly described,No,10,GCF_001279485.1 | Streptomyces sp. XY511 - ST 355,2,4,12
+355,GCF_001279845.1,Streptomyces sp.,1,XY533,Contig,not validly described,No,10,GCF_001279845.1 | Streptomyces sp. XY533 - ST 355,2,4,12
+355,GCF_001279885.1,Streptomyces sp.,1,XY593,Contig,not validly described,No,10,GCF_001279885.1 | Streptomyces sp. XY593 - ST 355,2,4,12
+355,GCF_001279925.1,Streptomyces sp.,1,H036,Contig,not validly described,No,10,GCF_001279925.1 | Streptomyces sp. H036 - ST 355,2,4,12
+355,GCF_014217585.1,Streptomyces sp.,7,INR7,Complete Genome,not validly described,No,10,GCF_014217585.1 | Streptomyces sp. INR7 - ST 355,2,4,12
+356,GCF_001279455.1,Streptomyces sp.,1,XY152,Contig,not validly described,No,77,GCF_001279455.1 | Streptomyces sp. XY152 - ST 356,1,102,139
+357,GCF_001279495.1,Streptomyces sp.,1,H021,Contig,not validly described,No,10,GCF_001279495.1 | Streptomyces sp. H021 - ST 357,1,4,12
+358,GCF_001279625.1,Streptomyces sp.,1,WM6368,Contig,not validly described,No,9,GCF_001279625.1 | Streptomyces sp. WM6368 - ST 358,1,117,156
+359,GCF_001279685.1,Streptomyces sp.,1,WM6373,Contig,not validly described,No,10,GCF_001279685.1 | Streptomyces sp. WM6373 - ST 359,2,4,12
+360,GCF_001279735.1,Streptomyces sp.,1,MMG1522,Contig,not validly described,No,7,GCF_001279735.1 | Streptomyces sp. MMG1522 - ST 360,1,96,133
+361,GCF_001279765.1,Streptomyces sp.,1,XY413,Contig,not validly described,No,10,GCF_001279765.1 | Streptomyces sp. XY413 - ST 361,3,4,12
+362,GCF_001279815.1,Streptomyces sp.,1,XY37,Contig,not validly described,No,10,GCF_001279815.1 | Streptomyces sp. XY37 - ST 362,2,4,12
+362,GCF_001279855.1,Streptomyces sp.,1,XY58,Contig,not validly described,No,10,GCF_001279855.1 | Streptomyces sp. XY58 - ST 362,2,4,12
+362,GCF_001279965.1,Streptomyces sp.,1,MMG1064,Contig,not validly described,No,10,GCF_001279965.1 | Streptomyces sp. MMG1064 - ST 362,2,4,12
+363,GCF_001279905.1,Streptomyces sp.,1,XY66,Contig,not validly described,No,10,GCF_001279905.1 | Streptomyces sp. XY66 - ST 363,2,4,12
+364,GCF_001279935.1,Streptomyces sp.,1,IGB124,Contig,not validly described,No,10,GCF_001279935.1 | Streptomyces sp. IGB124 - ST 364,1,4,12
+365,GCF_001282115.1,Streptomyces sp.,1,NRRL B-24085,Contig,not validly described,No,190,GCF_001282115.1 | Streptomyces sp. NRRL B-24085 - ST 365,0,33,48
+365,GCF_002156095.1,Streptomyces sp.,1,NRRL B-24085,Scaffold,not validly described,No,190,GCF_002156095.1 | Streptomyces sp. NRRL B-24085 - ST 365,0,33,48
+366,GCF_001294345.1,Streptomyces sp.,1,NRRL S-4,Contig,not validly described,No,42,GCF_001294345.1 | Streptomyces sp. NRRL S-4 - ST 366,1,72,105
+367,GCF_001417695.1,Streptomyces sp.,1,JHA19,Contig,not validly described,No,35,GCF_001417695.1 | Streptomyces sp. JHA19 - ST 367,1,63,88
+368,GCF_001418135.1,Streptomyces aureus,1,NRRL B-2808,Scaffold,correct name,No,20,GCF_001418135.1 | Streptomyces aureus NRRL B-2808 - ST 368,1,41,62
+369,GCF_001418175.1,Streptomyces hirsutus,1,NRRL B-3040,Scaffold,correct name,Yes,82,GCF_001418175.1 | Streptomyces hirsutus NRRL B-3040 - ST 369,1,109,148
+370,GCF_001418395.1,Streptomyces prasinopilosus,1,NRRL B-24621,Scaffold,correct name,No,83,GCF_001418395.1 | Streptomyces prasinopilosus NRRL B-24621 - ST 370,1,110,149
+371,GCF_001418415.1,Streptomyces hirsutus,1,NRRL B-2713,Scaffold,correct name,Yes,82,GCF_001418415.1 | Streptomyces hirsutus NRRL B-2713 - ST 371,1,109,148
+372,GCF_001418625.1,Streptomyces luridiscabiei,1,NRRL B-24455,Scaffold,synonym,No,1,GCF_001418625.1 | Streptomyces luridiscabiei NRRL B-24455 - ST 372,4,1,5
+373,GCF_001419695.1,Streptomyces prasinopilosus,1,NRRL B-2711,Scaffold,correct name,Yes,83,GCF_001419695.1 | Streptomyces prasinopilosus NRRL B-2711 - ST 373,1,110,149
+374,GCF_001419705.1,Streptomyces prasinus,1,NRRL B-2712,Scaffold,correct name,Yes,191,GCF_001419705.1 | Streptomyces prasinus NRRL B-2712 - ST 374,0,167,213
+375,GCF_001425805.1,Streptomyces sp.,1,Root369,Scaffold,not validly described,No,24,GCF_001425805.1 | Streptomyces sp. Root369 - ST 375,3,48,70
+376,GCF_001426325.1,Streptomyces sp.,1,Root1295,Scaffold,not validly described,No,1,GCF_001426325.1 | Streptomyces sp. Root1295 - ST 376,1,1,2
+376,GCF_001427565.1,Streptomyces sp.,1,Root63,Scaffold,not validly described,No,1,GCF_001427565.1 | Streptomyces sp. Root63 - ST 376,1,1,2
+377,GCF_001431765.1,Streptomyces sp.,5,FR-008,Complete Genome,not validly described,No,3,GCF_001431765.1 | Streptomyces sp. FR-008 - ST 377,1,57,79
+377,GCF_009846825.1,Streptomyces sp.,1,FR-008,Scaffold,not validly described,No,3,GCF_009846825.1 | Streptomyces sp. FR-008 - ST 377,1,57,79
+378,GCF_001434355.1,Streptomyces anulatus,6,ATCC 11523,Chromosome,correct name,Yes,1,GCF_001434355.1 | Streptomyces anulatus ATCC 11523 - ST 378,1,1,2
+379,GCF_001445655.1,Streptomyces roseifaciens,3,MBT76,Scaffold,correct name,Yes,27,GCF_001445655.1 | Streptomyces roseifaciens MBT76 - ST 379,1,54,76
+380,GCF_001469455.2,Streptomyces sp.,1,AVP053U2,Scaffold,not validly described,No,79,GCF_001469455.2 | Streptomyces sp. AVP053U2 - ST 380,1,104,141
+381,GCF_001485125.1,Streptomyces scabiei,1,S58,Scaffold,correct name,No,11,GCF_001485125.1 | Streptomyces scabiei S58 - ST 381,1,9,18
+382,GCF_001509565.1,Streptomyces albidoflavus,1,NRRL WC-3066,Contig,correct name,No,3,GCF_001509565.1 | Streptomyces albidoflavus NRRL WC-3066 - ST 382,1,57,79
+383,GCF_001509775.1,Streptomyces violaceusniger,1,NRRL F-8817,Contig,correct name,No,5,GCF_001509775.1 | Streptomyces violaceusniger NRRL F-8817 - ST 383,1,79,113
+384,GCF_001509795.1,Streptomyces sp.,1,NRRL WC-3605,Contig,not validly described,No,192,GCF_001509795.1 | Streptomyces sp. NRRL WC-3605 - ST 384,0,34,49
+384,GCF_001509785.1,Streptomyces sp.,1,NRRL WC-3604,Contig,not validly described,No,192,GCF_001509785.1 | Streptomyces sp. NRRL WC-3604 - ST 384,0,34,49
+385,GCF_001513975.1,Streptomyces curacoi,1,DSM 40107,Scaffold,correct name,Yes,51,GCF_001513975.1 | Streptomyces curacoi DSM 40107 - ST 385,1,82,116
+386,GCF_001513985.1,Streptomyces griseorubiginosus,1,DSM 40125,Scaffold,correct name,Yes,28,GCF_001513985.1 | Streptomyces griseorubiginosus DSM 40125 - ST 386,3,55,77
+387,GCF_001514045.1,Streptomyces canus,1,DSM 40275,Scaffold,correct name,Yes,24,GCF_001514045.1 | Streptomyces canus DSM 40275 - ST 387,2,48,70
+388,GCF_001514055.1,Streptomyces corchorusii,1,DSM 40340,Scaffold,correct name,Yes,84,GCF_001514055.1 | Streptomyces corchorusii DSM 40340 - ST 388,1,111,150
+389,GCF_001514145.1,Streptomyces canus,1,DSM 40017,Scaffold,correct name,Yes,24,GCF_001514145.1 | Streptomyces canus DSM 40017 - ST 389,1,48,70
+390,GCF_001514235.1,Streptomyces caeruleatus,1,NRRL B-24802,Scaffold,correct name,Yes,193,GCF_001514235.1 | Streptomyces caeruleatus NRRL B-24802 - ST 390,0,168,214
+391,GCF_001531145.1,Streptomyces sp.,1,IMTB 1903,Scaffold,not validly described,No,53,GCF_001531145.1 | Streptomyces sp. IMTB 1903 - ST 391,1,84,119
+392,GCF_001550215.1,Streptomyces scabiei,5,85-08,Contig,correct name,No,11,GCF_001550215.1 | Streptomyces scabiei 85-08 - ST 392,2,9,18
+393,GCF_017968935.1,Streptomyces sp.,3,LBUM 1488,Contig,not validly described,No,11,GCF_017968935.1 | Streptomyces sp. LBUM 1488 - ST 393,3,9,18
+393,GCF_003584815.1,Streptomyces scabiei,1,ST129,Contig,correct name,No,11,GCF_003584815.1 | Streptomyces scabiei ST129 - ST 393,3,9,18
+393,GCF_001550225.1,Streptomyces scabiei,6,95-18,Contig,correct name,No,11,GCF_001550225.1 | Streptomyces scabiei 95-18 - ST 393,3,9,18
+393,GCF_017969045.1,Streptomyces sp.,4,LBUM 1477,Contig,not validly described,No,11,GCF_017969045.1 | Streptomyces sp. LBUM 1477 - ST 393,3,9,18
+393,GCF_017933255.1,Streptomyces sp.,3,LBUM 1475,Complete Genome,not validly described,No,11,GCF_017933255.1 | Streptomyces sp. LBUM 1475 - ST 393,3,9,18
+393,GCF_017968905.1,Streptomyces sp.,2,LBUM 1487,Contig,not validly described,No,11,GCF_017968905.1 | Streptomyces sp. LBUM 1487 - ST 393,3,9,18
+393,GCF_017933115.1,Streptomyces sp.,3,LBUM 1482,Complete Genome,not validly described,No,11,GCF_017933115.1 | Streptomyces sp. LBUM 1482 - ST 393,3,9,18
+394,GCF_001550295.1,Streptomyces scabiei,6,96-15,Contig,correct name,No,11,GCF_001550295.1 | Streptomyces scabiei 96-15 - ST 394,1,9,18
+395,GCF_001572115.1,Streptomyces scabiei,6,84-232,Contig,correct name,No,11,GCF_001572115.1 | Streptomyces scabiei 84-232 - ST 395,2,9,18
+396,GCF_001579685.1,Streptomyces scabiei,6,96-06,Contig,correct name,No,11,GCF_001579685.1 | Streptomyces scabiei 96-06 - ST 396,1,9,18
+397,GCF_002943895.1,Streptomyces sp.,1,WAC00288,Complete Genome,not validly described,No,54,GCF_002943895.1 | Streptomyces sp. WAC00288 - ST 397,2,85,120
+397,GCF_001592685.1,Streptomyces sp.,1,WAC04657,Contig,not validly described,No,54,GCF_001592685.1 | Streptomyces sp. WAC04657 - ST 397,2,85,120
+398,GCF_001598115.1,Streptomyces sp.,5,AgN23,Complete Genome,not validly described,No,5,GCF_001598115.1 | Streptomyces sp. AgN23 - ST 398,1,79,113
+399,GCF_001632865.1,Streptomyces ambofaciens,6,DSM 40697,Complete Genome,correct name,No,81,GCF_001632865.1 | Streptomyces ambofaciens DSM 40697 - ST 399,1,108,147
+400,GCF_001640565.1,Streptomyces sp.,1,RTd22,Scaffold,not validly described,No,194,GCF_001640565.1 | Streptomyces sp. RTd22 - ST 400,0,35,50
+400,GCF_001650215.1,Streptomyces sp.,5,RTd22,Complete Genome,not validly described,No,194,GCF_001650215.1 | Streptomyces sp. RTd22 - ST 400,0,35,50
+401,GCF_001652895.1,Streptomyces sp.,1,NBRC 109436,Scaffold,not validly described,No,16,GCF_001652895.1 | Streptomyces sp. NBRC 109436 - ST 401,1,24,39
+402,GCF_003344445.1,Streptomyces lincolnensis,1,LC-G,Complete Genome,correct name,No,195,GCF_003344445.1 | Streptomyces lincolnensis LC-G - ST 402,0,36,51
+402,GCF_001685355.1,Streptomyces lincolnensis,1,NRRL 2936,Complete Genome,correct name,Yes,195,GCF_001685355.1 | Streptomyces lincolnensis NRRL 2936 - ST 402,0,36,51
+402,GCF_014083905.1,Streptomyces lincolnensis,1,B48,Complete Genome,correct name,No,195,GCF_014083905.1 | Streptomyces lincolnensis B48 - ST 402,0,36,51
+403,GCF_001705785.1,Streptomyces hygroscopicus,1,OsiSh-2,Scaffold,correct name,No,16,GCF_001705785.1 | Streptomyces hygroscopicus OsiSh-2 - ST 403,1,24,39
+404,GCF_001723075.1,Streptomyces niveus,1,NRRL 2449,Scaffold,correct name,Yes,196,GCF_001723075.1 | Streptomyces niveus NRRL 2449 - ST 404,0,169,215
+405,GCF_001729485.1,Streptomyces lydicus,7,103,Complete Genome,correct name,No,22,GCF_001729485.1 | Streptomyces lydicus 103 - ST 405,1,44,65
+406,GCF_001735805.1,Streptomyces fodineus,5,TW1S1,Complete Genome,correct name,Yes,197,GCF_001735805.1 | Streptomyces fodineus TW1S1 - ST 406,0,170,216
+407,GCF_001746295.1,Streptomyces sp.,1,LUP47b,Scaffold,not validly described,No,24,GCF_001746295.1 | Streptomyces sp. LUP47b - ST 407,1,48,70
+408,GCF_001746305.1,Streptomyces sp.,1,EN23,Contig,not validly described,No,2,GCF_001746305.1 | Streptomyces sp. EN23 - ST 408,2,37,55
+409,GCF_001746425.1,Streptomyces subrutilus,3,10-1-1,Contig,correct name,No,9,GCF_001746425.1 | Streptomyces subrutilus 10-1-1 - ST 409,1,117,160
+410,GCF_001751305.1,Streptomyces nanshensis,2,SCSIO M10372,Scaffold,correct name,No,2,GCF_001751305.1 | Streptomyces nanshensis SCSIO M10372 - ST 410,3,37,56
+411,GCF_001865795.1,Streptomyces albidoflavus,1,OsiLf-2,Scaffold,correct name,No,3,GCF_001865795.1 | Streptomyces albidoflavus OsiLf-2 - ST 411,1,57,79
+412,GCF_001866665.1,Streptomyces monashensis,1,MUSC 1,Contig,no record in LPSN entry,No,198,GCF_001866665.1 | Streptomyces monashensis MUSC 1 - ST 412,0,171,217
+413,GCF_001866675.1,Streptomyces sp.,1,MUSC 14,Contig,not validly described,No,199,GCF_001866675.1 | Streptomyces sp. MUSC 14 - ST 413,0,172,218
+414,GCF_001905005.1,Streptomyces sp.,1,CB02923,Scaffold,not validly described,No,200,GCF_001905005.1 | Streptomyces sp. CB02923 - ST 414,0,173,219
+415,GCF_001905385.1,Streptomyces sp.,1,CB02414,Scaffold,not validly described,No,4,GCF_001905385.1 | Streptomyces sp. CB02414 - ST 415,2,68,97
+416,GCF_001905405.1,Streptomyces sp.,1,TSRI0445,Scaffold,not validly described,No,2,GCF_001905405.1 | Streptomyces sp. TSRI0445 - ST 416,1,37,52
+417,GCF_014495705.1,Streptomyces sp.,1,CB00271,Complete Genome,not validly described,No,1,GCF_014495705.1 | Streptomyces sp. CB00271 - ST 417,1,1,2
+417,GCF_001905485.1,Streptomyces sp.,1,TSRI0261,Scaffold,not validly described,No,1,GCF_001905485.1 | Streptomyces sp. TSRI0261 - ST 417,1,1,2
+418,GCF_001905505.1,Streptomyces sp.,1,CB02058,Scaffold,not validly described,No,36,GCF_001905505.1 | Streptomyces sp. CB02058 - ST 418,2,64,89
+419,GCF_001905525.1,Streptomyces sp.,1,TSRI0395,Scaffold,not validly described,No,1,GCF_001905525.1 | Streptomyces sp. TSRI0395 - ST 419,1,1,2
+420,GCF_001905575.1,Streptomyces sp.,1,CB00072,Scaffold,not validly described,No,1,GCF_001905575.1 | Streptomyces sp. CB00072 - ST 420,1,1,2
+421,GCF_001905645.1,Streptomyces sp.,1,CB02115,Scaffold,not validly described,No,1,GCF_001905645.1 | Streptomyces sp. CB02115 - ST 421,1,1,2
+422,GCF_001905785.1,Streptomyces sp.,1,CB02130,Scaffold,not validly described,No,2,GCF_001905785.1 | Streptomyces sp. CB02130 - ST 422,1,37,52
+423,GCF_001905825.1,Streptomyces sp.,1,CB02009,Scaffold,not validly described,No,34,GCF_001905825.1 | Streptomyces sp. CB02009 - ST 423,3,62,86
+424,GCF_001905855.1,Streptomyces sp.,1,CB01883,Scaffold,not validly described,No,85,GCF_001905855.1 | Streptomyces sp. CB01883 - ST 424,1,112,151
+425,GCF_001905905.1,Streptomyces sp.,1,CB02366,Scaffold,not validly described,No,201,GCF_001905905.1 | Streptomyces sp. CB02366 - ST 425,0,174,220
+426,GCF_001941845.1,Streptomyces sp.,5,TN58,Complete Genome,not validly described,No,47,GCF_001941845.1 | Streptomyces sp. TN58 - ST 426,1,76,109
+427,GCF_001953875.1,Streptomyces amritsarensis,1,MTCC 11845,Scaffold,correct name,Yes,53,GCF_001953875.1 | Streptomyces amritsarensis MTCC 11845 - ST 427,2,84,119
+428,GCF_001984445.1,Streptomyces lydicus,6,23,Complete Genome,correct name,No,22,GCF_001984445.1 | Streptomyces lydicus 23 - ST 428,1,44,65
+429,GCF_002005565.1,Streptomyces sp.,1,JHA26,Contig,not validly described,No,202,GCF_002005565.1 | Streptomyces sp. JHA26 - ST 429,0,175,221
+430,GCF_002021875.1,Streptomyces hygroscopicus,5,XM201,Complete Genome,correct name,No,55,GCF_002021875.1 | Streptomyces hygroscopicus XM201 - ST 430,2,86,121
+431,GCF_002028385.1,Streptomyces sp.,6,3,Complete Genome,not validly described,No,9,GCF_002028385.1 | Streptomyces sp. 3 - ST 431,1,117,156
+432,GCF_002028425.1,Streptomyces katrae,3,4,Chromosome,correct name,No,86,GCF_002028425.1 | Streptomyces katrae 4 - ST 432,1,113,152
+432,GCF_003814735.1,Streptomyces sp.,4,Ag109_G2-6,Contig,not validly described,No,86,GCF_003814735.1 | Streptomyces sp. Ag109_G2-6 - ST 432,1,113,152
+433,GCF_002080455.1,Streptomyces sp.,7,Sge12,Complete Genome,not validly described,No,9,GCF_002080455.1 | Streptomyces sp. Sge12 - ST 433,1,117,156
+434,GCF_002082175.1,Streptomyces violaceoruber,6,S21,Complete Genome,correct name,No,7,GCF_002082175.1 | Streptomyces violaceoruber S21 - ST 434,1,96,133
+435,GCF_002090335.1,Streptomyces sp.,5,MOE7,Complete Genome,not validly described,No,22,GCF_002090335.1 | Streptomyces sp. MOE7 - ST 435,1,44,65
+436,GCF_002094995.1,Streptomyces sp.,3,S8,Complete Genome,not validly described,No,33,GCF_002094995.1 | Streptomyces sp. S8 - ST 436,2,61,84
+437,GCF_002150735.1,Streptomyces africanus,1,NRRL B-24243,Scaffold,correct name,Yes,203,GCF_002150735.1 | Streptomyces africanus NRRL B-24243 - ST 437,0,176,222
+438,GCF_002154555.1,Streptomyces murinus,1,NRRL B-2286,Scaffold,correct name,Yes,6,GCF_002154555.1 | Streptomyces murinus NRRL B-2286 - ST 438,3,90,127
+439,GCF_002156055.1,Streptomyces viridochromogenes,1,NRRL B-24167,Scaffold,correct name,No,204,GCF_002156055.1 | Streptomyces viridochromogenes NRRL B-24167 - ST 439,0,177,223
+440,GCF_002188335.1,Streptomyces sp.,11,CS159,Scaffold,not validly described,No,18,GCF_002188335.1 | Streptomyces sp. CS159 - ST 440,4,30,45
+441,GCF_002188345.1,Streptomyces sp.,10,CS057,Scaffold,not validly described,No,1,GCF_002188345.1 | Streptomyces sp. CS057 - ST 441,3,1,2
+442,GCF_002217715.1,Streptomyces sp.,5,SS07,Scaffold,not validly described,No,2,GCF_002217715.1 | Streptomyces sp. SS07 - ST 442,4,37,52
+443,GCF_002224125.2,Streptomyces sp.,1,NBS 14/10,Scaffold,not validly described,No,205,GCF_002224125.2 | Streptomyces sp. NBS 14/10 - ST 443,0,178,224
+444,GCF_002242805.1,Streptomyces diastatochromogenes,1,DSM 40608,Scaffold,correct name,No,87,GCF_002242805.1 | Streptomyces diastatochromogenes DSM 40608 - ST 444,1,114,153
+445,GCF_002251155.1,Streptomyces sp.,1,FBKL.4005,Contig,not validly described,No,45,GCF_002251155.1 | Streptomyces sp. FBKL.4005 - ST 445,1,75,108
+446,GCF_002261115.1,Streptomyces kasugaensis,4,BCRC 12349,Scaffold,correct name,Yes,30,GCF_002261115.1 | Streptomyces kasugaensis BCRC 12349 - ST 446,1,58,80
+447,GCF_002289335.1,Streptomyces albidoflavus,1,132,Contig,correct name,No,3,GCF_002289335.1 | Streptomyces albidoflavus 132 - ST 447,1,57,79
+447,GCF_002317005.1,Streptomyces albidoflavus,1,38,Contig,correct name,No,3,GCF_002317005.1 | Streptomyces albidoflavus 38 - ST 447,1,57,79
+447,GCF_002317025.1,Streptomyces albidoflavus,1,138,Contig,correct name,No,3,GCF_002317025.1 | Streptomyces albidoflavus 138 - ST 447,1,57,79
+447,GCF_013363555.1,Streptomyces fungicidicus,1,CAI-93,Contig,no record in LPSN entry,No,3,GCF_013363555.1 | Streptomyces fungicidicus CAI-93 - ST 447,1,57,79
+448,GCF_002382885.1,Streptomyces sp.,1,WZ.A104,Contig,not validly described,No,206,GCF_002382885.1 | Streptomyces sp. WZ.A104 - ST 448,0,179,225
+449,GCF_002551015.1,Streptomyces sp.,1,wa1071,Contig,not validly described,No,1,GCF_002551015.1 | Streptomyces sp. wa1071 - ST 449,2,1,2
+449,GCF_002551055.1,Streptomyces sp.,1,wa1002,Contig,not validly described,No,1,GCF_002551055.1 | Streptomyces sp. wa1002 - ST 449,2,1,2
+450,GCF_002551045.1,Streptomyces sp.,1,wa1063,Contig,not validly described,No,1,GCF_002551045.1 | Streptomyces sp. wa1063 - ST 450,2,1,2
+451,GCF_002551105.1,Streptomyces sp.,1,st170,Contig,not validly described,No,2,GCF_002551105.1 | Streptomyces sp. st170 - ST 451,3,37,52
+452,GCF_002551135.1,Streptomyces sp.,1,st140,Contig,not validly described,No,2,GCF_002551135.1 | Streptomyces sp. st140 - ST 452,2,37,52
+453,GCF_002551145.1,Streptomyces sp.,1,st115,Contig,not validly described,No,1,GCF_002551145.1 | Streptomyces sp. st115 - ST 453,1,1,6
+454,GCF_002551175.1,Streptomyces sp.,1,st77,Contig,not validly described,No,2,GCF_002551175.1 | Streptomyces sp. st77 - ST 454,3,37,53
+455,GCF_002551225.1,Streptomyces sp.,1,rh206,Contig,not validly described,No,1,GCF_002551225.1 | Streptomyces sp. rh206 - ST 455,1,1,2
+456,GCF_002551305.1,Streptomyces sp.,1,or20,Contig,not validly described,No,1,GCF_002551305.1 | Streptomyces sp. or20 - ST 456,1,1,2
+457,GCF_002551335.1,Streptomyces sp.,1,ms184,Contig,not validly described,No,2,GCF_002551335.1 | Streptomyces sp. ms184 - ST 457,1,37,52
+458,GCF_002551345.1,Streptomyces sp.,1,ms115,Contig,not validly described,No,2,GCF_002551345.1 | Streptomyces sp. ms115 - ST 458,4,37,52
+459,GCF_002551375.1,Streptomyces sp.,1,gb14,Contig,not validly described,No,2,GCF_002551375.1 | Streptomyces sp. gb14 - ST 459,2,37,52
+460,GCF_002551415.1,Streptomyces sp.,1,f51,Contig,not validly described,No,2,GCF_002551415.1 | Streptomyces sp. f51 - ST 460,1,37,52
+461,GCF_002551425.1,Streptomyces sp.,1,b94,Contig,not validly described,No,7,GCF_002551425.1 | Streptomyces sp. b94 - ST 461,1,96,133
+462,GCF_002551435.1,Streptomyces sp.,1,f150,Contig,not validly described,No,2,GCF_002551435.1 | Streptomyces sp. f150 - ST 462,2,37,52
+463,GCF_002551465.1,Streptomyces sp.,1,b84,Contig,not validly described,No,1,GCF_002551465.1 | Streptomyces sp. b84 - ST 463,1,1,2
+464,GCF_002551475.1,Streptomyces sp.,1,b62,Contig,not validly described,No,2,GCF_002551475.1 | Streptomyces sp. b62 - ST 464,1,37,52
+465,GCF_900090065.1,Streptomyces sp.,1,OspMP-M45,Scaffold,not validly described,No,2,GCF_900090065.1 | Streptomyces sp. OspMP-M45 - ST 465,2,38,54
+465,GCF_009863235.1,Streptomyces sp.,1,SID4925,Scaffold,not validly described,No,2,GCF_009863235.1 | Streptomyces sp. SID4925 - ST 465,2,38,54
+465,GCF_002705695.1,Streptomyces sp.,1,OspMP-M45,Scaffold,not validly described,No,2,GCF_002705695.1 | Streptomyces sp. OspMP-M45 - ST 465,2,38,54
+466,GCF_900102245.1,Streptomyces sp.,6,KS_16,Contig,not validly described,No,23,GCF_900102245.1 | Streptomyces sp. KS_16 - ST 466,2,47,69
+466,GCF_900105235.1,Streptomyces sp.,6,2133.1,Contig,not validly described,No,23,GCF_900105235.1 | Streptomyces sp. 2133.1 - ST 466,2,47,69
+466,GCF_900105775.1,Streptomyces sp.,4,2112.3,Contig,not validly described,No,23,GCF_900105775.1 | Streptomyces sp. 2112.3 - ST 466,2,47,69
+466,GCF_900187385.1,Streptomyces sp.,6,2114.4,Contig,not validly described,No,23,GCF_900187385.1 | Streptomyces sp. 2114.4 - ST 466,2,47,69
+467,GCF_002761895.1,Streptomyces sp.,1,JV178,Scaffold,not validly described,No,68,GCF_002761895.1 | Streptomyces sp. JV178 - ST 467,1,94,131
+468,GCF_002802945.1,Streptomyces sp.,1,TSRI0384-2,Scaffold,not validly described,No,25,GCF_002802945.1 | Streptomyces sp. TSRI0384-2 - ST 468,1,51,73
+469,GCF_002803175.1,Streptomyces sp.,1,CB02613,Scaffold,not validly described,No,2,GCF_002803175.1 | Streptomyces sp. CB02613 - ST 469,1,37,53
+470,GCF_002804165.1,Streptomyces cavourensis,1,1AS2a,Complete Genome,correct name,No,2,GCF_002804165.1 | Streptomyces cavourensis 1AS2a - ST 470,2,37,56
+471,GCF_002832675.1,Streptomyces sp.,4,S063,Complete Genome,not validly described,No,2,GCF_002832675.1 | Streptomyces sp. S063 - ST 471,2,37,55
+472,GCF_002844215.1,Streptomyces sp.,1,EAG2,Contig,not validly described,No,3,GCF_002844215.1 | Streptomyces sp. EAG2 - ST 472,1,57,79
+473,GCF_900215565.1,Streptomyces sp.,5,Ag109_G2-15,Contig,not validly described,No,87,GCF_900215565.1 | Streptomyces sp. Ag109_G2-15 - ST 473,1,114,153
+474,GCF_900105245.1,Streptomyces sp.,4,1222.5,Contig,not validly described,No,88,GCF_900105245.1 | Streptomyces sp. 1222.5 - ST 474,1,115,154
+474,GCF_002846455.1,Streptomyces sp.,4,5112.2,Contig,not validly described,No,88,GCF_002846455.1 | Streptomyces sp. 5112.2 - ST 474,1,115,154
+475,GCF_002891315.1,Streptomyces noursei,7,JCM 4701,Scaffold,correct name,No,89,GCF_002891315.1 | Streptomyces noursei JCM 4701 - ST 475,1,116,155
+476,GCF_002891435.1,Streptomyces sp.,1,13K301,Contig,not validly described,Yes,207,GCF_002891435.1 | Streptomyces sp. 13K301 - ST 476,0,180,226
+477,GCF_002899455.1,Streptomyces sp.,6,DH-12,Contig,not validly described,No,208,GCF_002899455.1 | Streptomyces sp. DH-12 - ST 477,0,181,227
+478,GCF_002910775.2,Streptomyces sp.,5,SM18,Complete Genome,not validly described,No,2,GCF_002910775.2 | Streptomyces sp. SM18 - ST 478,2,38,54
+479,GCF_002910795.1,Streptomyces sp.,5,SM9,Scaffold,not validly described,No,3,GCF_002910795.1 | Streptomyces sp. SM9 - ST 479,1,57,79
+479,GCF_002910815.1,Streptomyces sp.,7,FM008,Scaffold,not validly described,No,3,GCF_002910815.1 | Streptomyces sp. FM008 - ST 479,1,57,79
+480,GCF_002910875.1,Streptomyces sp.,4,SM13,Scaffold,not validly described,No,1,GCF_002910875.1 | Streptomyces sp. SM13 - ST 480,2,1,6
+481,GCF_002910905.1,Streptomyces sp.,1,SM11,Scaffold,not validly described,No,1,GCF_002910905.1 | Streptomyces sp. SM11 - ST 481,1,1,7
+482,GCF_002910985.1,Streptomyces sp.,7,B188M101,Scaffold,not validly described,No,1,GCF_002910985.1 | Streptomyces sp. B188M101 - ST 482,1,1,6
+482,GCF_002910935.1,Streptomyces sp.,7,B226SN101,Scaffold,not validly described,No,1,GCF_002910935.1 | Streptomyces sp. B226SN101 - ST 482,1,1,6
+483,GCF_002939385.1,Streptomyces sp.,1,MH60,Scaffold,not validly described,No,209,GCF_002939385.1 | Streptomyces sp. MH60 - ST 483,0,182,228
+484,GCF_002941025.1,Streptomyces sp.,6,QL37,Scaffold,not validly described,No,36,GCF_002941025.1 | Streptomyces sp. QL37 - ST 484,1,64,90
+485,GCF_003013745.1,Streptomyces sp.,1,111WW2,Scaffold,not validly described,No,13,GCF_003013745.1 | Streptomyces sp. 111WW2 - ST 485,2,12,21
+486,GCF_003024215.1,Streptomyces sp.,10,CS149,Scaffold,not validly described,No,2,GCF_003024215.1 | Streptomyces sp. CS149 - ST 486,1,37,53
+487,GCF_003041235.1,Streptomyces sp.,1,A244,Contig,not validly described,No,69,GCF_003041235.1 | Streptomyces sp. A244 - ST 487,1,95,132
+488,GCF_003048205.2,Streptomyces chartreusis,4,WZS021,Contig,correct name,No,19,GCF_003048205.2 | Streptomyces chartreusis WZS021 - ST 488,2,32,47
+489,GCF_003074055.1,Streptomyces nigra,6,452,Complete Genome,no record in LPSN entry,No,35,GCF_003074055.1 | Streptomyces nigra 452 - ST 489,1,63,88
+490,GCF_003112555.1,Streptomyces coelicoflavus,1,NBRC 15399,Contig,correct name,No,18,GCF_003112555.1 | Streptomyces coelicoflavus NBRC 15399 - ST 490,1,30,45
+491,GCF_003112595.1,Streptomyces rubrogriseus,1,NBRC 15455,Scaffold,correct name,Yes,13,GCF_003112595.1 | Streptomyces rubrogriseus NBRC 15455 - ST 491,2,12,21
+492,GCF_003116675.1,Streptomyces sp.,1,CS090A,Scaffold,not validly described,No,1,GCF_003116675.1 | Streptomyces sp. CS090A - ST 492,1,1,4
+493,GCF_003116715.1,Streptomyces sp.,1,CS081A,Scaffold,not validly described,No,54,GCF_003116715.1 | Streptomyces sp. CS081A - ST 493,1,85,120
+494,GCF_003116755.1,Streptomyces sp.,5,CS131,Scaffold,not validly described,No,2,GCF_003116755.1 | Streptomyces sp. CS131 - ST 494,3,37,53
+495,GCF_003116775.1,Streptomyces sp.,4,CS147,Scaffold,not validly described,No,2,GCF_003116775.1 | Streptomyces sp. CS147 - ST 495,2,37,53
+496,GCF_003116795.1,Streptomyces sp.,1,CS207,Scaffold,not validly described,No,4,GCF_003116795.1 | Streptomyces sp. CS207 - ST 496,3,68,96
+497,GCF_003143935.1,Streptomyces sp.,1,Act143,Scaffold,not validly described,No,210,GCF_003143935.1 | Streptomyces sp. Act143 - ST 497,0,183,229
+498,GCF_003148825.1,Streptomyces sp.,1,CG 926,Contig,not validly described,No,9,GCF_003148825.1 | Streptomyces sp. CG 926 - ST 498,1,117,158
+499,GCF_003330865.1,Streptomyces atratus,6,SCSIO_ZH16,Complete Genome,correct name,No,2,GCF_003330865.1 | Streptomyces atratus SCSIO_ZH16 - ST 499,1,39,57
+500,GCF_003352445.1,Streptomyces cavourensis,4,TJ430,Complete Genome,correct name,No,2,GCF_003352445.1 | Streptomyces cavourensis TJ430 - ST 500,4,37,56
+501,GCF_003353555.1,Streptomyces sp.,5,HB202,Contig,not validly described,No,2,GCF_003353555.1 | Streptomyces sp. HB202 - ST 501,1,37,52
+502,GCF_003363195.1,Streptomyces sp.,2,M7,Contig,not validly described,No,35,GCF_003363195.1 | Streptomyces sp. M7 - ST 502,2,63,88
+503,GCF_003367645.1,Streptomyces sp.,1,IB2014 011-12,Contig,not validly described,No,1,GCF_003367645.1 | Streptomyces sp. IB2014 011-12 - ST 503,2,1,4
+504,GCF_003369795.1,Streptomyces sp.,6,CB09001,Complete Genome,not validly described,No,211,GCF_003369795.1 | Streptomyces sp. CB09001 - ST 504,0,184,230
+505,GCF_003389455.1,Streptomyces inhibens,1,NEAU-D10,Scaffold,correct name,No,212,GCF_003389455.1 | Streptomyces inhibens NEAU-D10 - ST 505,0,185,231
+506,GCF_003443735.1,Streptomyces sp.,6,CC0208,Complete Genome,not validly described,No,213,GCF_003443735.1 | Streptomyces sp. CC0208 - ST 506,0,186,232
+507,GCF_003595235.1,Streptomyces griseorubiginosus,5,3E-1,Complete Genome,correct name,No,28,GCF_003595235.1 | Streptomyces griseorubiginosus 3E-1 - ST 507,1,55,77
+508,GCF_003595545.1,Streptomyces sp.,6,11-1-2,Complete Genome,not validly described,No,55,GCF_003595545.1 | Streptomyces sp. 11-1-2 - ST 508,1,86,121
+509,GCF_003610995.1,Streptomyces griseus,5,ATCC 13273,Complete Genome,correct name,No,1,GCF_003610995.1 | Streptomyces griseus ATCC 13273 - ST 509,1,1,8
+510,GCF_003634815.1,Streptomyces sp.,2,3211.6,Contig,not validly described,No,86,GCF_003634815.1 | Streptomyces sp. 3211.6 - ST 510,1,113,152
+511,GCF_003671675.1,Streptomyces sp.,1,E2N171,Scaffold,not validly described,No,15,GCF_003671675.1 | Streptomyces sp. E2N171 - ST 511,5,20,34
+512,GCF_003671685.1,Streptomyces sp.,1,E5N298,Scaffold,not validly described,No,90,GCF_003671685.1 | Streptomyces sp. E5N298 - ST 512,1,118,164
+513,GCF_003671715.1,Streptomyces sp.,2,E2N166,Scaffold,not validly described,No,4,GCF_003671715.1 | Streptomyces sp. E2N166 - ST 513,1,68,98
+514,GCF_003671755.1,Streptomyces sp.,1,E5N91,Scaffold,not validly described,No,13,GCF_003671755.1 | Streptomyces sp. E5N91 - ST 514,1,12,21
+515,GCF_014205315.1,Streptomyces rapamycinicus,4,DSM 41530,Contig,correct name,Yes,73,GCF_014205315.1 | Streptomyces rapamycinicus DSM 41530 - ST 515,1,99,136
+515,GCF_003675955.1,Streptomyces rapamycinicus,4,NRRL 5491,Contig,correct name,Yes,73,GCF_003675955.1 | Streptomyces rapamycinicus NRRL 5491 - ST 515,1,99,136
+516,GCF_003687515.1,Streptomyces sp.,1,S5,Contig,not validly described,No,3,GCF_003687515.1 | Streptomyces sp. S5 - ST 516,1,57,79
+517,GCF_003751985.1,Streptomyces sp.,5,PanSC9,Contig,not validly described,No,85,GCF_003751985.1 | Streptomyces sp. PanSC9 - ST 517,1,112,151
+518,GCF_003752205.1,Streptomyces sp.,1,PanSC19,Contig,not validly described,No,214,GCF_003752205.1 | Streptomyces sp. PanSC19 - ST 518,0,187,233
+519,GCF_003865135.1,Streptomyces chrestomyceticus,3,NBRC 13444,Contig,correct name,Yes,17,GCF_003865135.1 | Streptomyces chrestomyceticus NBRC 13444 - ST 519,2,27,42
+520,GCF_003865155.1,Streptomyces rimosus,4,NBRC 15454,Contig,correct name,Yes,17,GCF_003865155.1 | Streptomyces rimosus NBRC 15454 - ST 520,2,27,42
+521,GCF_003933295.1,Streptomyces griseofuscus,1,64,Scaffold,correct name,No,6,GCF_003933295.1 | Streptomyces griseofuscus 64 - ST 521,2,90,127
+522,GCF_003933485.1,Streptomyces griseofuscus,1,199,Scaffold,correct name,No,6,GCF_003933485.1 | Streptomyces griseofuscus 199 - ST 522,1,90,127
+523,GCF_003933965.1,Streptomyces sp.,1,RP5T,Contig,not validly described,No,215,GCF_003933965.1 | Streptomyces sp. RP5T - ST 523,0,188,234
+524,GCF_003935055.1,Streptomyces alboflavus,2,313,Scaffold,correct name,No,66,GCF_003935055.1 | Streptomyces alboflavus 313 - ST 524,1,93,130
+525,GCF_003945525.1,Streptomyces sp.,1,WAC 01438,Complete Genome,not validly described,No,74,GCF_003945525.1 | Streptomyces sp. WAC 01438 - ST 525,1,189,235
+526,GCF_003947265.2,Streptomyces sp.,5,WAC 00631,Contig,not validly described,No,216,GCF_003947265.2 | Streptomyces sp. WAC 00631 - ST 526,0,190,236
+527,GCF_003947555.1,Streptomyces sp.,1,WAC 05379,Contig,not validly described,No,19,GCF_003947555.1 | Streptomyces sp. WAC 05379 - ST 527,2,32,47
+528,GCF_003947575.1,Streptomyces sp.,1,WAC 06783,Contig,not validly described,No,8,GCF_003947575.1 | Streptomyces sp. WAC 06783 - ST 528,2,105,142
+529,GCF_003947585.1,Streptomyces sp.,1,WAC 06725,Contig,not validly described,No,8,GCF_003947585.1 | Streptomyces sp. WAC 06725 - ST 529,1,105,142
+530,GCF_003949535.1,Streptomyces sp.,1,WAC07061,Contig,not validly described,No,91,GCF_003949535.1 | Streptomyces sp. WAC07061 - ST 530,1,119,165
+531,GCF_003949695.1,Streptomyces sp.,1,WAC05858,Contig,not validly described,No,5,GCF_003949695.1 | Streptomyces sp. WAC05858 - ST 531,1,79,113
+532,GCF_003949805.1,Streptomyces sp.,1,WAC08241,Contig,not validly described,No,217,GCF_003949805.1 | Streptomyces sp. WAC08241 - ST 532,0,191,237
+533,GCF_003949835.1,Streptomyces sp.,1,WAC02707,Contig,not validly described,No,4,GCF_003949835.1 | Streptomyces sp. WAC02707 - ST 533,1,68,96
+534,GCF_003949875.1,Streptomyces sp.,1,WAC07149,Contig,not validly described,No,218,GCF_003949875.1 | Streptomyces sp. WAC07149 - ST 534,0,192,238
+535,GCF_003949895.1,Streptomyces sp.,1,WAC04770,Contig,not validly described,No,2,GCF_003949895.1 | Streptomyces sp. WAC04770 - ST 535,1,37,56
+536,GCF_003949905.1,Streptomyces sp.,1,WAC06273,Contig,not validly described,No,4,GCF_003949905.1 | Streptomyces sp. WAC06273 - ST 536,3,68,96
+537,GCF_003950035.1,Streptomyces sp.,7,W1SF4,Complete Genome,not validly described,No,91,GCF_003950035.1 | Streptomyces sp. W1SF4 - ST 537,1,119,165
+538,GCF_003955715.1,Streptomyces aquilus,5,GGCR-6,Complete Genome,correct name,Yes,219,GCF_003955715.1 | Streptomyces aquilus GGCR-6 - ST 538,0,193,239
+539,GCF_003963535.1,Streptomyces cyaneochromogenes,2,MK-45,Complete Genome,correct name,Yes,220,GCF_003963535.1 | Streptomyces cyaneochromogenes MK-45 - ST 539,0,194,240
+540,GCF_003977875.1,Streptomyces sp.,1,WAC 01325,Contig,not validly described,No,221,GCF_003977875.1 | Streptomyces sp. WAC 01325 - ST 540,0,195,241
+541,GCF_003984905.1,Streptomyces sp.,1,WAC05458,Contig,not validly described,No,4,GCF_003984905.1 | Streptomyces sp. WAC05458 - ST 541,2,68,96
+542,GCF_003984925.1,Streptomyces sp.,1,WAC08401,Contig,not validly described,No,4,GCF_003984925.1 | Streptomyces sp. WAC08401 - ST 542,1,68,96
+543,GCF_003984935.1,Streptomyces sp.,1,WAC04189,Contig,not validly described,No,4,GCF_003984935.1 | Streptomyces sp. WAC04189 - ST 543,1,68,96
+544,GCF_003984965.1,Streptomyces sp.,1,WAC06128,Contig,not validly described,No,4,GCF_003984965.1 | Streptomyces sp. WAC06128 - ST 544,2,68,96
+545,GCF_003984975.1,Streptomyces sp.,1,WAC08452,Contig,not validly described,No,4,GCF_003984975.1 | Streptomyces sp. WAC08452 - ST 545,1,68,96
+546,GCF_003989035.1,Streptomyces sp.,1,NP10,Contig,not validly described,No,2,GCF_003989035.1 | Streptomyces sp. NP10 - ST 546,2,37,52
+547,GCF_004125275.1,Streptomyces lydicus,6,SW_ACT1,Contig,correct name,No,8,GCF_004125275.1 | Streptomyces lydicus SW_ACT1 - ST 547,1,106,143
+547,GCF_003994375.1,Streptomyces lydicus,6,WYEC 108,Complete Genome,correct name,No,8,GCF_003994375.1 | Streptomyces lydicus WYEC 108 - ST 547,1,106,143
+548,GCF_004000395.1,Streptomyces sp.,1,B29(2018),Contig,not validly described,No,3,GCF_004000395.1 | Streptomyces sp. B29(2018) - ST 548,1,57,79
+549,GCF_004000405.1,Streptomyces sp.,1,B27,Contig,not validly described,No,2,GCF_004000405.1 | Streptomyces sp. B27 - ST 549,1,37,56
+550,GCF_004078575.1,Streptomyces albidoflavus,1,BSII#1,Contig,correct name,No,3,GCF_004078575.1 | Streptomyces albidoflavus BSII#1 - ST 550,1,57,79
+551,GCF_004104485.1,Streptomyces sp.,7,endophyte_N2,Complete Genome,not validly described,No,6,GCF_004104485.1 | Streptomyces sp. endophyte_N2 - ST 551,4,90,127
+552,GCF_004117935.1,Streptomyces roseicoloratus,1,TRM44457,Scaffold,correct name,No,222,GCF_004117935.1 | Streptomyces roseicoloratus TRM44457 - ST 552,0,196,242
+553,GCF_004124335.1,Streptomyces sp.,6,N1,Contig,not validly described,No,3,GCF_004124335.1 | Streptomyces sp. N1 - ST 553,1,57,79
+554,GCF_004125265.1,Streptomyces lydicus,7,ATCC 31975,Contig,correct name,No,8,GCF_004125265.1 | Streptomyces lydicus ATCC 31975 - ST 554,1,106,144
+555,GCF_004125315.1,Streptomyces sp.,6,M3,Contig,not validly described,No,36,GCF_004125315.1 | Streptomyces sp. M3 - ST 555,2,64,91
+556,GCF_004151105.1,Streptomyces sp.,1,L-9-10,Scaffold,not validly described,No,223,GCF_004151105.1 | Streptomyces sp. L-9-10 - ST 556,0,197,243
+557,GCF_004195735.1,Streptomyces albidoflavus,1,DSM 40455,Contig,correct name,Yes,3,GCF_004195735.1 | Streptomyces albidoflavus DSM 40455 - ST 557,1,57,79
+558,GCF_004195745.1,Streptomyces albidoflavus,1,NBRC 100770,Contig,correct name,Yes,3,GCF_004195745.1 | Streptomyces albidoflavus NBRC 100770 - ST 558,1,57,79
+559,GCF_004195895.1,Streptomyces albidoflavus,1,Ma24,Contig,correct name,No,3,GCF_004195895.1 | Streptomyces albidoflavus Ma24 - ST 559,2,57,79
+560,GCF_004196225.1,Streptomyces sp.,1,SCA2-2,Contig,not validly described,No,3,GCF_004196225.1 | Streptomyces sp. SCA2-2 - ST 560,1,57,79
+561,GCF_004217355.1,Streptomyces sp.,1,BK022,Scaffold,not validly described,No,56,GCF_004217355.1 | Streptomyces sp. BK022 - ST 561,2,87,122
+562,GCF_004320085.1,Streptomyces kasugaensis,1,AM-2504,Contig,correct name,No,30,GCF_004320085.1 | Streptomyces kasugaensis AM-2504 - ST 562,1,58,80
+563,GCF_004341025.1,Streptomyces sp.,1,BK205,Scaffold,not validly described,No,28,GCF_004341025.1 | Streptomyces sp. BK205 - ST 563,1,55,77
+564,GCF_004364245.1,Streptomyces sp.,1,BK208,Scaffold,not validly described,No,4,GCF_004364245.1 | Streptomyces sp. BK208 - ST 564,3,68,99
+565,GCF_004364395.1,Streptomyces sp.,7,KS 21,Contig,not validly described,No,41,GCF_004364395.1 | Streptomyces sp. KS 21 - ST 565,1,71,104
+566,GCF_004524875.1,Streptomyces sp.,1,S501,Complete Genome,not validly described,No,1,GCF_004524875.1 | Streptomyces sp. S501 - ST 566,2,2,3
+567,GCF_004563805.1,Streptomyces sp.,1,4R-3d,Contig,not validly described,No,61,GCF_004563805.1 | Streptomyces sp. 4R-3d - ST 567,1,91,128
+568,GCF_004794175.1,Streptomyces sp.,1,1AS2c,Contig,not validly described,Yes,33,GCF_004794175.1 | Streptomyces sp. 1AS2c - ST 568,1,61,84
+569,GCF_004794665.1,Streptomyces sp.,4,S816,Scaffold,not validly described,No,6,GCF_004794665.1 | Streptomyces sp. S816 - ST 569,1,90,127
+570,GCF_004795115.1,Streptomyces sp.,1,A0592,Contig,not validly described,No,10,GCF_004795115.1 | Streptomyces sp. A0592 - ST 570,1,4,13
+571,GCF_004795155.1,Streptomyces sp.,1,LRa12,Contig,not validly described,No,13,GCF_004795155.1 | Streptomyces sp. LRa12 - ST 571,2,12,21
+572,GCF_004795715.1,Streptomyces sp.,5,SS52,Complete Genome,not validly described,No,4,GCF_004795715.1 | Streptomyces sp. SS52 - ST 572,2,68,96
+573,GCF_004803895.1,Streptomyces hawaiiensis,5,ATCC 12236,Complete Genome,correct name,Yes,14,GCF_004803895.1 | Streptomyces hawaiiensis ATCC 12236 - ST 573,1,16,27
+574,GCF_005234185.1,Streptomyces sp.,1,BPSDS2,Contig,not validly described,No,1,GCF_005234185.1 | Streptomyces sp. BPSDS2 - ST 574,1,1,6
+575,GCF_005490965.1,Streptomyces sp.,5,SGAir0924,Complete Genome,not validly described,No,4,GCF_005490965.1 | Streptomyces sp. SGAir0924 - ST 575,2,68,96
+576,GCF_005938145.1,Streptomyces sp.,6,DASNCL29,Contig,not validly described,No,5,GCF_005938145.1 | Streptomyces sp. DASNCL29 - ST 576,1,79,112
+577,GCF_006516935.1,Streptomyces griseorubiginosus,4,BTU6,Complete Genome,correct name,No,224,GCF_006516935.1 | Streptomyces griseorubiginosus BTU6 - ST 577,0,198,244
+578,GCF_006539185.1,Streptomyces gardneri,1,NBRC 12865,Contig,correct name,Yes,92,GCF_006539185.1 | Streptomyces gardneri NBRC 12865 - ST 578,1,120,166
+579,GCF_006547175.1,Streptomyces ipomoeae,1,78-51,Scaffold,correct name,No,31,GCF_006547175.1 | Streptomyces ipomoeae 78-51 - ST 579,1,59,81
+580,GCF_006547185.1,Streptomyces ipomoeae,1,88-35,Scaffold,correct name,No,31,GCF_006547185.1 | Streptomyces ipomoeae 88-35 - ST 580,1,59,81
+581,GCF_006715925.1,Streptomyces sp.,5,SLBN-134,Contig,not validly described,No,93,GCF_006715925.1 | Streptomyces sp. SLBN-134 - ST 581,1,121,167
+582,GCF_006716135.1,Streptomyces asterosporus,3,DSM 41452,Complete Genome,synonym,Yes,94,GCF_006716135.1 | Streptomyces asterosporus DSM 41452 - ST 582,1,122,168
+583,GCF_006788935.1,Streptomyces cavourensis,6,DSM 41795,Contig,correct name,Yes,2,GCF_006788935.1 | Streptomyces cavourensis DSM 41795 - ST 583,1,37,56
+583,GCF_014649215.1,Streptomyces cavourensis,1,JCM 4298,Scaffold,correct name,Yes,2,GCF_014649215.1 | Streptomyces cavourensis JCM 4298 - ST 583,1,37,56
+584,GCF_007827595.1,Streptomyces sp.,1,BK340,Scaffold,not validly described,No,225,GCF_007827595.1 | Streptomyces sp. BK340 - ST 584,0,199,245
+585,GCF_007828695.1,Streptomyces sp.,1,T12,Scaffold,not validly described,No,226,GCF_007828695.1 | Streptomyces sp. T12 - ST 585,0,200,246
+586,GCF_007829875.1,Streptomyces capillispiralis,6,DSM 41695,Contig,correct name,Yes,227,GCF_007829875.1 | Streptomyces capillispiralis DSM 41695 - ST 586,0,201,247
+587,GCF_007896895.1,Streptomyces misionensis,6,66,Scaffold,correct name,No,37,GCF_007896895.1 | Streptomyces misionensis 66 - ST 587,2,65,92
+588,GCF_007896905.1,Streptomyces albidoflavus,5,77,Scaffold,correct name,No,3,GCF_007896905.1 | Streptomyces albidoflavus 77 - ST 588,1,57,79
+589,GCF_008016805.1,Streptomyces lavendulae,1,YAKB-15,Scaffold,correct name,No,95,GCF_008016805.1 | Streptomyces lavendulae YAKB-15 - ST 589,1,123,169
+590,GCF_008039505.1,Streptomyces sp.,1,IB2014 016-6,Contig,not validly described,No,228,GCF_008039505.1 | Streptomyces sp. IB2014 016-6 - ST 590,0,202,248
+591,GCF_008042065.1,Streptomyces sp.,1,gb1(2016),Scaffold,not validly described,No,36,GCF_008042065.1 | Streptomyces sp. gb1(2016) - ST 591,1,64,91
+592,GCF_008042145.1,Streptomyces sp.,1,adm13(2018),Scaffold,not validly described,No,34,GCF_008042145.1 | Streptomyces sp. adm13(2018) - ST 592,1,62,87
+593,GCF_008086975.1,Streptomyces sp.,1,WAC5950 substr. delta orf15 pCRISPomyces,Scaffold,not validly described,No,10,GCF_008086975.1 | Streptomyces sp. WAC5950 substr. delta orf15 pCRISPomyces - ST 593,1,4,12
+594,GCF_008087005.1,Streptomyces sp.,1,WAC01526,Contig,not validly described,No,8,GCF_008087005.1 | Streptomyces sp. WAC01526 - ST 594,2,106,143
+595,GCF_008180165.1,Streptomyces parvus,1,C05,Contig,correct name,No,2,GCF_008180165.1 | Streptomyces parvus C05 - ST 595,1,37,53
+596,GCF_008632535.1,Streptomyces parvus,1,NRRL B-1455,Scaffold,correct name,Yes,2,GCF_008632535.1 | Streptomyces parvus NRRL B-1455 - ST 596,2,37,53
+596,GCF_014648875.1,Streptomyces parvus,1,JCM 4069,Scaffold,correct name,Yes,2,GCF_014648875.1 | Streptomyces parvus JCM 4069 - ST 596,2,37,53
+597,GCF_014654895.1,Streptomyces filamentosus,1,JCM 4122,Contig,correct name,Yes,229,GCF_014654895.1 | Streptomyces filamentosus JCM 4122 - ST 597,0,45,66
+597,GCF_008634015.1,Streptomyces filamentosus,3,ATCC 23958,Contig,correct name,Yes,229,GCF_008634015.1 | Streptomyces filamentosus ATCC 23958 - ST 597,0,45,66
+598,GCF_008634025.1,Streptomyces albofaciens,3,ATCC 23873,Contig,correct name,Yes,62,GCF_008634025.1 | Streptomyces albofaciens ATCC 23873 - ST 598,1,203,249
+599,GCF_008639045.1,Streptomyces venezuelae,7,ATCC 21113,Complete Genome,correct name,No,20,GCF_008639045.1 | Streptomyces venezuelae ATCC 21113 - ST 599,2,41,61
+600,GCF_008642275.1,Streptomyces venezuelae,6,ATCC 21018,Complete Genome,correct name,No,9,GCF_008642275.1 | Streptomyces venezuelae ATCC 21018 - ST 600,1,117,161
+601,GCF_008642375.1,Streptomyces venezuelae,1,ATCC 15068,Complete Genome,correct name,No,230,GCF_008642375.1 | Streptomyces venezuelae ATCC 15068 - ST 601,0,204,250
+602,GCF_008704515.1,Streptomyces viridosporus,1,ATCC 39115,Complete Genome,correct name,No,4,GCF_008704515.1 | Streptomyces viridosporus ATCC 39115 - ST 602,1,69,100
+603,GCF_008704575.1,Streptomyces galilaeus,1,ATCC 14969,Complete Genome,synonym,Yes,57,GCF_008704575.1 | Streptomyces galilaeus ATCC 14969 - ST 603,1,88,124
+604,GCF_008704715.1,Streptomyces chartreusis,6,ATCC 14922,Complete Genome,correct name,Yes,19,GCF_008704715.1 | Streptomyces chartreusis ATCC 14922 - ST 604,1,32,47
+604,GCF_014650315.1,Streptomyces chartreusis,1,JCM 4570,Scaffold,correct name,Yes,19,GCF_014650315.1 | Streptomyces chartreusis JCM 4570 - ST 604,1,32,47
+605,GCF_008704995.1,Streptomyces nodosus,5,ATCC 14899,Complete Genome,correct name,Yes,49,GCF_008704995.1 | Streptomyces nodosus ATCC 14899 - ST 605,1,78,111
+605,GCF_014205035.1,Streptomyces nodosus,5,DSM 40109,Contig,correct name,Yes,49,GCF_014205035.1 | Streptomyces nodosus DSM 40109 - ST 605,1,78,111
+605,GCF_017352335.1,Streptomyces nodosus,5,ZJB2016050,Complete Genome,correct name,No,49,GCF_017352335.1 | Streptomyces nodosus ZJB2016050 - ST 605,1,78,111
+606,GCF_008705135.1,Streptomyces coeruleorubidus,1,ATCC 13740,Complete Genome,correct name,Yes,231,GCF_008705135.1 | Streptomyces coeruleorubidus ATCC 13740 - ST 606,0,205,251
+607,GCF_008705255.1,Streptomyces venezuelae,7,ATCC 10595,Complete Genome,correct name,No,20,GCF_008705255.1 | Streptomyces venezuelae ATCC 10595 - ST 607,1,41,61
+608,GCF_008973465.1,Streptomyces sp.,1,SS1-1,Contig,not validly described,No,232,GCF_008973465.1 | Streptomyces sp. SS1-1 - ST 608,0,206,252
+609,GCF_009208535.1,Streptomyces mobaraensis,1,US-43,Contig,correct name,No,70,GCF_009208535.1 | Streptomyces mobaraensis US-43 - ST 609,1,97,134
+610,GCF_009299385.1,Streptomyces cinereoruber,4,ATCC 19740,Complete Genome,correct name,Yes,54,GCF_009299385.1 | Streptomyces cinereoruber ATCC 19740 - ST 610,1,85,120
+610,GCF_011758705.1,Streptomyces cinereoruber,4,DSM 41512,Contig,correct name,Yes,54,GCF_011758705.1 | Streptomyces cinereoruber DSM 41512 - ST 610,1,85,120
+610,GCF_014197485.1,Streptomyces cinereoruber,1,NRRL ISP-5012,Scaffold,correct name,Yes,54,GCF_014197485.1 | Streptomyces cinereoruber NRRL ISP-5012 - ST 610,1,85,120
+611,GCF_009377175.1,Streptomyces adustus,1,NBRC 109810,Contig,correct name,Yes,233,GCF_009377175.1 | Streptomyces adustus NBRC 109810 - ST 611,0,207,253
+612,GCF_009604455.1,Streptomyces sp.,1,RB17,Scaffold,not validly described,No,234,GCF_009604455.1 | Streptomyces sp. RB17 - ST 612,0,208,254
+613,GCF_009739225.1,Streptomyces sp.,1,Z38,Scaffold,not validly described,No,15,GCF_009739225.1 | Streptomyces sp. Z38 - ST 613,1,20,34
+614,GCF_009811575.1,Streptomyces glebosus,7,NBRC 13786,Contig,no record in LPSN entry,Yes,2,GCF_009811575.1 | Streptomyces glebosus NBRC 13786 - ST 614,1,40,58
+614,GCF_014656235.1,Streptomyces glebosus,1,JCM 4954,Scaffold,no record in LPSN entry,Yes,2,GCF_014656235.1 | Streptomyces glebosus JCM 4954 - ST 614,1,40,58
+615,GCF_009829585.1,Streptomyces tendae,1,UTMC 3329,Scaffold,correct name,No,4,GCF_009829585.1 | Streptomyces tendae UTMC 3329 - ST 615,1,68,101
+616,GCF_009832925.1,Streptomyces sp.,2,Tu 2975,Complete Genome,not validly described,No,39,GCF_009832925.1 | Streptomyces sp. Tu 2975 - ST 616,1,67,95
+617,GCF_009834105.1,Streptomyces sp.,4,GF20,Complete Genome,not validly described,No,3,GCF_009834105.1 | Streptomyces sp. GF20 - ST 617,1,57,79
+618,GCF_009834125.1,Streptomyces sp.,6,GS7,Complete Genome,not validly described,No,235,GCF_009834125.1 | Streptomyces sp. GS7 - ST 618,0,209,255
+619,GCF_009834145.1,Streptomyces sp.,6,HF10,Complete Genome,not validly described,No,236,GCF_009834145.1 | Streptomyces sp. HF10 - ST 619,0,210,256
+620,GCF_009852415.1,Streptomyces sp.,6,Tu 3180,Contig,not validly described,No,237,GCF_009852415.1 | Streptomyces sp. Tu 3180 - ST 620,0,211,257
+621,GCF_009857135.1,Streptomyces sp.,5,HM190,Complete Genome,not validly described,No,238,GCF_009857135.1 | Streptomyces sp. HM190 - ST 621,0,212,258
+622,GCF_900091985.1,Streptomyces sp.,1,DconLS,Contig,not validly described,No,6,GCF_900091985.1 | Streptomyces sp. DconLS - ST 622,4,90,127
+622,GCF_900091975.1,Streptomyces sp.,1,LamerLS-31b,Contig,not validly described,No,6,GCF_900091975.1 | Streptomyces sp. LamerLS-31b - ST 622,4,90,127
+622,GCF_009862025.1,Streptomyces sp.,1,SID4946,Contig,not validly described,No,6,GCF_009862025.1 | Streptomyces sp. SID4946 - ST 622,4,90,127
+623,GCF_009862355.1,Streptomyces sp.,1,SID7834,Contig,not validly described,No,1,GCF_009862355.1 | Streptomyces sp. SID7834 - ST 623,2,2,3
+624,GCF_900091765.1,Streptomyces sp.,1,PalvLS-984,Contig,not validly described,No,2,GCF_900091765.1 | Streptomyces sp. PalvLS-984 - ST 624,1,38,54
+624,GCF_009862465.1,Streptomyces sp.,1,SID4941,Contig,not validly described,No,2,GCF_009862465.1 | Streptomyces sp. SID4941 - ST 624,1,38,54
+625,GCF_009862505.1,Streptomyces sp.,1,SID7805,Contig,not validly described,No,30,GCF_009862505.1 | Streptomyces sp. SID7805 - ST 625,2,58,80
+626,GCF_009862625.1,Streptomyces sp.,1,SID69,Contig,not validly described,No,95,GCF_009862625.1 | Streptomyces sp. SID69 - ST 626,1,123,169
+627,GCF_009862685.1,Streptomyces sp.,2,SID685,Contig,not validly described,No,6,GCF_009862685.1 | Streptomyces sp. SID685 - ST 627,1,90,127
+628,GCF_009862765.1,Streptomyces sp.,1,SID6137,Contig,not validly described,No,6,GCF_009862765.1 | Streptomyces sp. SID6137 - ST 628,1,90,127
+629,GCF_009863035.1,Streptomyces sp.,1,SID4982,Contig,not validly described,No,56,GCF_009863035.1 | Streptomyces sp. SID4982 - ST 629,1,87,123
+630,GCF_009863125.1,Streptomyces sp.,1,SID4936,Contig,not validly described,No,59,GCF_009863125.1 | Streptomyces sp. SID4936 - ST 630,1,89,125
+630,GCF_900091725.1,Streptomyces sp.,1,DvalAA-43,Contig,not validly described,No,59,GCF_900091725.1 | Streptomyces sp. DvalAA-43 - ST 630,1,89,125
+631,GCF_009863145.1,Streptomyces sp.,1,SID4937,Contig,not validly described,No,2,GCF_009863145.1 | Streptomyces sp. SID4937 - ST 631,1,37,59
+631,GCF_900091775.1,Streptomyces sp.,1,ScaeMP-e83,Contig,not validly described,No,2,GCF_900091775.1 | Streptomyces sp. ScaeMP-e83 - ST 631,1,37,59
+632,GCF_900091885.1,Streptomyces sp.,1,ScaeMP-6W,Contig,not validly described,No,3,GCF_900091885.1 | Streptomyces sp. ScaeMP-6W - ST 632,1,57,79
+633,GCF_009864905.1,Streptomyces sp.,1,SID8378,Scaffold,not validly described,No,2,GCF_009864905.1 | Streptomyces sp. SID8378 - ST 633,1,37,53
+633,GCF_900187925.1,Streptomyces sp.,1,PgraA7,Scaffold,not validly described,No,2,GCF_900187925.1 | Streptomyces sp. PgraA7 - ST 633,1,37,53
+634,GCF_009865205.1,Streptomyces sp.,1,SID2999,Contig,not validly described,No,52,GCF_009865205.1 | Streptomyces sp. SID2999 - ST 634,1,83,117
+635,GCF_900091785.1,Streptomyces sp.,1,BvitLS-983,Contig,not validly described,No,3,GCF_900091785.1 | Streptomyces sp. BvitLS-983 - ST 635,1,57,79
+636,GCF_009865475.1,Streptomyces sp.,1,SID2888,Contig,not validly described,No,49,GCF_009865475.1 | Streptomyces sp. SID2888 - ST 636,1,78,111
+637,GCF_009865505.1,Streptomyces sp.,1,SID2119,Contig,not validly described,No,1,GCF_009865505.1 | Streptomyces sp. SID2119 - ST 637,1,1,4
+638,GCF_009865565.1,Streptomyces sp.,1,SID1046,Contig,not validly described,No,76,GCF_009865565.1 | Streptomyces sp. SID1046 - ST 638,1,101,138
+639,GCF_009865595.1,Streptomyces sp.,1,SID1328,Contig,not validly described,No,52,GCF_009865595.1 | Streptomyces sp. SID1328 - ST 639,1,83,117
+640,GCF_009872515.1,Streptomyces sp.,1,SID5770,Contig,not validly described,No,239,GCF_009872515.1 | Streptomyces sp. SID5770 - ST 640,0,213,259
+641,GCF_009872555.1,Streptomyces sp.,1,SID5643,Contig,not validly described,No,14,GCF_009872555.1 | Streptomyces sp. SID5643 - ST 641,1,16,28
+642,GCF_009872565.1,Streptomyces sp.,1,SID5614,Contig,not validly described,No,2,GCF_009872565.1 | Streptomyces sp. SID5614 - ST 642,1,37,52
+643,GCF_010119355.1,Streptomyces sp.,1,TR1341,Contig,not validly described,No,6,GCF_010119355.1 | Streptomyces sp. TR1341 - ST 643,1,90,127
+644,GCF_017979945.1,Streptomyces sp.,7,604F,Scaffold,not validly described,No,3,GCF_017979945.1 | Streptomyces sp. 604F - ST 644,3,57,79
+644,GCF_010523235.1,Streptomyces sp.,6,604F,Complete Genome,not validly described,No,3,GCF_010523235.1 | Streptomyces sp. 604F - ST 644,3,57,79
+645,GCF_010548045.1,Streptomyces anulatus,1,SID10689,Contig,correct name,No,1,GCF_010548045.1 | Streptomyces anulatus SID10689 - ST 645,2,1,2
+646,GCF_010548165.1,Streptomyces cyaneofuscatus,1,SID10855,Contig,correct name,No,1,GCF_010548165.1 | Streptomyces cyaneofuscatus SID10855 - ST 646,1,1,4
+647,GCF_010548175.1,Streptomyces halstedii,1,SID11342,Contig,correct name,No,2,GCF_010548175.1 | Streptomyces halstedii SID11342 - ST 647,1,38,54
+648,GCF_010548375.1,Streptomyces sp.,1,SID13726,Contig,not validly described,No,240,GCF_010548375.1 | Streptomyces sp. SID13726 - ST 648,0,214,260
+649,GCF_010548385.1,Streptomyces coelicoflavus,1,SID14163,Contig,correct name,No,18,GCF_010548385.1 | Streptomyces coelicoflavus SID14163 - ST 649,1,30,45
+650,GCF_010548435.1,Streptomyces coelicoflavus,1,SID14172,Contig,correct name,No,18,GCF_010548435.1 | Streptomyces coelicoflavus SID14172 - ST 650,1,30,45
+651,GCF_010548465.1,Streptomyces sp.,1,SID14436,Contig,not validly described,No,38,GCF_010548465.1 | Streptomyces sp. SID14436 - ST 651,2,66,93
+652,GCF_010548505.1,Streptomyces sp.,1,SID14515,Contig,not validly described,No,1,GCF_010548505.1 | Streptomyces sp. SID14515 - ST 652,1,1,6
+653,GCF_010548615.1,Streptomyces anulatus,1,SID505,Contig,correct name,No,1,GCF_010548615.1 | Streptomyces anulatus SID505 - ST 653,1,1,2
+654,GCF_010548665.1,Streptomyces parvus,1,SID7590,Contig,correct name,No,2,GCF_010548665.1 | Streptomyces parvus SID7590 - ST 654,1,37,53
+655,GCF_010548705.1,Streptomyces anulatus,1,SID7903,Contig,correct name,No,1,GCF_010548705.1 | Streptomyces anulatus SID7903 - ST 655,1,1,2
+655,GCF_010550525.1,Streptomyces anulatus,1,SID9598,Contig,correct name,No,1,GCF_010550525.1 | Streptomyces anulatus SID9598 - ST 655,1,1,2
+656,GCF_010548725.1,Streptomyces sp.,1,SID8014,Contig,not validly described,No,25,GCF_010548725.1 | Streptomyces sp. SID8014 - ST 656,1,51,73
+657,GCF_010550325.1,Streptomyces rubrogriseus,1,SID7739,Contig,correct name,No,13,GCF_010550325.1 | Streptomyces rubrogriseus SID7739 - ST 657,1,12,21
+658,GCF_010550365.1,Streptomyces sp.,1,SID7958,Contig,not validly described,No,38,GCF_010550365.1 | Streptomyces sp. SID7958 - ST 658,2,66,93
+659,GCF_010550405.1,Streptomyces rochei,1,SID8161,Contig,correct name,No,4,GCF_010550405.1 | Streptomyces rochei SID8161 - ST 659,3,68,96
+660,GCF_010550435.1,Streptomyces sp.,1,SID8111,Contig,not validly described,No,38,GCF_010550435.1 | Streptomyces sp. SID8111 - ST 660,1,66,93
+661,GCF_010550645.1,Streptomyces sp.,1,SID9913,Contig,not validly described,No,38,GCF_010550645.1 | Streptomyces sp. SID9913 - ST 661,1,66,93
+662,GCF_010892295.1,Streptomyces rhizosphaericus,1,0250,Scaffold,correct name,No,5,GCF_010892295.1 | Streptomyces rhizosphaericus 0250 - ST 662,1,79,112
+663,GCF_010993835.1,Streptomyces sp.,5,OM5714,Scaffold,not validly described,No,18,GCF_010993835.1 | Streptomyces sp. OM5714 - ST 663,2,30,45
+664,GCF_011008945.1,Streptomyces sp.,1,PRKS01-65,Contig,not validly described,Yes,48,GCF_011008945.1 | Streptomyces sp. PRKS01-65 - ST 664,1,77,110
+665,GCF_011055525.1,Streptomyces sp.,1,196,Contig,not validly described,No,33,GCF_011055525.1 | Streptomyces sp. 196 - ST 665,1,61,84
+666,GCF_011170105.1,Streptomyces rutgersensis,3,NBRC 12819,Contig,synonym,Yes,25,GCF_011170105.1 | Streptomyces rutgersensis NBRC 12819 - ST 666,2,51,73
+667,GCF_011170125.1,Streptomyces diastaticus,5,NBRC 13412,Contig,correct name,Yes,25,GCF_011170125.1 | Streptomyces diastaticus NBRC 13412 - ST 667,2,51,73
+667,GCF_014648935.1,Streptomyces diastaticus,1,JCM 4128,Scaffold,correct name,Yes,25,GCF_014648935.1 | Streptomyces diastaticus JCM 4128 - ST 667,2,51,73
+668,GCF_011290345.1,Streptomyces sp.,1,ID38640,Chromosome,not validly described,No,241,GCF_011290345.1 | Streptomyces sp. ID38640 - ST 668,0,215,261
+669,GCF_011317205.1,Streptomyces sp.,3,KO7888,Scaffold,not validly described,No,18,GCF_011317205.1 | Streptomyces sp. KO7888 - ST 669,1,30,45
+670,GCF_012927245.1,Streptomyces sp.,1,R302,Scaffold,not validly described,No,242,GCF_012927245.1 | Streptomyces sp. R302 - ST 670,0,49,71
+670,GCF_012927225.1,Streptomyces sp.,1,R301,Scaffold,not validly described,No,242,GCF_012927225.1 | Streptomyces sp. R301 - ST 670,0,49,71
+671,GCF_013046785.1,Streptomyces sp.,3,jing01,Complete Genome,not validly described,No,243,GCF_013046785.1 | Streptomyces sp. jing01 - ST 671,0,216,262
+672,GCF_013363665.1,Streptomyces sp.,1,CAI-68,Contig,not validly described,No,2,GCF_013363665.1 | Streptomyces sp. CAI-68 - ST 672,2,37,53
+672,GCF_013363455.1,Streptomyces sp.,1,CAI-121,Contig,not validly described,No,2,GCF_013363455.1 | Streptomyces sp. CAI-121 - ST 672,2,37,53
+673,GCF_013363465.1,Streptomyces odorifer,1,KAI-180,Contig,synonym,No,3,GCF_013363465.1 | Streptomyces odorifer KAI-180 - ST 673,2,57,79
+673,GCF_015601545.1,Streptomyces albidoflavus,7,W68,Complete Genome,correct name,No,3,GCF_015601545.1 | Streptomyces albidoflavus W68 - ST 673,2,57,79
+674,GCF_013363475.1,Streptomyces sp.,1,KAI-26,Contig,not validly described,No,2,GCF_013363475.1 | Streptomyces sp. KAI-26 - ST 674,1,37,56
+675,GCF_013363575.1,Streptomyces sp.,1,KAI 90,Contig,not validly described,No,4,GCF_013363575.1 | Streptomyces sp. KAI 90 - ST 675,2,68,96
+676,GCF_013363655.1,Streptomyces sp.,1,CAI 127,Contig,not validly described,No,2,GCF_013363655.1 | Streptomyces sp. CAI 127 - ST 676,1,37,53
+677,GCF_013363675.1,Streptomyces sp.,1,CAI-24,Contig,not validly described,No,2,GCF_013363675.1 | Streptomyces sp. CAI-24 - ST 677,1,37,56
+678,GCF_013363735.1,Streptomyces sp.,1,CAI-155,Contig,not validly described,No,2,GCF_013363735.1 | Streptomyces sp. CAI-155 - ST 678,2,37,56
+679,GCF_013364095.1,Streptomyces harbinensis,5,NA02264,Complete Genome,correct name,No,43,GCF_013364095.1 | Streptomyces harbinensis NA02264 - ST 679,2,73,106
+680,GCF_013364175.1,Streptomyces sp.,2,NA02536,Complete Genome,not validly described,No,93,GCF_013364175.1 | Streptomyces sp. NA02536 - ST 680,1,121,167
+681,GCF_013364315.1,Streptomyces fulvissimus,6,NA06532,Complete Genome,synonym,No,1,GCF_013364315.1 | Streptomyces fulvissimus NA06532 - ST 681,2,1,5
+682,GCF_013375055.1,Streptomyces chartreusis,1,NA02069,Complete Genome,correct name,No,19,GCF_013375055.1 | Streptomyces chartreusis NA02069 - ST 682,3,32,47
+683,GCF_013394065.1,Streptomyces rectiverticillatus,3,B15-08,Complete Genome,synonym,No,27,GCF_013394065.1 | Streptomyces rectiverticillatus B15-08 - ST 683,2,54,76
+684,GCF_013401535.1,Streptomyces sp.,1,CB04723,Complete Genome,not validly described,No,7,GCF_013401535.1 | Streptomyces sp. CB04723 - ST 684,1,96,133
+685,GCF_013423905.1,Streptomyces sp.,6,NEAU-sy36,Complete Genome,not validly described,No,37,GCF_013423905.1 | Streptomyces sp. NEAU-sy36 - ST 685,1,65,92
+686,GCF_013870595.1,Streptomyces sp.,1,WELS2,Contig,not validly described,No,244,GCF_013870595.1 | Streptomyces sp. WELS2 - ST 686,0,217,263
+687,GCF_014076605.1,Streptomyces sp.,1,GMR22,Contig,not validly described,No,5,GCF_014076605.1 | Streptomyces sp. GMR22 - ST 687,2,79,112
+688,GCF_014138735.1,Streptomyces calvus,1,CECT 3271,Scaffold,correct name,Yes,94,GCF_014138735.1 | Streptomyces calvus CECT 3271 - ST 688,1,122,168
+688,GCF_014649315.1,Streptomyces calvus,1,JCM 4326,Scaffold,correct name,Yes,94,GCF_014649315.1 | Streptomyces calvus JCM 4326 - ST 688,1,122,168
+689,GCF_014138855.1,Streptomyces murinus,7,DSM 41827,Contig,correct name,Yes,6,GCF_014138855.1 | Streptomyces murinus DSM 41827 - ST 689,2,90,127
+690,GCF_014138905.1,Streptomyces murinus,7,DSM 40710,Contig,correct name,Yes,6,GCF_014138905.1 | Streptomyces murinus DSM 40710 - ST 690,2,90,127
+691,GCF_014202475.1,Streptomyces paradoxus,1,DSM 43350,Scaffold,correct name,Yes,14,GCF_014202475.1 | Streptomyces paradoxus DSM 43350 - ST 691,2,16,29
+692,GCF_014650615.1,Streptomyces albaduncus,1,JCM 4715,Scaffold,correct name,Yes,245,GCF_014650615.1 | Streptomyces albaduncus JCM 4715 - ST 692,0,50,72
+692,GCF_014203495.1,Streptomyces albaduncus,1,CECT 3226,Scaffold,correct name,Yes,245,GCF_014203495.1 | Streptomyces albaduncus CECT 3226 - ST 692,0,50,72
+693,GCF_014203535.1,Streptomyces griseostramineus,1,CECT 3273,Scaffold,correct name,Yes,96,GCF_014203535.1 | Streptomyces griseostramineus CECT 3273 - ST 693,1,124,170
+693,GCF_014649635.1,Streptomyces griseostramineus,1,JCM 4385,Scaffold,correct name,Yes,96,GCF_014649635.1 | Streptomyces griseostramineus JCM 4385 - ST 693,1,124,170
+694,GCF_014203595.1,Streptomyces echinatus,1,CECT 3313,Scaffold,correct name,Yes,246,GCF_014203595.1 | Streptomyces echinatus CECT 3313 - ST 694,0,218,264
+695,GCF_014205055.1,Streptomyces luteogriseus,1,DSM 40483,Contig,correct name,Yes,14,GCF_014205055.1 | Streptomyces luteogriseus DSM 40483 - ST 695,3,16,25
+696,GCF_014205255.1,Streptomyces caelestis,6,DSM 40084,Contig,correct name,Yes,247,GCF_014205255.1 | Streptomyces caelestis DSM 40084 - ST 696,0,219,265
+697,GCF_014207295.1,Streptomyces sp.,1,AK010,Scaffold,not validly described,No,248,GCF_014207295.1 | Streptomyces sp. AK010 - ST 697,0,220,266
+698,GCF_014253015.1,Streptomyces sp.,1,TYQ1024,Contig,not validly described,No,249,GCF_014253015.1 | Streptomyces sp. TYQ1024 - ST 698,0,221,267
+699,GCF_014596915.1,Streptomyces sp.,1,TRM68416,Contig,not validly described,No,250,GCF_014596915.1 | Streptomyces sp. TRM68416 - ST 699,0,222,268
+700,GCF_014648195.1,Streptomyces purpureus,1,JCM 3172,Scaffold,correct name,Yes,72,GCF_014648195.1 | Streptomyces purpureus JCM 3172 - ST 700,1,98,135
+701,GCF_014648635.1,Streptomyces cinerochromogenes,1,JCM 3385,Scaffold,correct name,Yes,251,GCF_014648635.1 | Streptomyces cinerochromogenes JCM 3385 - ST 701,0,223,269
+702,GCF_014648655.1,Streptomyces atratus,1,JCM 3386,Scaffold,correct name,Yes,2,GCF_014648655.1 | Streptomyces atratus JCM 3386 - ST 702,1,39,57
+703,GCF_014649135.1,Streptomyces niveoruber,1,JCM 4234,Scaffold,correct name,Yes,97,GCF_014649135.1 | Streptomyces niveoruber JCM 4234 - ST 703,1,125,171
+704,GCF_014649475.1,Streptomyces daghestanicus,1,JCM 4365,Scaffold,correct name,Yes,97,GCF_014649475.1 | Streptomyces daghestanicus JCM 4365 - ST 704,1,125,171
+705,GCF_014649515.1,Streptomyces flavoviridis,1,JCM 4372,Scaffold,synonym,Yes,252,GCF_014649515.1 | Streptomyces flavoviridis JCM 4372 - ST 705,0,224,270
+706,GCF_014649535.1,Streptomyces gelaticus,1,JCM 4376,Scaffold,correct name,Yes,2,GCF_014649535.1 | Streptomyces gelaticus JCM 4376 - ST 706,1,39,60
+707,GCF_014649595.1,Streptomyces griseomycini,1,JCM 4382,Contig,correct name,Yes,96,GCF_014649595.1 | Streptomyces griseomycini JCM 4382 - ST 707,1,124,170
+708,GCF_014649875.1,Streptomyces rubiginosohelvolus,1,JCM 4415,Scaffold,correct name,Yes,2,GCF_014649875.1 | Streptomyces rubiginosohelvolus JCM 4415 - ST 708,2,37,52
+709,GCF_014649895.1,Streptomyces rubiginosus,1,JCM 4416,Scaffold,correct name,Yes,21,GCF_014649895.1 | Streptomyces rubiginosus JCM 4416 - ST 709,2,42,63
+710,GCF_014649995.1,Streptomyces griseoflavus,1,JCM 4479,Scaffold,correct name,Yes,253,GCF_014649995.1 | Streptomyces griseoflavus JCM 4479 - ST 710,0,225,271
+711,GCF_014650115.1,Streptomyces olivaceoviridis,1,JCM 4499,Scaffold,correct name,Yes,84,GCF_014650115.1 | Streptomyces olivaceoviridis JCM 4499 - ST 711,1,111,150
+712,GCF_014650135.1,Streptomyces plicatus,1,JCM 4504,Scaffold,synonym,Yes,4,GCF_014650135.1 | Streptomyces plicatus JCM 4504 - ST 712,1,68,96
+713,GCF_014650155.1,Streptomyces purpurascens,1,JCM 4509,Scaffold,correct name,Yes,254,GCF_014650155.1 | Streptomyces purpurascens JCM 4509 - ST 713,0,226,272
+714,GCF_014650435.1,Streptomyces tendae,1,JCM 4610,Scaffold,correct name,Yes,4,GCF_014650435.1 | Streptomyces tendae JCM 4610 - ST 714,1,68,101
+715,GCF_014650735.1,Streptomyces canarius,1,JCM 4733,Scaffold,correct name,Yes,255,GCF_014650735.1 | Streptomyces canarius JCM 4733 - ST 715,0,227,273
+716,GCF_014650895.1,Streptomyces omiyaensis,1,JCM 4806,Scaffold,correct name,Yes,256,GCF_014650895.1 | Streptomyces omiyaensis JCM 4806 - ST 716,0,228,274
+717,GCF_014651075.1,Streptomyces djakartensis,1,JCM 4957,Scaffold,correct name,Yes,257,GCF_014651075.1 | Streptomyces djakartensis JCM 4957 - ST 717,0,229,275
+718,GCF_014655335.1,Streptomyces griseus,1,JCM 4516,Scaffold,correct name,Yes,1,GCF_014655335.1 | Streptomyces griseus JCM 4516 - ST 718,2,1,6
+719,GCF_014655475.1,Streptomyces viridodiastaticus,1,JCM 4536,Scaffold,synonym,Yes,15,GCF_014655475.1 | Streptomyces viridodiastaticus JCM 4536 - ST 719,2,20,35
+720,GCF_014656075.1,Streptomyces hydrogenans,1,JCM 4771,Scaffold,correct name,Yes,98,GCF_014656075.1 | Streptomyces hydrogenans JCM 4771 - ST 720,1,126,172
+721,GCF_014673495.1,Streptomyces griseofuscus,7,DSM 40191,Complete Genome,correct name,Yes,6,GCF_014673495.1 | Streptomyces griseofuscus DSM 40191 - ST 721,2,90,127
+722,GCF_014701095.1,Streptomyces tuirus,5,JCM 4255,Complete Genome,correct name,Yes,14,GCF_014701095.1 | Streptomyces tuirus JCM 4255 - ST 722,1,16,30
+723,GCF_014905535.1,Streptomyces sp.,1,NE5-10,Contig,not validly described,No,98,GCF_014905535.1 | Streptomyces sp. NE5-10 - ST 723,1,126,172
+724,GCF_015163075.1,Streptomyces sp.,1,3R004,Contig,not validly described,Yes,258,GCF_015163075.1 | Streptomyces sp. 3R004 - ST 724,0,230,276
+725,GCF_015244315.1,Streptomyces olivaceus,3,SCSIO T05,Complete Genome,correct name,No,99,GCF_015244315.1 | Streptomyces olivaceus SCSIO T05 - ST 725,1,127,173
+726,GCF_015475835.1,Streptomyces sp.,1,NRRL B-1677,Scaffold,not validly described,No,259,GCF_015475835.1 | Streptomyces sp. NRRL B-1677 - ST 726,0,231,277
+727,GCF_015645455.1,Streptomyces olivaceus,1,NRRL B-3009,Contig,correct name,Yes,99,GCF_015645455.1 | Streptomyces olivaceus NRRL B-3009 - ST 727,1,127,173
+728,GCF_015680775.2,Streptomyces sp.,1,BRB081,Scaffold,not validly described,No,25,GCF_015680775.2 | Streptomyces sp. BRB081 - ST 728,2,51,73
+729,GCF_015710995.1,Streptomyces gardneri,7,ATCC 15439,Complete Genome,correct name,No,92,GCF_015710995.1 | Streptomyces gardneri ATCC 15439 - ST 729,1,120,166
+730,GCF_016432735.1,Streptomyces sp.,5,I5,Contig,not validly described,No,15,GCF_016432735.1 | Streptomyces sp. I5 - ST 730,1,20,34
+731,GCF_016457305.1,Streptomyces sp.,7,CRPSP2-6A1,Contig,not validly described,No,6,GCF_016457305.1 | Streptomyces sp. CRPSP2-6A1 - ST 731,1,90,127
+732,GCF_016467295.1,Streptomyces costaricanus,6,Am1,Complete Genome,synonym,No,6,GCF_016467295.1 | Streptomyces costaricanus Am1 - ST 732,1,90,127
+733,GCF_016612545.1,Streptomyces sp.,1,MBT65,Contig,not validly described,No,260,GCF_016612545.1 | Streptomyces sp. MBT65 - ST 733,0,232,278
+734,GCF_016654065.1,Streptomyces sp.,1,MBT59,Scaffold,not validly described,No,2,GCF_016654065.1 | Streptomyces sp. MBT59 - ST 734,2,37,52
+734,GCF_016612645.1,Streptomyces sp.,1,MBT61,Contig,not validly described,No,2,GCF_016612645.1 | Streptomyces sp. MBT61 - ST 734,2,37,52
+734,GCF_016612575.1,Streptomyces sp.,1,MBT67,Contig,not validly described,No,2,GCF_016612575.1 | Streptomyces sp. MBT67 - ST 734,2,37,52
+735,GCF_016612625.1,Streptomyces sp.,1,MBT62,Contig,not validly described,No,100,GCF_016612625.1 | Streptomyces sp. MBT62 - ST 735,1,5,14
+736,GCF_016612665.1,Streptomyces sp.,1,MBT60,Contig,not validly described,No,2,GCF_016612665.1 | Streptomyces sp. MBT60 - ST 736,1,37,52
+737,GCF_016612775.1,Streptomyces sp.,1,MBT98,Scaffold,not validly described,No,2,GCF_016612775.1 | Streptomyces sp. MBT98 - ST 737,2,37,52
+737,GCF_016612725.1,Streptomyces sp.,1,MBT54,Contig,not validly described,No,2,GCF_016612725.1 | Streptomyces sp. MBT54 - ST 737,2,37,52
+737,GCF_016612705.1,Streptomyces sp.,1,MBT56,Contig,not validly described,No,2,GCF_016612705.1 | Streptomyces sp. MBT56 - ST 737,2,37,52
+738,GCF_016613335.1,Streptomyces sp.,1,DEF147AK,Scaffold,not validly described,No,3,GCF_016613335.1 | Streptomyces sp. DEF147AK - ST 738,2,57,79
+738,GCF_016613285.1,Streptomyces sp.,1,DEF1AK,Scaffold,not validly described,No,3,GCF_016613285.1 | Streptomyces sp. DEF1AK - ST 738,2,57,79
+739,GCF_016653995.1,Streptomyces sp.,1,MBT58,Contig,not validly described,No,1,GCF_016653995.1 | Streptomyces sp. MBT58 - ST 739,1,1,5
+740,GCF_016654055.1,Streptomyces sp.,1,MBT55,Contig,not validly described,No,2,GCF_016654055.1 | Streptomyces sp. MBT55 - ST 740,1,37,52
+741,GCF_016654115.1,Streptomyces sp.,1,MBT53,Contig,not validly described,No,100,GCF_016654115.1 | Streptomyces sp. MBT53 - ST 741,1,5,14
+742,GCF_016741825.1,Streptomyces sp.,1,CH9-7,Contig,not validly described,No,78,GCF_016741825.1 | Streptomyces sp. CH9-7 - ST 742,1,103,140
+743,GCF_016741855.1,Streptomyces sp.,1,CH5-8,Contig,not validly described,Yes,261,GCF_016741855.1 | Streptomyces sp. CH5-8 - ST 743,0,233,279
+744,GCF_016741935.1,Streptomyces sp.,1,CA3R110,Contig,not validly described,No,262,GCF_016741935.1 | Streptomyces sp. CA3R110 - ST 744,0,234,280
+745,GCF_016772455.1,Streptomyces fulvissimus,1,DF,Chromosome,synonym,No,1,GCF_016772455.1 | Streptomyces fulvissimus DF - ST 745,1,1,5
+746,GCF_016803985.1,Streptomyces koyangensis,5,SCSIO 5802,Complete Genome,correct name,No,3,GCF_016803985.1 | Streptomyces koyangensis SCSIO 5802 - ST 746,3,57,79
+747,GCF_016860525.1,Streptomyces achromogenes,3,NBRC 14000,Contig,correct name,Yes,263,GCF_016860525.1 | Streptomyces achromogenes NBRC 14000 - ST 747,0,235,281
+748,GCF_016901035.1,Streptomyces sp.,1,RHZ10,Scaffold,not validly described,Yes,1,GCF_016901035.1 | Streptomyces sp. RHZ10 - ST 748,1,1,10
+749,GCF_016909575.1,Streptomyces sp.,1,HB132,Contig,not validly described,No,40,GCF_016909575.1 | Streptomyces sp. HB132 - ST 749,1,70,103
+750,GCF_016917755.1,Streptomyces noursei,1,A-2-1,Complete Genome,correct name,No,89,GCF_016917755.1 | Streptomyces noursei A-2-1 - ST 750,1,116,155
+751,GCF_017311125.1,Streptomyces sp.,6,M54,Complete Genome,not validly described,No,7,GCF_017311125.1 | Streptomyces sp. M54 - ST 751,1,96,133
+752,GCF_017358145.1,Streptomyces sp.,6,CA-256286,Complete Genome,not validly described,No,1,GCF_017358145.1 | Streptomyces sp. CA-256286 - ST 752,1,1,5
+753,GCF_017526105.1,Streptomyces cyanogenus,1,S136,Complete Genome,no record in LPSN entry,No,264,GCF_017526105.1 | Streptomyces cyanogenus S136 - ST 753,0,236,282
+754,GCF_017592595.1,Streptomyces sp.,1,NEAU-YJ-81,Scaffold,not validly described,No,55,GCF_017592595.1 | Streptomyces sp. NEAU-YJ-81 - ST 754,1,86,121
+755,GCF_017614965.1,Streptomyces griseorubiginosus,1,MPMI3,Contig,correct name,No,265,GCF_017614965.1 | Streptomyces griseorubiginosus MPMI3 - ST 755,0,237,283
+756,GCF_017877015.1,Streptomyces sp.,7,PvR006,Contig,not validly described,No,34,GCF_017877015.1 | Streptomyces sp. PvR006 - ST 756,1,62,86
+757,GCF_017933235.1,Streptomyces sp.,5,LBUM 1480,Complete Genome,not validly described,No,11,GCF_017933235.1 | Streptomyces sp. LBUM 1480 - ST 757,1,9,18
+757,GCF_017968965.1,Streptomyces sp.,5,LBUM 1486,Contig,not validly described,No,11,GCF_017968965.1 | Streptomyces sp. LBUM 1486 - ST 757,1,9,18
+758,GCF_017969005.1,Streptomyces sp.,3,LBUM 1483,Contig,not validly described,No,11,GCF_017969005.1 | Streptomyces sp. LBUM 1483 - ST 758,1,9,18
+759,GCF_017969025.1,Streptomyces sp.,2,LBUM 1481,Contig,not validly described,No,11,GCF_017969025.1 | Streptomyces sp. LBUM 1481 - ST 759,2,9,18
+760,GCF_018070055.1,Streptomyces sp.,1,RT42,Contig,not validly described,No,4,GCF_018070055.1 | Streptomyces sp. RT42 - ST 760,1,68,96
+761,GCF_018070125.1,Streptomyces sp.,1,RM99,Contig,not validly described,No,4,GCF_018070125.1 | Streptomyces sp. RM99 - ST 761,1,68,96
+762,GCF_018070145.1,Streptomyces sp.,1,RK76,Contig,not validly described,No,13,GCF_018070145.1 | Streptomyces sp. RK76 - ST 762,1,12,21
+763,GCF_018070175.1,Streptomyces sp.,1,RK74B,Contig,not validly described,No,266,GCF_018070175.1 | Streptomyces sp. RK74B - ST 763,0,53,75
+763,GCF_018070265.1,Streptomyces sp.,1,RK23,Contig,not validly described,No,266,GCF_018070265.1 | Streptomyces sp. RK23 - ST 763,0,53,75
+764,GCF_018070205.1,Streptomyces sp.,1,RM72,Contig,not validly described,No,90,GCF_018070205.1 | Streptomyces sp. RM72 - ST 764,1,118,164
+765,GCF_018070225.1,Streptomyces sp.,1,RK31,Scaffold,not validly described,No,15,GCF_018070225.1 | Streptomyces sp. RK31 - ST 765,1,20,34
+766,GCF_018070255.1,Streptomyces sp.,1,RK62,Scaffold,not validly described,No,35,GCF_018070255.1 | Streptomyces sp. RK62 - ST 766,2,63,88
+767,GCF_018070535.1,Streptomyces sp.,1,B94,Scaffold,not validly described,No,4,GCF_018070535.1 | Streptomyces sp. B94 - ST 767,3,68,98
+768,GCF_018070665.1,Streptomyces sp.,1,404i,Contig,not validly described,No,1,GCF_018070665.1 | Streptomyces sp. 404i - ST 768,2,1,2
+769,GCF_018070745.1,Streptomyces sp.,1,C3-3,Scaffold,not validly described,No,1,GCF_018070745.1 | Streptomyces sp. C3-3 - ST 769,2,1,2
+770,GCF_018128905.1,Streptomyces sp.,6,A2-16,Chromosome,not validly described,No,267,GCF_018128905.1 | Streptomyces sp. A2-16 - ST 770,0,238,284
+771,GCF_018530775.1,Streptomyces sp.,1,Tu102,Contig,not validly described,No,19,GCF_018530775.1 | Streptomyces sp. Tu102 - ST 771,1,32,47
+772,GCF_018530825.1,Streptomyces sp.,1,Tu10,Contig,not validly described,No,1,GCF_018530825.1 | Streptomyces sp. Tu10 - ST 772,2,1,2
+773,GCF_018614185.1,Streptomyces sp.,1,ISL-24,Scaffold,not validly described,No,51,GCF_018614185.1 | Streptomyces sp. ISL-24 - ST 773,1,82,116
+773,GCF_018614355.1,Streptomyces sp.,1,ISL-22,Scaffold,not validly described,No,51,GCF_018614355.1 | Streptomyces sp. ISL-22 - ST 773,1,82,116
+774,GCF_018614415.1,Streptomyces sp.,1,ISL-12,Scaffold,not validly described,No,268,GCF_018614415.1 | Streptomyces sp. ISL-12 - ST 774,0,239,285
+775,GCF_018619195.1,Streptomyces sp.,1,McG5,Contig,not validly described,No,3,GCF_018619195.1 | Streptomyces sp. McG5 - ST 775,1,57,79
+775,GCF_018619165.1,Streptomyces sp.,1,McG6,Contig,not validly described,No,3,GCF_018619165.1 | Streptomyces sp. McG6 - ST 775,1,57,79
+775,GCF_018619235.1,Streptomyces sp.,1,McG2,Contig,not validly described,No,3,GCF_018619235.1 | Streptomyces sp. McG2 - ST 775,1,57,79
+776,GCF_018619185.1,Streptomyces sp.,1,McG3,Contig,not validly described,No,1,GCF_018619185.1 | Streptomyces sp. McG3 - ST 776,1,1,11
+777,GCF_018638305.1,Streptomyces sp.,1,Vc74B-19,Contig,not validly described,No,269,GCF_018638305.1 | Streptomyces sp. Vc74B-19 - ST 777,0,240,286
+778,GCF_018638335.1,Streptomyces sp.,1,G11C,Contig,not validly described,No,3,GCF_018638335.1 | Streptomyces sp. G11C - ST 778,1,57,79
+779,GCF_018966745.1,Streptomyces sp.,1,PAM3C,Scaffold,not validly described,No,15,GCF_018966745.1 | Streptomyces sp. PAM3C - ST 779,1,20,34
+780,GCF_018982965.1,Streptomyces sp.,1,A108,Contig,not validly described,No,270,GCF_018982965.1 | Streptomyces sp. A108 - ST 780,0,241,287
+781,GCF_019049125.1,Streptomyces sp.,1,AC602_WCS936,Scaffold,not validly described,No,4,GCF_019049125.1 | Streptomyces sp. AC602_WCS936 - ST 781,2,68,97
+782,GCF_019049185.1,Streptomyces anulatus,1,AC569_RSS891,Scaffold,correct name,No,1,GCF_019049185.1 | Streptomyces anulatus AC569_RSS891 - ST 782,1,1,2
+783,GCF_019049245.1,Streptomyces sp.,1,AC555_RSS877,Scaffold,not validly described,No,271,GCF_019049245.1 | Streptomyces sp. AC555_RSS877 - ST 783,0,242,288
+784,GCF_019049255.1,Streptomyces sp.,1,AC558_RSS880,Scaffold,not validly described,No,272,GCF_019049255.1 | Streptomyces sp. AC558_RSS880 - ST 784,0,243,289
+785,GCF_019049285.1,Streptomyces sp.,1,AC550_RSS872,Scaffold,not validly described,No,273,GCF_019049285.1 | Streptomyces sp. AC550_RSS872 - ST 785,0,244,290
+786,GCF_019067045.1,Streptomyces sp.,1,NK08203,Contig,not validly described,No,3,GCF_019067045.1 | Streptomyces sp. NK08203 - ST 786,1,57,79
+787,GCF_019090105.1,Streptomyces sp.,1,BV129,Contig,not validly described,No,56,GCF_019090105.1 | Streptomyces sp. BV129 - ST 787,1,87,123
+788,GCF_900079405.2,Streptomyces sp.,1,,Scaffold,not validly described,No,37,GCF_900079405.2 | Streptomyces sp. nan - ST 788,2,65,92
+789,GCF_900079415.1,Streptomyces sp.,1,,Scaffold,not validly described,No,15,GCF_900079415.1 | Streptomyces sp. nan - ST 789,1,20,35
+790,GCF_900091315.1,Streptomyces sp.,1,DI166,Contig,not validly described,No,274,GCF_900091315.1 | Streptomyces sp. DI166 - ST 790,0,245,291
+791,GCF_900091865.1,Streptomyces sp.,1,DvalAA-19,Contig,not validly described,No,2,GCF_900091865.1 | Streptomyces sp. DvalAA-19 - ST 791,1,37,56
+792,GCF_900091875.1,Streptomyces sp.,1,BpilaLS-43,Contig,not validly described,No,26,GCF_900091875.1 | Streptomyces sp. BpilaLS-43 - ST 792,1,52,74
+793,GCF_900091905.1,Streptomyces sp.,1,OspMP-M43,Scaffold,not validly described,No,1,GCF_900091905.1 | Streptomyces sp. OspMP-M43 - ST 793,1,1,1
+794,GCF_900092005.1,Streptomyces sp.,1,Cmuel-A718b,Contig,not validly described,No,2,GCF_900092005.1 | Streptomyces sp. Cmuel-A718b - ST 794,1,37,53
+795,GCF_900104815.1,Streptomyces misionensis,4,DSM 40306,Contig,correct name,Yes,37,GCF_900104815.1 | Streptomyces misionensis DSM 40306 - ST 795,1,65,92
+796,GCF_900105265.1,Streptomyces sp.,1,3213,Contig,not validly described,No,275,GCF_900105265.1 | Streptomyces sp. 3213 - ST 796,0,246,292
+797,GCF_900105395.1,Streptomyces sp.,10,TLI_053,Chromosome,not validly described,No,276,GCF_900105395.1 | Streptomyces sp. TLI_053 - ST 797,0,247,293
+798,GCF_900105465.1,Streptomyces sp.,5,PAN_FS17,Contig,not validly described,No,19,GCF_900105465.1 | Streptomyces sp. PAN_FS17 - ST 798,1,32,47
+799,GCF_900105605.1,Streptomyces sp.,6,2231.1,Contig,not validly described,No,88,GCF_900105605.1 | Streptomyces sp. 2231.1 - ST 799,1,115,154
+800,GCF_900105915.1,Streptomyces sp.,7,2224.1,Contig,not validly described,No,23,GCF_900105915.1 | Streptomyces sp. 2224.1 - ST 800,1,47,69
+801,GCF_900119365.1,Streptomyces atratus,1,OK807,Scaffold,correct name,No,277,GCF_900119365.1 | Streptomyces atratus OK807 - ST 801,0,248,294
+802,GCF_900171555.1,Streptomyces albidoflavus,1,R-53649,Scaffold,correct name,No,3,GCF_900171555.1 | Streptomyces albidoflavus R-53649 - ST 802,1,57,79
+803,GCF_900206255.1,Streptomyces sp.,4,TLI_55,Contig,not validly described,No,278,GCF_900206255.1 | Streptomyces sp. TLI_55 - ST 803,0,249,295
+804,GCF_900215595.1,Streptomyces sp.,6,1222.2,Contig,not validly described,No,80,GCF_900215595.1 | Streptomyces sp. 1222.2 - ST 804,1,107,146
+805,GCF_900215615.1,Streptomyces sp.,6,Ag82_G6-1,Contig,not validly described,No,14,GCF_900215615.1 | Streptomyces sp. Ag82_G6-1 - ST 805,2,16,26
